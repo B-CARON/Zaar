@@ -84,13 +84,13 @@
 # text_en =  Were you a chief or what were you?
 1	kóː	kóː	CONJ<	_	_	_	_	_	AlignBegin=13793|AlignEnd=13961|nWord=1|Gloss=or|GE=or|RX=[CONJ<]
 2	ki	ki	VERB	_	Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=13961|AlignEnd=14129|nWord=2|Gloss=2SG.be|GE=[2SG].[be]|RX=[PRO].[V*]
-3	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=14129|AlignEnd=14297|nWord=3|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+3	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=14129|AlignEnd=14297|nWord=3|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 4	sə́ŋwaːrí	sə́ŋwaːrí	NOUN	_	_	_	_	_	AlignBegin=14297|AlignEnd=14465|nWord=4|Gloss=chief_priest|GE=chief_priest|RX=[N]
 5	a:	a:	PART	_	PartType=Int	_	_	_	AlignBegin=14465|AlignEnd=14633|nWord=5|Gloss=VRT|GE=[VRT]|RX=[PTCL].[ASS]
 6	|c	|c	PART	_	_	_	_	_	AlignBegin=14633|AlignEnd=14802|nWord=6|GE=$c
 7	kóː	kóː	CONJ<	_	_	_	_	_	AlignBegin=14802|AlignEnd=14928|nWord=7|Gloss=or|GE=or|RX=[CONJ<]
 8	ki	ki	VERB	_	Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=14928|AlignEnd=15054|nWord=8|Gloss=2SG.be|GE=[2SG].[be]|RX=[PRO].[V*]
-9	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=15054|AlignEnd=15180|nWord=9|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+9	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=15054|AlignEnd=15180|nWord=9|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 10	niː	niː	PUNCT	_	_	_	_	_	AlignBegin=15180|AlignEnd=15306|nWord=10|Gloss=what|GE=what|RX=[PRO].[Q]
 11	//	//	PUNCT	_	_	_	_	_	AlignBegin=15306|AlignEnd=15433|nWord=11|Gloss=PUNCT|GE=[//]
 
@@ -150,7 +150,7 @@
 10	séː	séː	SCONJ	_	_	_	_	_	AlignBegin=24280|AlignEnd=24433|nWord=9|Gloss=only_if|GE=only_if|RX=[CONJ]
 11	deː	deː	ADV	_	_	_	_	_	AlignBegin=24433|AlignEnd=24586|nWord=10|Gloss=anyway|GE=anyway|RX=[ADV]
 12	mì	mì	VERB	_	Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=24586|AlignEnd=24739|nWord=11|Gloss=1PL.be|GE=[1PL].[be]|RX=[PRO].[V*]
-13	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=24739|AlignEnd=24892|nWord=12|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+13	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=24739|AlignEnd=24892|nWord=12|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 14	məːri	məːri	_	_	Number=Plur	_	_	_	AlignBegin=24892|AlignEnd=25045|nWord=13|Gloss=children|GE=children|RX=[N].[PL]
 15	//	//	PUNCT	_	_	_	_	_	AlignBegin=25045|AlignEnd=25200|nWord=14|Gloss=PUNCT|GE=[//]
 
@@ -238,11 +238,11 @@
 # text = kóː nə yǎːr |c kóː nə páːtsə wón tə́ ngâː < tə́ || tə́ || tə́ dàp ká lə̂p volɲês //
 # text_en =  Whether it is straw, or some leaf they have taken,  they... they they tied them at the groundnut place.
 1	kóː	kóː	SCONJ	_	_	_	_	_	AlignBegin=37292|AlignEnd=37439|nWord=1|Gloss=or|GE=or|RX=[CONJ]
-2	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=37439|AlignEnd=37586|nWord=2|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+2	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=37439|AlignEnd=37586|nWord=2|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 3	yǎːr	yǎːr	NOUN	_	_	_	_	_	AlignBegin=37586|AlignEnd=37733|nWord=3|Gloss=grass|GE=grass|RX=[N]
 4	|c	|c	NOUN	_	_	_	_	_	AlignBegin=37733|AlignEnd=37880|nWord=4|GE=$c
 5	kóː	kóː	SCONJ	_	_	_	_	_	AlignBegin=38520|AlignEnd=38673|nWord=5|Gloss=or|GE=or|RX=[CONJ]
-6	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=38673|AlignEnd=38826|nWord=6|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+6	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=38673|AlignEnd=38826|nWord=6|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 7	páːtsə	páːtsə	NOUN	_	_	_	_	_	AlignBegin=38826|AlignEnd=38979|nWord=7|Gloss=leaf|GE=leaf|RX=[N]
 8	wón	wón	DET	_	Definite=Spec	_	_	_	AlignBegin=38979|AlignEnd=39132|nWord=8|Gloss=QLT|GE=[QLT]|RX=[DET]
 9	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=39132|AlignEnd=39285|nWord=9|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
@@ -322,10 +322,10 @@
 13	ʧǎː	ʧǎː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=50559|AlignEnd=50731|nWord=11|Gloss=3PL.ICPL|GE=[3PL].[ICPL]|RX=[PNTAM]
 14	wul	wul	VERB	_	_	_	_	_	AlignBegin=50731|AlignEnd=50903|nWord=12|Gloss=say|GE=say|RX=[V]
 15	tu	tu	PART	_	_	_	_	_	AlignBegin=50903|AlignEnd=51075|nWord=13|Gloss=COMP|GE=[COMP]|RX=[PTCL]
-16	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=51075|AlignEnd=51247|nWord=14|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+16	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=51075|AlignEnd=51247|nWord=14|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 17	wâːr	wâːr	NOUN	_	_	_	_	_	AlignBegin=51247|AlignEnd=51419|nWord=15|Gloss=fetish|GE=fetish|RX=[N]
 18	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=51419|AlignEnd=51591|nWord=16|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
-19	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=51591|AlignEnd=51763|nWord=17|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+19	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=51591|AlignEnd=51763|nWord=17|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 20	murgi	murgi	NOUN	_	_	_	_	_	AlignBegin=51763|AlignEnd=51935|nWord=18|Gloss=fetish_sp|GE=fetish_sp|RX=[N]
 21	oː	oː	PART	_	PartType=Emp	_	_	_	AlignBegin=51935|AlignEnd=52107|nWord=19|Gloss=EMPH|GE=[EMPH]|RX=[PTCL].[ASS]
 22	//	//	PUNCT	_	_	_	_	_	AlignBegin=52107|AlignEnd=52273|nWord=20|Gloss=PUNCT|GE=[//]
@@ -466,7 +466,7 @@
 1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=77920|AlignEnd=78174|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
 2	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=78174|AlignEnd=78428|nWord=2|Gloss=PL|GE=[PL]|RX=[DET]
 3	gón	gón	PRON	_	Definite=Spec	_	_	_	AlignBegin=78428|AlignEnd=78681|nWord=3|Gloss=QLT|GE=[QLT]|RX=[PRO]
-4	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=78681|AlignEnd=78881|nWord=4|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+4	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=78681|AlignEnd=78881|nWord=4|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 5	Kùdaŋ	Kùdaŋ	NOUN	_	_	_	_	_	AlignBegin=78881|AlignEnd=79081|nWord=5|Gloss=masquerade.sp|GE=masquerade.sp|RX=[N]
 6	//	//	PUNCT	_	_	_	_	_	AlignBegin=79081|AlignEnd=79280|nWord=6|Gloss=PUNCT|GE=[//]
 
@@ -479,9 +479,9 @@
 # text_en =  As for 'Kudang', it was...  'Bamlar' they used.
 1	Kùdaŋ	Kùdaŋ	NOUN	_	_	_	_	_	AlignBegin=80380|AlignEnd=80695|nWord=1|Gloss=masquerade.sp|GE=masquerade.sp|RX=[N]
 2	kúmá	kúmá	PART	_	_	_	_	_	AlignBegin=80695|AlignEnd=81010|nWord=2|Gloss=too|GE=too|RX=[PTCL].[TOP]
-3	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=81010|AlignEnd=81325|nWord=3|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+3	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=81010|AlignEnd=81325|nWord=3|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 4	Bámlǎːr	Bámlǎːr	NOUN	_	_	_	_	_	AlignBegin=81325|AlignEnd=81516|nWord=4|Gloss=plant.sp|GE=plant.sp|RX=[N]
-5	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=81516|AlignEnd=81707|nWord=5|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+5	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=81516|AlignEnd=81707|nWord=5|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 6	ʧǎː	ʧǎː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=81707|AlignEnd=81898|nWord=6|Gloss=3PL.ICPL|GE=[3PL].[ICPL]|RX=[PNTAM]
 7	ʧaː	ʧaː	VERB	_	_	_	_	_	AlignBegin=81898|AlignEnd=82089|nWord=7|Gloss=put|GE=put|RX=[V]
 8	//	//	PUNCT	_	_	_	_	_	AlignBegin=82089|AlignEnd=82280|nWord=8|Gloss=PUNCT|GE=[//]
@@ -515,9 +515,9 @@
 7	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=85505|AlignEnd=85658|nWord=6|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
 8	wul	wul	VERB	_	_	_	_	_	AlignBegin=85658|AlignEnd=85811|nWord=7|Gloss=say|GE=say|RX=[V]
 9	tu	tu	PART	_	_	_	_	_	AlignBegin=85811|AlignEnd=85964|nWord=8|Gloss=COMP|GE=[COMP]|RX=[PTCL]
-10	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=85964|AlignEnd=86117|nWord=9|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+10	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=85964|AlignEnd=86117|nWord=9|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 11	kùdaŋ	kùdaŋ	NOUN	_	_	_	_	_	AlignBegin=86117|AlignEnd=86270|nWord=10|Gloss=masquerade.sp|GE=masquerade.sp|RX=[N]
-12	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=86270|AlignEnd=86423|nWord=11|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+12	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=86270|AlignEnd=86423|nWord=11|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 13	kóː	kóː	SCONJ	_	_	_	_	_	AlignBegin=86423|AlignEnd=86576|nWord=12|Gloss=or|GE=or|RX=[CONJ]
 14	Žìʒî	Žìʒî	NOUN	_	_	_	_	_	AlignBegin=86576|AlignEnd=86729|nWord=13|Gloss=masquerade.sp|GE=masquerade.sp|RX=[N]
 15	//	//	PUNCT	_	_	_	_	_	AlignBegin=86729|AlignEnd=86880|nWord=14|Gloss=PUNCT|GE=[//]
@@ -629,7 +629,7 @@
 1	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=104460|AlignEnd=104629|nWord=1|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
 2	wul	wul	VERB	_	_	_	_	_	AlignBegin=104629|AlignEnd=104798|nWord=2|Gloss=say|GE=say|RX=[V]
 3	tu	tu	PART	_	_	_	_	_	AlignBegin=104798|AlignEnd=104967|nWord=3|Gloss=COMP|GE=[COMP]|RX=[PTCL]
-4	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=104967|AlignEnd=105136|nWord=4|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+4	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=104967|AlignEnd=105136|nWord=4|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 5	ʒìːʒîː	ʒìːʒîː	NOUN	_	_	_	_	_	AlignBegin=105136|AlignEnd=105305|nWord=5|Gloss=fetish.sp|GE=fetish.sp|RX=[N]
 6	ɗányâːl	ɗányâːl	DET	_	_	_	_	_	AlignBegin=105305|AlignEnd=105389|nWord=6|Gloss=as_it_is|GE=as_it_is|RX=[DET]
 7	-íː	-íː	DET	_	PronType=Dem	_	_	_	AlignBegin=105389|AlignEnd=105474|nWord=6|Gloss=DIST|GE=[DIST]|RX=[DEICT]
@@ -748,12 +748,12 @@
 10	<	<	PUNCT	_	_	_	_	_	AlignBegin=125344|AlignEnd=125560|nWord=9|Gloss=PUNCT|GE=[<]
 11	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=125781|AlignEnd=125941|nWord=10|Gloss=3SG.POS|GE=[3SG].[POS]|RX=[PRO]
 12	<	<	PUNCT	_	_	_	_	_	AlignBegin=125941|AlignEnd=126100|nWord=11|Gloss=PUNCT|GE=[<]
-13	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=126900|AlignEnd=127037|nWord=12|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+13	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=126900|AlignEnd=127037|nWord=12|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 14	yêr	yêr	NOUN	_	_	_	_	_	AlignBegin=127037|AlignEnd=127174|nWord=13|Gloss=thatch|GE=thatch|RX=[N]
-15	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=127174|AlignEnd=127311|nWord=14|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+15	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=127174|AlignEnd=127311|nWord=14|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 16	ʧǎː	ʧǎː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=127311|AlignEnd=127448|nWord=15|Gloss=3PL.ICPL|GE=[3PL].[ICPL]|RX=[PNTAM]
 17	||	||	AUX	_	_	_	_	_	AlignBegin=127448|AlignEnd=127587|nWord=16|GE=[$$]
-18	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=127587|AlignEnd=127732|nWord=17|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+18	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=127587|AlignEnd=127732|nWord=17|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 19	yêr	yêr	NOUN	_	_	_	_	_	AlignBegin=127732|AlignEnd=127877|nWord=18|Gloss=thatch|GE=thatch|RX=[N]
 20	fuŋ	fuŋ	NOUN	_	_	_	_	_	AlignBegin=127877|AlignEnd=128022|nWord=19|Gloss=granary|GE=granary|RX=[N]
 21	ʧǎː	ʧǎː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=128022|AlignEnd=128167|nWord=20|Gloss=3PL.ICPL|GE=[3PL].[ICPL]|RX=[PNTAM]
@@ -809,7 +809,7 @@
 1	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=137180|AlignEnd=137356|nWord=1|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
 2	naː	naː	VERB	_	_	_	_	_	AlignBegin=137356|AlignEnd=137444|nWord=2|Gloss=become|GE=become|RX=[V]
 3	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=137444|AlignEnd=137532|nWord=2|Gloss=RES|GE=[RES]|RX=[TAM]
-4	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=137532|AlignEnd=137708|nWord=3|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+4	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=137532|AlignEnd=137708|nWord=3|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 5	ndómtsə	ndómtsə	NOUN	_	_	_	_	_	AlignBegin=137708|AlignEnd=137884|nWord=4|Gloss=leper|GE=leper|RX=[N]
 6	//	//	PUNCT	_	_	_	_	_	AlignBegin=137884|AlignEnd=138060|nWord=5|Gloss=PUNCT|GE=[//]
 
@@ -952,7 +952,7 @@
 1	wâːr	wâːr	NOUN	_	_	_	_	_	AlignBegin=164860|AlignEnd=165020|nWord=1|Gloss=fetish|GE=fetish|RX=[N]
 2	ɗa	ɗa	PRON	_	PronType=Rel	_	_	_	AlignBegin=165020|AlignEnd=165180|nWord=2|Gloss=REL|GE=[REL]|RX=[REL].[HOM]
 3	átáyi	átáyi	ADV	_	_	_	_	_	AlignBegin=165180|AlignEnd=165340|nWord=3|Gloss=formerly|GE=formerly|RX=[ADV]
-4	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=165340|AlignEnd=165500|nWord=4|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+4	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=165340|AlignEnd=165500|nWord=4|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 5	//	//	PUNCT	_	_	_	_	_	AlignBegin=165500|AlignEnd=165661|nWord=5|Gloss=PUNCT|GE=[//]
 
 # sent_id = SAY_BC_INT_01_Religion_103-103
@@ -1079,7 +1079,7 @@
 2	káː	káː	AUX	_	Aspect=Perf|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=184774|AlignEnd=184928|nWord=2|Gloss=2SG.CPL|GE=[2SG].[CPL]|RX=[PNTAM]
 3	fi	fi	VERB	_	_	_	_	_	AlignBegin=184928|AlignEnd=185082|nWord=3|Gloss=do|GE=do|RX=[V]
 4	lêːfí	lêːfí	NOUN	_	_	_	_	_	AlignBegin=185082|AlignEnd=185236|nWord=4|Gloss=fault|GE=fault|RX=[N]
-5	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=185236|AlignEnd=185390|nWord=5|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+5	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=185236|AlignEnd=185390|nWord=5|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 6	ŋâː	ŋâː	PART	_	PartType=Int|Polarity=Neg	_	_	_	AlignBegin=185390|AlignEnd=185544|nWord=6|Gloss=Q.NEG|GE=[Q].[NEG]|RX=[PTCL].[ASS]
 7	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=185544|AlignEnd=185700|nWord=7|Gloss=PUNCT|GE=[?//]
 
@@ -1106,7 +1106,7 @@
 # phonetic_text = nə niː ?// 
 # text = nə niː ?//
 # text_en =  What is it?
-1	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=187630|AlignEnd=187760|nWord=1|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+1	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=187630|AlignEnd=187760|nWord=1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 2	niː	niː	PUNCT	_	_	_	_	_	AlignBegin=187760|AlignEnd=187890|nWord=2|Gloss=what|GE=what|RX=[PRO].[Q]
 3	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=187890|AlignEnd=188019|nWord=3|Gloss=PUNCT|GE=[?//]
 
@@ -1151,7 +1151,7 @@
 9	-ɗi	-ɗi	PART	_	VerbForm=Ctp	_	_	_	AlignBegin=192034|AlignEnd=192096|nWord=7|Gloss=CTP|GE=[CTP]|RX=[PTCL]
 10	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=192096|AlignEnd=192284|nWord=8|Gloss=that|GE=that|RX=[REL]
 11	ʧi	ʧi	VERB	_	Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=192284|AlignEnd=192472|nWord=9|Gloss=3SG.be|GE=[3SG].[be]|RX=[V*]
-12	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=192472|AlignEnd=192660|nWord=10|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+12	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=192472|AlignEnd=192660|nWord=10|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 13	sə́ŋwaːrí	sə́ŋwaːrí	NOUN	_	_	_	_	_	AlignBegin=192660|AlignEnd=192848|nWord=11|Gloss=chief_priest|GE=chief_priest|RX=[N]
 14	<	<	PUNCT	_	_	_	_	_	AlignBegin=192848|AlignEnd=193040|nWord=12|Gloss=PUNCT|GE=[<]
 15	tòː	tòː	PART	_	_	_	_	_	AlignBegin=193720|AlignEnd=193874|nWord=13|Gloss=DM|GE=[DM]|RX=[PTCL]
@@ -1324,17 +1324,17 @@
 # text_en =  Well then... that was life when we were pagans.
 1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=220860|AlignEnd=221030|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
 2	ɗáni	ɗáni	ADV	_	PronType=Dem	_	_	_	AlignBegin=221030|AlignEnd=221200|nWord=2|Gloss=there|GE=there|RX=[ADVDEICT]
-3	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=221200|AlignEnd=221370|nWord=3|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+3	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=221200|AlignEnd=221370|nWord=3|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 4	<	<	PUNCT	_	_	_	_	_	AlignBegin=221370|AlignEnd=221540|nWord=4|Gloss=PUNCT|GE=[<]
 5	tsə́tn	tsə́tn	VERB	_	_	_	_	_	AlignBegin=221780|AlignEnd=221887|nWord=5|Gloss=sit|GE=sit|RX=[V]
 6	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=221887|AlignEnd=221994|nWord=5|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
 7	=wôpm	=wôpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=221994|AlignEnd=222100|nWord=5|Gloss=1PL.POS|GE=[1PL].[POS]|RX=[PRO]
-8	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=222100|AlignEnd=222420|nWord=6|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+8	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=222100|AlignEnd=222420|nWord=6|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 9	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=222620|AlignEnd=222848|nWord=7|Gloss=that|GE=that|RX=[REL]
 10	mə̀tàyiká	mə̀tàyiká	AUX	_	Aspect=Iter,Prog|Tense=Rem	_	_	_	AlignBegin=222848|AlignEnd=223076|nWord=8|Gloss=REM.ITER.CONT|GE=[REM].[ITER].[CONT]|RX=[PNTAM]
 11	tsáːfi	tsáːfi	NOUN	_	_	_	_	_	AlignBegin=223076|AlignEnd=223190|nWord=9|Gloss=paganism|GE=paganism|RX=[N]
 12	-ês	-ês	DET	_	Definite=Def	_	_	_	AlignBegin=223190|AlignEnd=223304|nWord=9|Gloss=DEF|GE=[DEF]|RX=[ART]
-13	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=223304|AlignEnd=223532|nWord=10|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+13	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=223304|AlignEnd=223532|nWord=10|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 14	//	//	PUNCT	_	_	_	_	_	AlignBegin=223532|AlignEnd=223760|nWord=11|Gloss=PUNCT|GE=[//]
 
 # sent_id = SAY_BC_INT_01_Religion_139-140
@@ -1836,7 +1836,7 @@
 7	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=312298|AlignEnd=312411|nWord=7|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
 8	tsə́tn	tsə́tn	VERB	_	_	_	_	_	AlignBegin=312411|AlignEnd=312467|nWord=8|Gloss=sit|GE=sit|RX=[V]
 9	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=312467|AlignEnd=312524|nWord=8|Gloss=RES|GE=[RES]|RX=[TAM]
-10	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=312524|AlignEnd=312637|nWord=9|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+10	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=312524|AlignEnd=312637|nWord=9|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 11	//	//	PUNCT	_	_	_	_	_	AlignBegin=312637|AlignEnd=312753|nWord=10|Gloss=PUNCT|GE=[//]
 
 # sent_id = SAY_BC_INT_01_Religion_193-197
@@ -1860,7 +1860,7 @@
 12	ɬə	ɬə	VERB	_	_	_	_	_	AlignBegin=315323|AlignEnd=315606|nWord=12|Gloss=go|GE=go|RX=[V]
 13	fi	fi	VERB	_	_	_	_	_	AlignBegin=315606|AlignEnd=315748|nWord=13|Gloss=do|GE=do|RX=[V]
 14	-ɗi	-ɗi	PART	_	VerbForm=Ctp	_	_	_	AlignBegin=315748|AlignEnd=315889|nWord=13|Gloss=CTP|GE=[CTP]|RX=[PTCL]
-15	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=315889|AlignEnd=316172|nWord=14|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+15	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=315889|AlignEnd=316172|nWord=14|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 16	mə̂ːr	mə̂ːr	NOUN	_	_	_	_	_	AlignBegin=316172|AlignEnd=316314|nWord=15|Gloss=stealing|GE=stealing|RX=[N]
 17	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=316314|AlignEnd=316455|nWord=15|Gloss=INDF|GE=[INDF]|RX=[ART]
 18	XX	XX	X	_	_	_	_	_	AlignBegin=316455|AlignEnd=316738|nWord=16|Gloss=XX|GE=[XX]|RX=[XX]
@@ -1988,7 +1988,7 @@
 28	<	<	PUNCT	_	_	_	_	_	AlignBegin=331724|AlignEnd=331880|nWord=26|Gloss=PUNCT|GE=[<]
 29	tòː	tòː	PART	_	_	_	_	_	AlignBegin=332940|AlignEnd=333160|nWord=27|Gloss=DM|GE=[DM]|RX=[PTCL]
 30	ɗáni	ɗáni	ADV	_	PronType=Dem	_	_	_	AlignBegin=333160|AlignEnd=333380|nWord=28|Gloss=there|GE=there|RX=[ADVDEICT]
-31	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=333380|AlignEnd=333600|nWord=29|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+31	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=333380|AlignEnd=333600|nWord=29|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 32	<	<	PUNCT	_	_	_	_	_	AlignBegin=333600|AlignEnd=333820|nWord=30|Gloss=PUNCT|GE=[<]
 33	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=334160|AlignEnd=334470|nWord=31|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
 34	naː	naː	VERB	_	_	_	_	_	AlignBegin=334470|AlignEnd=334625|nWord=32|Gloss=become|GE=become|RX=[V]
@@ -2030,7 +2030,7 @@
 # text_en =  Well, what is it that you like in the Christian faith, and what do you like in paganism?
 1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=339360|AlignEnd=339592|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
 2	niː	niː	PUNCT	_	_	_	_	_	AlignBegin=339592|AlignEnd=339824|nWord=2|Gloss=what|GE=what|RX=[PRO].[Q]
-3	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=339824|AlignEnd=340056|nWord=3|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+3	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=339824|AlignEnd=340056|nWord=3|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
 4	á	á	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=340056|AlignEnd=340288|nWord=4|Gloss=3SG.AOR|GE=[3SG].[AOR]|RX=[PNTAM]
 5	pol	pol	VERB	_	_	_	_	_	AlignBegin=340288|AlignEnd=340404|nWord=5|Gloss=please|GE=please|RX=[V]
 6	=kə	=kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=340404|AlignEnd=340520|nWord=5|Gloss=2SG.OBJ|GE=[2SG].[OBJ]|RX=[PRO]
@@ -2358,7 +2358,7 @@
 2	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=402908|AlignEnd=403116|nWord=2|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
 3	átâ	átâ	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=403116|AlignEnd=403324|nWord=3|Gloss=3SG.REM|GE=[3SG].[REM]|RX=[PNTAM]
 4	yi	yi	VERB	_	_	_	_	_	AlignBegin=403324|AlignEnd=403532|nWord=4|Gloss=be|GE=be|RX=[V]
-5	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=403532|AlignEnd=403740|nWord=5|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+5	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=403532|AlignEnd=403740|nWord=5|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 6	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=403740|AlignEnd=403948|nWord=6|Gloss=thing|GE=thing|RX=[N]
 7	kə́	kə́	ADP	_	_	_	_	_	AlignBegin=403948|AlignEnd=404156|nWord=7|Gloss=POSL|GE=[POSL]|RX=[PTCL]
 8	lə̂p	lə̂p	NOUN	_	_	_	_	_	AlignBegin=404156|AlignEnd=404364|nWord=8|Gloss=place|GE=place|RX=[N]
@@ -2485,7 +2485,7 @@
 17	wò	wò	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=423196|AlignEnd=423378|nWord=15|Gloss=3SG.FUT|GE=[3SG].[FUT]|RX=[PNTAM]
 18	naː	naː	VERB	_	_	_	_	_	AlignBegin=423378|AlignEnd=423469|nWord=16|Gloss=become|GE=become|RX=[V]
 19	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=423469|AlignEnd=423560|nWord=16|Gloss=RES|GE=[RES]|RX=[TAM]
-20	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=423560|AlignEnd=423742|nWord=17|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+20	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=423560|AlignEnd=423742|nWord=17|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 21	ndómtsə	ndómtsə	NOUN	_	_	_	_	_	AlignBegin=423742|AlignEnd=423924|nWord=18|Gloss=leper|GE=leper|RX=[N]
 22	|c	|c	NOUN	_	_	_	_	_	AlignBegin=423924|AlignEnd=424107|nWord=19|GE=$c
 23	gyaːgón	gyaːgón	PRON	_	Definite=Spec|Number=Plur	_	_	_	AlignBegin=424475|AlignEnd=424717|nWord=20|Gloss=QLT.PL|GE=[QLT].[PL]|RX=[PRO]
@@ -2555,7 +2555,7 @@
 8	ndará	ndará	VERB	_	_	_	_	_	AlignBegin=430714|AlignEnd=430783|nWord=8|Gloss=be_proper|GE=be_proper|RX=[V]
 9	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=430783|AlignEnd=430852|nWord=8|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
 10	=wôs	=wôs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=430852|AlignEnd=430921|nWord=8|Gloss=3SG.POS|GE=[3SG].[POS]|RX=[PRO]
-11	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=430921|AlignEnd=431128|nWord=9|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+11	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=430921|AlignEnd=431128|nWord=9|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
 12	gyôː	gyôː	PUNCT	_	_	_	_	_	AlignBegin=431128|AlignEnd=431335|nWord=10|Gloss=which|GE=which|RX=[PRO].[Q]
 13	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=431335|AlignEnd=431540|nWord=11|Gloss=PUNCT|GE=[?//]
 
