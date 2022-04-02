@@ -561,7 +561,7 @@
 5	gón	gón	PRON	_	Definite=Spec	_	_	_	AlignBegin=65759|AlignEnd=65937|nWord=5|Gloss=QLT|GE=[QLT]|RX=[PRO]
 6	nə	nə	PART	_	_	_	_	_	AlignBegin=65937|AlignEnd=66115|nWord=6|Gloss=of|GE=of|RX=[PTCL].[SYNT]
 7	ʒà	ʒà	NOUN	_	_	_	_	_	AlignBegin=66115|AlignEnd=66203|nWord=7|Gloss=honey|GE=honey|RX=[N]
-8	-i	-i	NOUN	_	_	_	_	_	AlignBegin=66203|AlignEnd=66292|nWord=7|RX=[DET]
+8	-i	-i	NOUN	_	_	_	_	_	AlignBegin=66203|AlignEnd=66292|nWord=7|Gloss=__MISSING__|RX=[DET]
 9	kwǎː	kwǎː	PART	_	PartType=Emp	_	_	_	AlignBegin=66292|AlignEnd=66506|nWord=8|Gloss=EMPH|GE=[EMPH]|RX=[PTCL].[TOP]
 10	ŋaː	ŋaː	ADJ	_	_	_	_	_	AlignBegin=66506|AlignEnd=66720|nWord=9|Gloss=small|GE=small|RX=[ADJ]
 11	gwaɬka	gwaɬka	ADJ	_	_	_	_	_	AlignBegin=66720|AlignEnd=66827|nWord=10|Gloss=shining|GE=shining|RX=[ADJ]
