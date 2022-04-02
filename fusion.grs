@@ -1,0 +1,58 @@
+% The package [init] add features [MGloss] and [MSeg] on each tokens which will be concerned by the next package [suff].
+package init {
+  rule stem {
+    pattern {
+      STEM < SUFF;
+      STEM [!MGloss];
+      SUFF [form = re"-.*"];
+      STEM.nWord = SUFF.nWord;
+    }
+    commands {
+      STEM.MGloss = STEM.Gloss;
+      STEM.MSeg = STEM.lemma;
+    }
+  }
+
+  rule suff {
+    pattern {
+      SUFF [form = re"-.*", !MGloss];
+    }
+    commands {
+      SUFF.MGloss = SUFF.Gloss;
+      SUFF.MSeg = SUFF.lemma;
+    }
+  }
+}
+
+% The merging operations
+package suff {
+  rule suffix {
+    pattern {
+      STEM < SUFF;
+      STEM [];
+      SUFF [form = re"-.*"];
+      STEM.nWord = SUFF.nWord;
+    }
+    without { 
+      % force the application order if there is more than one suffixes
+      % "a -b -c" is rewritten "a-b -c" and then "a-b-c" ("a-b -c" is avoided by this without)
+      PRE[form = re"-.*"]; PRE < STEM;
+    }
+    commands {
+      STEM.form = STEM.form + SUFF.form;
+      append_feats SUFF =[re"RX\|GE\|Number\|Gender\|Case\|Person\|Aspect\|PronType"]=> STEM;
+      append_feats SUFF =[re"MGloss"]=> STEM;
+      append_feats SUFF =[re"MSeg"]=> STEM;
+      STEM.AlignEnd = SUFF.AlignEnd;
+      del_node SUFF;
+    }
+  }
+}
+
+strat main { 
+  Seq(
+    Onf (init),
+    Onf (suff),
+    ) 
+  }
+
