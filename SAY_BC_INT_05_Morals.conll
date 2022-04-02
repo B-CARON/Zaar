@@ -1,0 +1,1950 @@
+
+# sent_id = SAY_BC_INT_05_Morals_005-005
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 6880, 7420
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=6880|AlignEnd=7150|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=7150|AlignEnd=7420|nWord=2|Gloss=PUNCT|GE=[//]
+# sent_id = SAY_BC_INT_05_Morals_001-007
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 1840, 9895
+# phonetic_text = tòː < lóːkaʧí ɗan káː kap gə̀t hŋ́ -íː < ʧáː ʧet tu gyáː bàːbá =wâːn kóː gyáː dàːdá =wâːn < tə̀tàyáː kúːp =kə -íː ngə́tn wón ɗan makaranta ?// 
+# text = tôː < lóːkaʧí ɗan káː kap gə̀t hŋ́ ŋíː < ʧáː ʧet tu gyáː bàːbáwâːn kóː gyáː dàːdáwâːn < tə̀tàyáː kǔːpkíː ngə́r wón ɗan makaranta ?//
+# text_en =  Well when you had not married yet he is asking whether your fathers or your grandfathers they used to teach you something like school.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=1840|AlignEnd=1927|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=1927|AlignEnd=2014|nWord=2|Gloss=PUNCT|GE=[<]
+3	lóːkaʧí	lóːkaʧí	NOUN	_	_	_	_	_	AlignBegin=2014|AlignEnd=2199|nWord=3|Gloss=time|GE=time|RX=[N]
+4	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=2199|AlignEnd=2384|nWord=4|Gloss=that|GE=that|RX=[REL]
+5	káː	káː	AUX	_	Aspect=Perf|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=2384|AlignEnd=2569|nWord=5|Gloss=2SG.CPL|GE=[2SG].[CPL]|RX=[PNTAM]
+6	kap	kap	VERB	_	_	_	_	_	AlignBegin=2569|AlignEnd=2754|nWord=6|Gloss=take|GE=take|RX=[V]
+7	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=2754|AlignEnd=2939|nWord=7|Gloss=wife|GE=wife|RX=[N]
+8	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=2939|AlignEnd=3124|nWord=8|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+9	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=3124|AlignEnd=3309|nWord=9|Gloss=RES|GE=[RES]|RX=[TAM]
+10	<	<	PUNCT	_	_	_	_	_	AlignBegin=3309|AlignEnd=3496|nWord=10|Gloss=PUNCT|GE=[<]
+11	ʧáː	ʧáː	AUX	_	Aspect=Imp|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=3496|AlignEnd=3755|nWord=11|Gloss=3SG.ICPL|GE=[3SG].[ICPL]|RX=[PNTAM]
+12	ʧet	ʧet	VERB	_	_	_	_	_	AlignBegin=3755|AlignEnd=4014|nWord=12|Gloss=ask|GE=ask|RX=[V]
+13	tu	tu	PART	_	_	_	_	_	AlignBegin=4014|AlignEnd=4273|nWord=13|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+14	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=5260|AlignEnd=5530|nWord=14|Gloss=PL|GE=[PL]|RX=[DET]
+15	bàːbá	bàːbá	NOUN	_	_	_	_	_	AlignBegin=5530|AlignEnd=5665|nWord=15|Gloss=father|GE=father|RX=[N]
+16	=wâːn	=wâːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=5665|AlignEnd=5800|nWord=15|Gloss=2PL.POS|GE=[2PL].[POS]|RX=[PRO]
+17	kóː	kóː	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=5800|AlignEnd=6070|nWord=16|Gloss=or|GE=or|RX=[CONJ].[BW].[HAU]
+18	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=6070|AlignEnd=6340|nWord=17|Gloss=PL|GE=[PL]|RX=[DET]
+19	dàːdá	dàːdá	NOUN	_	_	_	_	_	AlignBegin=6340|AlignEnd=6475|nWord=18|Gloss=Dada|GE=[Dada]|RX=[N].[P]
+20	=wâːn	=wâːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=6475|AlignEnd=6610|nWord=18|Gloss=2PL.POS|GE=[2PL].[POS]|RX=[PRO]
+21	<	<	PUNCT	_	_	_	_	_	AlignBegin=6610|AlignEnd=6880|nWord=19|Gloss=PUNCT|GE=[<]
+22	tə̀tàyáː	tə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=7420|AlignEnd=8148|nWord=20|Gloss=3PL.REM.ICPL|GE=[3PL].[REM].[ICPL]|RX=[PNTAM]
+23	kúːp	kúːp	VERB	_	_	_	_	_	AlignBegin=8148|AlignEnd=8391|nWord=21|Gloss=teach|GE=teach|RX=[V]
+24	=kə	=kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=8391|AlignEnd=8634|nWord=21|Gloss=2SG.OBJ|GE=[2SG].[OBJ]|RX=[PRO]
+25	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=8634|AlignEnd=8876|nWord=21|Gloss=RES|GE=[RES]|RX=[TAM]
+26	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=8876|AlignEnd=9080|nWord=22|Gloss=thing|GE=thing|RX=[N]
+27	wón	wón	DET	_	Definite=Spec	_	_	_	AlignBegin=9080|AlignEnd=9284|nWord=23|Gloss=QLT|GE=[QLT]|RX=[DET]
+28	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=9284|AlignEnd=9488|nWord=24|Gloss=that|GE=that|RX=[REL]
+29	makaranta	makaranta	NOUN	_	_	_	_	_	AlignBegin=9488|AlignEnd=9692|nWord=25|Gloss=school|GE=school|RX=[N]
+30	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=9692|AlignEnd=9895|nWord=26|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_008-010
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 9895, 15336
+# phonetic_text = tə̀tàyáː taːrá =kí tə́ kúːp =kí kóː tə́ ɬə git =kí gyáː wukn ndə̂ːr a: kóː tə́ ɬə git =kí -ni gyáː niː ?// 
+# text = tə̀tàyáː tâːrákí tə́ kǔːpkí kóː tə́ ɬə́ gìtkí gyáː wukn ndə̂ːr aː kóː tə́ ɬə́ gìtkíni gyáː nîː ?//
+# text_en =  They used to gather you to teach  you or they went and showed you some magic in the bush,  or they went and showed you whatever? 
+1	tə̀tàyáː	tə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=9895|AlignEnd=10347|nWord=1|Gloss=3PL.REM.ICPL|GE=[3PL].[REM].[ICPL]|RX=[PNTAM]
+2	taːrá	taːrá	VERB	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=10347|AlignEnd=10573|nWord=2|Gloss=gather|GE=gather|RX=[V].[BW].[HAU]
+3	=kí	=kí	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=10573|AlignEnd=10800|nWord=2|Gloss=2PL.OBJ|GE=[2PL].[OBJ]|RX=[PRO]
+4	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=11458|AlignEnd=11676|nWord=3|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+5	kúːp	kúːp	VERB	_	_	_	_	_	AlignBegin=11676|AlignEnd=11785|nWord=4|Gloss=teach|GE=teach|RX=[V]
+6	=kí	=kí	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=11785|AlignEnd=11894|nWord=4|Gloss=2PL.OBJ|GE=[2PL].[OBJ]|RX=[PRO]
+7	kóː	kóː	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=11894|AlignEnd=12112|nWord=5|Gloss=or|GE=or|RX=[CONJ].[BW].[HAU]
+8	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=12112|AlignEnd=12330|nWord=6|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+9	ɬə	ɬə	VERB	_	_	_	_	_	AlignBegin=12330|AlignEnd=12548|nWord=7|Gloss=go|GE=go|RX=[V]
+10	git	git	VERB	_	_	_	_	_	AlignBegin=12548|AlignEnd=12657|nWord=8|Gloss=show|GE=show|RX=[V]
+11	=kí	=kí	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=12657|AlignEnd=12766|nWord=8|Gloss=2PL.OBJ|GE=[2PL].[OBJ]|RX=[PRO]
+12	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=12766|AlignEnd=12984|nWord=9|Gloss=PL|GE=[PL]|RX=[DET]
+13	wukn	wukn	NOUN	_	_	_	_	_	AlignBegin=12984|AlignEnd=13202|nWord=10|Gloss=medicine|GE=medicine|RX=[N]
+14	ndə̂ːr	ndə̂ːr	NOUN	_	_	_	_	_	AlignBegin=13202|AlignEnd=13420|nWord=11|Gloss=bush|GE=bush|RX=[N]
+15	a:	a:	PART	_	PartType=Int	_	_	_	AlignBegin=13420|AlignEnd=13635|nWord=12|Gloss=VRT|GE=[VRT]|RX=[PTCL].[ASS]
+16	kóː	kóː	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=13635|AlignEnd=13878|nWord=13|Gloss=or|GE=or|RX=[CONJ].[BW].[HAU]
+17	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=13878|AlignEnd=14121|nWord=14|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+18	ɬə	ɬə	VERB	_	_	_	_	_	AlignBegin=14121|AlignEnd=14364|nWord=15|Gloss=go|GE=go|RX=[V]
+19	git	git	VERB	_	_	_	_	_	AlignBegin=14364|AlignEnd=14445|nWord=16|Gloss=show|GE=show|RX=[V]
+20	=kí	=kí	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=14445|AlignEnd=14526|nWord=16|Gloss=2PL.OBJ|GE=[2PL].[OBJ]|RX=[PRO]
+21	-ni	-ni	PART	_	Aspect=Inch	_	_	_	AlignBegin=14526|AlignEnd=14607|nWord=16|Gloss=INCH|GE=[INCH]|RX=[PTCL].[EXT]
+22	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=14607|AlignEnd=14850|nWord=17|Gloss=PL|GE=[PL]|RX=[DET]
+23	niː	niː	PUNCT	_	_	_	_	_	AlignBegin=14850|AlignEnd=15093|nWord=18|Gloss=what|GE=what|RX=[PRO].[Q]
+24	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=15093|AlignEnd=15336|nWord=19|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_011-011
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 15336, 16860
+# phonetic_text = káː yisə́ŋ ngə́tn wón ká gíː a: ?// 
+# text = káː yisə́ŋ ngə́r wón á gíː aː ?//
+# text_en =  Do you know anything about it?
+1	káː	káː	AUX	_	Aspect=Perf|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=15336|AlignEnd=15526|nWord=1|Gloss=2SG.CPL|GE=[2SG].[CPL]|RX=[PNTAM]
+2	yisə́ŋ	yisə́ŋ	VERB	_	_	_	_	_	AlignBegin=15526|AlignEnd=15716|nWord=2|Gloss=know|GE=know|RX=[V]
+3	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=15716|AlignEnd=15906|nWord=3|Gloss=thing|GE=thing|RX=[N]
+4	wón	wón	DET	_	Definite=Spec	_	_	_	AlignBegin=15906|AlignEnd=16096|nWord=4|Gloss=QLT|GE=[QLT]|RX=[DET]
+5	ká	ká	ADP	_	_	_	_	_	AlignBegin=16096|AlignEnd=16286|nWord=5|Gloss=at|GE=at|RX=[PREP]
+6	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=16286|AlignEnd=16476|nWord=6|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
+7	a:	a:	PART	_	PartType=Int	_	_	_	AlignBegin=16476|AlignEnd=16666|nWord=7|Gloss=VRT|GE=[VRT]|RX=[PTCL].[ASS]
+8	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=16666|AlignEnd=16860|nWord=8|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_012-013
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 16088, 17880
+# phonetic_text = âː < gíː tá yi mondá sòːséy máː !// 
+# text = âː < gíː tá yi mondá sòːséy máː !//
+# text_en =  Ah,  It's plenty even!
+1	âː	âː	INTJ	_	_	_	_	_	AlignBegin=16088|AlignEnd=16302|nWord=1|Gloss=ah|GE=ah|RX=[EXCL]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=16302|AlignEnd=16516|nWord=2|Gloss=PUNCT|GE=[<]
+3	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=16516|AlignEnd=16711|nWord=3|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
+4	tá	tá	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=16711|AlignEnd=16906|nWord=4|Gloss=3PL.FUT|GE=[3PL].[FUT]|RX=[PNTAM]
+5	yi	yi	VERB	_	_	_	_	_	AlignBegin=16906|AlignEnd=17101|nWord=5|Gloss=be|GE=be|RX=[V]
+6	mondá	mondá	ADV	_	_	_	_	_	AlignBegin=17101|AlignEnd=17296|nWord=6|Gloss=many|GE=many|RX=[ADV]
+7	sòːséy	sòːséy	ADV	_	_	_	_	_	AlignBegin=17296|AlignEnd=17491|nWord=7|Gloss=quite|GE=quite|RX=[ADV]
+8	máː	máː	ADV	_	_	_	_	_	AlignBegin=17491|AlignEnd=17686|nWord=8|Gloss=even|GE=even|RX=[ADV]
+9	!//	!//	PUNCT	_	_	_	_	_	AlignBegin=17686|AlignEnd=17880|nWord=9|Gloss=PUNCT|GE=[!//]
+
+# sent_id = SAY_BC_INT_05_Morals_014-014
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 18280, 18920
+# phonetic_text = ɗan kə kon -íː bâː ?// 
+# text = ɗan kə kóníː bâː ?//
+# text_en =  As you say? 
+1	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=18280|AlignEnd=18408|nWord=1|Gloss=that|GE=that|RX=[REL]
+2	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=18408|AlignEnd=18536|nWord=2|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+3	kon	kon	VERB	_	_	_	_	_	AlignBegin=18536|AlignEnd=18600|nWord=3|Gloss=say|GE=say|RX=[V]
+4	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=18600|AlignEnd=18664|nWord=3|Gloss=RES|GE=[RES]|RX=[TAM]
+5	bâː	bâː	PART	_	PartType=Int|Polarity=Neg	_	_	_	AlignBegin=18664|AlignEnd=18792|nWord=4|Gloss=Q.NEG|GE=[Q].[NEG]|RX=[TAG]
+6	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=18792|AlignEnd=18920|nWord=5|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_015-015
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 19177, 19594
+# phonetic_text = èː // 
+# text = èː //
+# text_en =  Yes.
+1	èː	èː	INTJ	_	_	_	_	_	AlignBegin=19177|AlignEnd=19385|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=19385|AlignEnd=19594|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_016-016
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 19800, 20880
+# phonetic_text = dòmín kàmán &// 
+# text = dòmín kàmán &//
+# text_en =  Because like...
+1	dòmín	dòmín	SCONJ	_	_	_	_	_	AlignBegin=19800|AlignEnd=20160|nWord=1|Gloss=because|GE=because|RX=[CONJ]
+2	kàmán	kàmán	ADP	_	_	_	_	_	AlignBegin=20160|AlignEnd=20520|nWord=2|Gloss=like|GE=like|RX=[PREP]
+3	&//	&//	PUNCT	_	_	_	_	_	AlignBegin=20520|AlignEnd=20880|nWord=3|Gloss=PUNCT|GE=[&//]
+
+# sent_id = SAY_BC_INT_05_Morals_017-019
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 21040, 23060
+# phonetic_text = tá fi bìki ɗan kàmán lə̌pm zaːr // 
+# text = tá fî bə̀ki ɗan kàmán lə̌pm zaːr //
+# text_en =  They will celebrate like like the Zaar festival.
+1	tá	tá	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=21040|AlignEnd=21308|nWord=1|Gloss=3PL.FUT|GE=[3PL].[FUT]|RX=[PNTAM]
+2	fi	fi	VERB	_	_	_	_	_	AlignBegin=21308|AlignEnd=21576|nWord=2|Gloss=do|GE=do|RX=[V]
+3	bìki	bìki	NOUN	_	_	_	_	_	AlignBegin=21576|AlignEnd=21844|nWord=3|Gloss=celebration|GE=celebration|RX=[N]
+4	ɗan	ɗan	ADP	_	_	_	_	_	AlignBegin=21844|AlignEnd=22327|nWord=4|Gloss=like|GE=like|RX=[PREP]
+5	kàmán	kàmán	ADP	_	_	_	_	_	AlignBegin=22327|AlignEnd=22510|nWord=5|Gloss=like|GE=like|RX=[PREP]
+6	lə̌pm	lə̌pm	NOUN	_	_	_	_	_	AlignBegin=22510|AlignEnd=22693|nWord=6|Gloss=festival|GE=festival|RX=[N]
+7	zaːr	zaːr	NOUN	_	_	_	_	_	AlignBegin=22693|AlignEnd=22876|nWord=7|Gloss=Zaar|GE=[Zaar]|RX=[N].[P]
+8	//	//	PUNCT	_	_	_	_	_	AlignBegin=22876|AlignEnd=23060|nWord=8|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_020-022
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 24060, 28320
+# phonetic_text = tòː tá ʤwáːm =mí =wôpm -íː //= tə́ wul [ tòː kyàːní məːri -ín < tá fi lə̌pm zaːr kən //] // 
+# text = tôː tá ʤwǎːmmíwôpíː //= tə́ wû [ tôː kyàːní məːrín < tá fî lə̌pm zaːr kəní //] //
+# text_en =  Well, they would gather us,  and say 'Well you, children they will do the Zaar festival." 
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=24060|AlignEnd=24320|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	tá	tá	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=24320|AlignEnd=24580|nWord=2|Gloss=3PL.FUT|GE=[3PL].[FUT]|RX=[PNTAM]
+3	ʤwáːm	ʤwáːm	VERB	_	Number=Plur	_	_	_	AlignBegin=24580|AlignEnd=24645|nWord=3|Gloss=gather|GE=gather|RX=[V].[PLAC]
+4	=mí	=mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=24645|AlignEnd=24710|nWord=3|Gloss=1PL.OBJ|GE=[1PL].[OBJ]|RX=[PRO]
+5	=wôpm	=wôpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=24710|AlignEnd=24775|nWord=3|Gloss=1PL.POS|GE=[1PL].[POS]|RX=[PRO]
+6	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=24775|AlignEnd=24840|nWord=3|Gloss=RES|GE=[RES]|RX=[TAM]
+7	//=	//=	PUNCT	_	_	_	_	_	AlignBegin=24840|AlignEnd=25100|nWord=4|Gloss=PUNCT|GE=[//]
+8	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=25440|AlignEnd=25571|nWord=5|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+9	wul	wul	VERB	_	_	_	_	_	AlignBegin=25571|AlignEnd=25702|nWord=6|Gloss=say|GE=say|RX=[V]
+10	[	[	VERB	_	_	_	_	_	AlignBegin=25702|AlignEnd=25833|nWord=7|GE=[[]
+11	tòː	tòː	PART	_	_	_	_	_	AlignBegin=25833|AlignEnd=25964|nWord=8|Gloss=DM|GE=[DM]|RX=[PTCL]
+12	kyàːní	kyàːní	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=25964|AlignEnd=26095|nWord=9|Gloss=2PL.IDP|GE=[2PL].[IDP]|RX=[PRO]
+13	məːri	məːri	_	_	Number=Plur	_	_	_	AlignBegin=26095|AlignEnd=26161|nWord=10|Gloss=children|GE=children|RX=[N].[PL]
+14	-ín	-ín	DET	_	PronType=Dem	_	_	_	AlignBegin=26161|AlignEnd=26226|nWord=10|Gloss=PROX|GE=[PROX]|RX=[DEICT]
+15	<	<	PUNCT	_	_	_	_	_	AlignBegin=26226|AlignEnd=26360|nWord=11|Gloss=PUNCT|GE=[<]
+16	tá	tá	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=27460|AlignEnd=27583|nWord=12|Gloss=3PL.FUT|GE=[3PL].[FUT]|RX=[PNTAM]
+17	fi	fi	VERB	_	_	_	_	_	AlignBegin=27583|AlignEnd=27706|nWord=13|Gloss=do|GE=do|RX=[V]
+18	lə̌pm	lə̌pm	NOUN	_	_	_	_	_	AlignBegin=27706|AlignEnd=27829|nWord=14|Gloss=festival|GE=festival|RX=[N]
+19	zaːr	zaːr	NOUN	_	_	_	_	_	AlignBegin=27829|AlignEnd=27952|nWord=15|Gloss=Zaar|GE=[Zaar]|RX=[N].[P]
+20	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=27952|AlignEnd=28075|nWord=16|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+21	//]	//]	PUNCT	_	_	_	_	_	AlignBegin=28075|AlignEnd=28198|nWord=17|Gloss=PUNCT|GE=[//]]
+22	//	//	PUNCT	_	_	_	_	_	AlignBegin=28198|AlignEnd=28320|nWord=18|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_023-025
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 29580, 34094
+# phonetic_text = tòː // ngə́tn ɗan myǎː súː tu yâːn ká fi lə̌pm zaːr tòː àː vum -ni gə̀t -ɗi // 
+# text = tôː // ngə́tn ɗan myǎː sǔː tu yâːn ká fî lə̌pm zaːr tôː àː vùmnì gə̀ɗɗì //
+# text_en =  "Well,  what we want is  when you do the Zaar festival, you should snatch a wife.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=29580|AlignEnd=29750|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=29750|AlignEnd=29920|nWord=2|Gloss=PUNCT|GE=[//]
+3	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=30500|AlignEnd=30692|nWord=3|Gloss=thing|GE=thing|RX=[N]
+4	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=30692|AlignEnd=30884|nWord=4|Gloss=that|GE=that|RX=[REL]
+5	myǎː	myǎː	AUX	_	Aspect=Imp|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=30884|AlignEnd=31076|nWord=5|Gloss=1PL.ICPL|GE=[1PL].[ICPL]|RX=[PNTAM]
+6	súː	súː	VERB	_	_	_	_	_	AlignBegin=31076|AlignEnd=31268|nWord=6|Gloss=want|GE=want|RX=[V]
+7	tu	tu	PART	_	_	_	_	_	AlignBegin=31268|AlignEnd=31460|nWord=7|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+8	yâːn	yâːn	SCONJ	_	_	_	_	_	AlignBegin=32320|AlignEnd=32497|nWord=8|Gloss=if|GE=if|RX=[CONJ]
+9	ká	ká	AUX	_	Number=Plur|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=32497|AlignEnd=32674|nWord=9|Gloss=2PL.FUT|GE=[2PL].[FUT]|RX=[PNTAM]
+10	fi	fi	VERB	_	_	_	_	_	AlignBegin=32674|AlignEnd=32851|nWord=10|Gloss=do|GE=do|RX=[V]
+11	lə̌pm	lə̌pm	NOUN	_	_	_	_	_	AlignBegin=32851|AlignEnd=33028|nWord=11|Gloss=festival|GE=festival|RX=[N]
+12	zaːr	zaːr	NOUN	_	_	_	_	_	AlignBegin=33028|AlignEnd=33205|nWord=12|Gloss=Zaar|GE=[Zaar]|RX=[N].[P]
+13	tòː	tòː	PART	_	_	_	_	_	AlignBegin=33205|AlignEnd=33382|nWord=13|Gloss=DM|GE=[DM]|RX=[PTCL]
+14	àː	àː	AUX	_	Mood=Sub|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=33382|AlignEnd=33559|nWord=14|Gloss=2PL.SBJV|GE=[2PL].[SBJV]|RX=[PNTAM]
+15	vum	vum	VERB	_	_	_	_	_	AlignBegin=33559|AlignEnd=33647|nWord=15|Gloss=snatch|GE=snatch|RX=[V]
+16	-ni	-ni	PART	_	Aspect=Inch	_	_	_	AlignBegin=33647|AlignEnd=33736|nWord=15|Gloss=INCH|GE=[INCH]|RX=[PTCL].[EXT]
+17	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=33736|AlignEnd=33824|nWord=16|Gloss=wife|GE=wife|RX=[N]
+18	-ɗi	-ɗi	PART	_	VerbForm=Ctp	_	_	_	AlignBegin=33824|AlignEnd=33913|nWord=16|Gloss=CTP|GE=[CTP]|RX=[PTCL]
+19	//	//	PUNCT	_	_	_	_	_	AlignBegin=33913|AlignEnd=34094|nWord=17|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_026-027
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 35600, 37620
+# phonetic_text = àmáː kyǎː ɬə fi maːndə < tòː má yardá hŋ́ // 
+# text = àmáː kyàː ɬə́ fî maːndə < tôː má yârdá hŋ́ //
+# text_en =  but if you start fighting well we won't agree."
+1	àmáː	àmáː	SCONJ	_	_	_	_	_	AlignBegin=35600|AlignEnd=35773|nWord=1|Gloss=but|GE=but|RX=[CONJ]
+2	kyǎː	kyǎː	AUX	_	Mood=Cond|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=35773|AlignEnd=35946|nWord=2|Gloss=2PL.COND|GE=[2PL].[COND]|RX=[PNTAM]
+3	ɬə	ɬə	VERB	_	_	_	_	_	AlignBegin=35946|AlignEnd=36119|nWord=3|Gloss=go|GE=go|RX=[V]
+4	fi	fi	VERB	_	_	_	_	_	AlignBegin=36119|AlignEnd=36292|nWord=4|Gloss=do|GE=do|RX=[V]
+5	maːndə	maːndə	NOUN	_	_	_	_	_	AlignBegin=36292|AlignEnd=36465|nWord=5|Gloss=fight|GE=fight|RX=[N]
+6	<	<	PUNCT	_	_	_	_	_	AlignBegin=36465|AlignEnd=36640|nWord=6|Gloss=PUNCT|GE=[<]
+7	tòː	tòː	PART	_	_	_	_	_	AlignBegin=37000|AlignEnd=37124|nWord=7|Gloss=DM|GE=[DM]|RX=[PTCL]
+8	má	má	AUX	_	Number=Plur|Person=1|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=37124|AlignEnd=37248|nWord=8|Gloss=1PL.FUT|GE=[1PL].[FUT]|RX=[PNTAM]
+9	yardá	yardá	VERB	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=37248|AlignEnd=37372|nWord=9|Gloss=agree|GE=agree|RX=[V].[BW].[HAU]
+10	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=37372|AlignEnd=37496|nWord=10|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+11	//	//	PUNCT	_	_	_	_	_	AlignBegin=37496|AlignEnd=37620|nWord=11|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_028-032
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 39080, 45740
+# phonetic_text = tòː < ɬya -ə́n ɗûː =wâːn < deːdéː |c àmáː káɗâ àː ɬya ɗûː tə̀ mop karfi -́ =wâːn < àː ɬə fi ngə́tn wón ɗan báː á ndará hŋ́ // 
+# text = tôː < ɬyǎn ɗûːwàːn < deːdéː |c àmáː káɗá àː ɬyà ɗûː tə̀ móp karfíwâːn < àː ɬə̀ fì ngə́tn wón ɗan bàː á ndârá hŋ́ //
+# text_en =  "Well,  drink your beer very well but don't drink more beer than you can stand lest you do anything wrong." 
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=39080|AlignEnd=39190|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=39190|AlignEnd=39300|nWord=2|Gloss=PUNCT|GE=[<]
+3	ɬya	ɬya	VERB	_	_	_	_	_	AlignBegin=39640|AlignEnd=39754|nWord=3|Gloss=drink|GE=drink|RX=[V]
+4	-ə́n	-ə́n	AUX	_	Mood=Imp|Number=Plur	_	_	_	AlignBegin=39754|AlignEnd=39867|nWord=3|Gloss=IMP.PL|GE=[IMP].[PL]|RX=[PNTAM]
+5	ɗûː	ɗûː	NOUN	_	_	_	_	_	AlignBegin=39867|AlignEnd=39981|nWord=4|Gloss=beer|GE=beer|RX=[N]
+6	=wâːn	=wâːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=39981|AlignEnd=40094|nWord=4|Gloss=2PL.POS|GE=[2PL].[POS]|RX=[PRO]
+7	<	<	PUNCT	_	_	_	_	_	AlignBegin=40094|AlignEnd=40320|nWord=5|Gloss=PUNCT|GE=[<]
+8	deːdéː	deːdéː	X	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=40840|AlignEnd=41108|nWord=6|Gloss=exactly|GE=exactly|RX=[X].[CSW].[HAU]
+9	|c	|c	X	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=41108|AlignEnd=41376|nWord=7|GE=$c
+10	àmáː	àmáː	SCONJ	_	_	_	_	_	AlignBegin=42180|AlignEnd=42353|nWord=8|Gloss=but|GE=but|RX=[CONJ]
+11	káɗâ	káɗâ	AUX	_	Mood=Imp|Polarity=Neg	_	_	_	AlignBegin=42353|AlignEnd=42526|nWord=9|Gloss=NEG3|GE=[NEG3]|RX=[PTCL].[NEG]
+12	àː	àː	AUX	_	Mood=Sub|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=42526|AlignEnd=42699|nWord=10|Gloss=2SG.SBJV|GE=[2SG].[SBJV]|RX=[PNTAM]
+13	ɬya	ɬya	VERB	_	_	_	_	_	AlignBegin=42699|AlignEnd=42872|nWord=11|Gloss=drink|GE=drink|RX=[V]
+14	ɗûː	ɗûː	NOUN	_	_	_	_	_	AlignBegin=42872|AlignEnd=43045|nWord=12|Gloss=beer|GE=beer|RX=[N]
+15	tə̀	tə̀	AUX	_	Mood=Sub|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=43045|AlignEnd=43218|nWord=13|Gloss=3SG.SBJV|GE=[3SG].[SBJV]|RX=[PNTAM]
+16	mop	mop	VERB	_	_	_	_	_	AlignBegin=43218|AlignEnd=43391|nWord=14|Gloss=surpass|GE=surpass|RX=[V]
+17	karfi	karfi	NOUN	_	_	_	_	_	AlignBegin=43391|AlignEnd=43449|nWord=15|Gloss=strength|GE=strength|RX=[N]
+18	-́	-́	PART	_	Case=Gen	_	_	_	AlignBegin=43449|AlignEnd=43507|nWord=15|Gloss=POS|GE=[POS]|RX=[PTCL].[SYNT]
+19	=wâːn	=wâːn	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=43507|AlignEnd=43564|nWord=15|Gloss=2PL.POS|GE=[2PL].[POS]|RX=[PRO]
+20	<	<	PUNCT	_	_	_	_	_	AlignBegin=43564|AlignEnd=43740|nWord=16|Gloss=PUNCT|GE=[<]
+21	àː	àː	AUX	_	Mood=Sub|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=44380|AlignEnd=44504|nWord=17|Gloss=2PL.SBJV|GE=[2PL].[SBJV]|RX=[PNTAM]
+22	ɬə	ɬə	VERB	_	_	_	_	_	AlignBegin=44504|AlignEnd=44628|nWord=18|Gloss=go|GE=go|RX=[V]
+23	fi	fi	VERB	_	_	_	_	_	AlignBegin=44628|AlignEnd=44752|nWord=19|Gloss=do|GE=do|RX=[V]
+24	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=44752|AlignEnd=44876|nWord=20|Gloss=thing|GE=thing|RX=[N]
+25	wón	wón	DET	_	Definite=Spec	_	_	_	AlignBegin=44876|AlignEnd=45000|nWord=21|Gloss=QLT|GE=[QLT]|RX=[DET]
+26	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=45000|AlignEnd=45124|nWord=22|Gloss=that|GE=that|RX=[REL]
+27	báː	báː	PART	_	Polarity=Neg	_	_	_	AlignBegin=45124|AlignEnd=45248|nWord=23|Gloss=NEG1|GE=[NEG1]|RX=[PTCL].[NEG]
+28	á	á	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=45248|AlignEnd=45372|nWord=24|Gloss=3SG.AOR|GE=[3SG].[AOR]|RX=[PNTAM]
+29	ndará	ndará	VERB	_	_	_	_	_	AlignBegin=45372|AlignEnd=45496|nWord=25|Gloss=be_proper|GE=be_proper|RX=[V]
+30	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=45496|AlignEnd=45620|nWord=26|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+31	//	//	PUNCT	_	_	_	_	_	AlignBegin=45620|AlignEnd=45740|nWord=27|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_033-036
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 47100, 50320
+# phonetic_text = yâːn ká fi ngə́tn wón máː |c má yîn# || myǎː máni woskát < tòː mə̀ tu =tə ndaːrá // 
+# text = yâːn ká fî ngə́tn wón máː |c má yîn# || myàː mán wôskát < tôː mə̀ tùtə̀ ndaːrá //
+# text_en =  "If you do anything wrong,  we will... if we start investigating, we'll find out."
+1	yâːn	yâːn	SCONJ	_	_	_	_	_	AlignBegin=47100|AlignEnd=47254|nWord=1|Gloss=if|GE=if|RX=[CONJ]
+2	ká	ká	AUX	_	Number=Plur|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=47254|AlignEnd=47408|nWord=2|Gloss=2PL.FUT|GE=[2PL].[FUT]|RX=[PNTAM]
+3	fi	fi	VERB	_	_	_	_	_	AlignBegin=47408|AlignEnd=47562|nWord=3|Gloss=do|GE=do|RX=[V]
+4	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=47562|AlignEnd=47716|nWord=4|Gloss=thing|GE=thing|RX=[N]
+5	wón	wón	DET	_	Definite=Spec	_	_	_	AlignBegin=47716|AlignEnd=47870|nWord=5|Gloss=QLT|GE=[QLT]|RX=[DET]
+6	máː	máː	PART	_	_	_	_	_	AlignBegin=47870|AlignEnd=48024|nWord=6|Gloss=also|GE=also|RX=[PTCL].[TOP]
+7	|c	|c	PART	_	_	_	_	_	AlignBegin=48024|AlignEnd=48179|nWord=7|GE=$c
+8	má	má	AUX	_	Number=Plur|Person=1|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=48179|AlignEnd=48315|nWord=8|Gloss=1PL.FUT|GE=[1PL].[FUT]|RX=[PNTAM]
+9	yîn#	yîn#	VERB	_	_	_	_	_	AlignBegin=48315|AlignEnd=48451|nWord=9|Gloss=HESIT|GE=[HESIT]|RX=[V]
+10	||	||	VERB	_	_	_	_	_	AlignBegin=48451|AlignEnd=48588|nWord=10|GE=[$$]
+11	myǎː	myǎː	AUX	_	Mood=Cond|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=48588|AlignEnd=48801|nWord=11|Gloss=1PL.COND|GE=[1PL].[COND]|RX=[PNTAM]
+12	máni	máni	VERB	_	_	_	_	_	AlignBegin=48801|AlignEnd=49014|nWord=12|Gloss=come|GE=come|RX=[V]
+13	woskát	woskát	VERB	_	_	_	_	_	AlignBegin=49014|AlignEnd=49201|nWord=13|Gloss=investigate|GE=investigate|RX=[V]
+14	<	<	PUNCT	_	_	_	_	_	AlignBegin=49201|AlignEnd=49388|nWord=14|Gloss=PUNCT|GE=[<]
+15	tòː	tòː	PART	_	_	_	_	_	AlignBegin=49388|AlignEnd=49575|nWord=15|Gloss=DM|GE=[DM]|RX=[PTCL]
+16	mə̀	mə̀	AUX	_	Mood=Sub|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=49575|AlignEnd=49762|nWord=16|Gloss=1PL.SBJV|GE=[1PL].[SBJV]|RX=[PNTAM]
+17	tu	tu	VERB	_	_	_	_	_	AlignBegin=49762|AlignEnd=49856|nWord=17|Gloss=get|GE=get|RX=[V]
+18	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=49856|AlignEnd=49949|nWord=17|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+19	ndaːrá	ndaːrá	ADJ	_	_	_	_	_	AlignBegin=49949|AlignEnd=50136|nWord=18|Gloss=nice|GE=nice|RX=[ADJ]
+20	//	//	PUNCT	_	_	_	_	_	AlignBegin=50136|AlignEnd=50320|nWord=19|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_037-037
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 51520, 52620
+# phonetic_text = tòː ngə́tn ɗan myǎː fuː =kí kən // 
+# text = tôː ngə́tn ɗan myǎː fúːkí kəndí //
+# text_en =  "Well, that's what we are telling you."
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=51520|AlignEnd=51677|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=51677|AlignEnd=51834|nWord=2|Gloss=thing|GE=thing|RX=[N]
+3	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=51834|AlignEnd=51991|nWord=3|Gloss=that|GE=that|RX=[REL]
+4	myǎː	myǎː	AUX	_	Aspect=Imp|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=51991|AlignEnd=52148|nWord=4|Gloss=1PL.ICPL|GE=[1PL].[ICPL]|RX=[PNTAM]
+5	fuː	fuː	VERB	_	_	_	_	_	AlignBegin=52148|AlignEnd=52226|nWord=5|Gloss=tell|GE=tell|RX=[V]
+6	=kí	=kí	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=52226|AlignEnd=52305|nWord=5|Gloss=2PL.OBJ|GE=[2PL].[OBJ]|RX=[PRO]
+7	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=52305|AlignEnd=52462|nWord=6|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+8	//	//	PUNCT	_	_	_	_	_	AlignBegin=52462|AlignEnd=52620|nWord=7|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_038-040
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 53500, 57620
+# phonetic_text = ngə́tn ɗan ká fi =tə káwêy yáːni ʧi tu əː kyáː vum gə̀t -ɗi < tòː pol -kə́nì =wôpm kən // 
+# text = ngə́tn ɗan ká fítə̀ káwêy yâːn ʧi tu əː kyáː vûm gə̀tɗì < tôː pólkə̂nwòpm kəndí //
+# text_en =  The only thing that you will do is if... you snatch [somebody's] wife,  well, that's what we like.
+1	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=53500|AlignEnd=53672|nWord=1|Gloss=thing|GE=thing|RX=[N]
+2	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=53672|AlignEnd=53844|nWord=2|Gloss=that|GE=that|RX=[REL]
+3	ká	ká	AUX	_	Number=Plur|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=53844|AlignEnd=54016|nWord=3|Gloss=2PL.FUT|GE=[2PL].[FUT]|RX=[PNTAM]
+4	fi	fi	VERB	_	_	_	_	_	AlignBegin=54016|AlignEnd=54102|nWord=4|Gloss=do|GE=do|RX=[V]
+5	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=54102|AlignEnd=54188|nWord=4|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+6	káwêy	káwêy	ADV	_	_	_	_	_	AlignBegin=54188|AlignEnd=54360|nWord=5|Gloss=merely|GE=merely|RX=[ADV]
+7	yáːni	yáːni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=54360|AlignEnd=54532|nWord=6|Gloss=3SG.IDP|GE=[3SG].[IDP]|RX=[PRO]
+8	ʧi	ʧi	VERB	_	Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=54532|AlignEnd=54704|nWord=7|Gloss=3SG.be|GE=[3SG].[be]|RX=[V*]
+9	tu	tu	PART	_	_	_	_	_	AlignBegin=54704|AlignEnd=54880|nWord=8|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+10	əː	əː	INTJ	_	_	_	_	_	AlignBegin=55620|AlignEnd=55846|nWord=9|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+11	kyáː	kyáː	AUX	_	Mood=Cond|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=55846|AlignEnd=56072|nWord=10|Gloss=2SG.COND|GE=[2SG].[COND]|RX=[PNTAM]
+12	vum	vum	VERB	_	_	_	_	_	AlignBegin=56072|AlignEnd=56298|nWord=11|Gloss=snatch|GE=snatch|RX=[V]
+13	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=56298|AlignEnd=56411|nWord=12|Gloss=wife|GE=wife|RX=[N]
+14	-ɗi	-ɗi	PART	_	VerbForm=Ctp	_	_	_	AlignBegin=56411|AlignEnd=56524|nWord=12|Gloss=CTP|GE=[CTP]|RX=[PTCL]
+15	<	<	PUNCT	_	_	_	_	_	AlignBegin=56524|AlignEnd=56749|nWord=13|Gloss=PUNCT|GE=[<]
+16	tòː	tòː	PART	_	_	_	_	_	AlignBegin=56749|AlignEnd=56967|nWord=14|Gloss=DM|GE=[DM]|RX=[PTCL]
+17	pol	pol	VERB	_	_	_	_	_	AlignBegin=56967|AlignEnd=57040|nWord=15|Gloss=please|GE=please|RX=[V]
+18	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=57040|AlignEnd=57113|nWord=15|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+19	=wôpm	=wôpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=57113|AlignEnd=57185|nWord=15|Gloss=1PL.POS|GE=[1PL].[POS]|RX=[PRO]
+20	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=57185|AlignEnd=57403|nWord=16|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+21	//	//	PUNCT	_	_	_	_	_	AlignBegin=57403|AlignEnd=57620|nWord=17|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_041-042
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 59100, 61460
+# phonetic_text = dòmín gə̀t vum -kə́nì átâ yi ká gíː // 
+# text = dòmín gə̀t vùmgə̀nì átâ yi á gíː //
+# text_en =   because there used to be some wife snatching there.§ 
+1	dòmín	dòmín	SCONJ	_	_	_	_	_	AlignBegin=59100|AlignEnd=59900|nWord=1|Gloss=because|GE=because|RX=[CONJ]
+2	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=60240|AlignEnd=60414|nWord=2|Gloss=woman|GE=woman|RX=[N]
+3	vum	vum	VERB	_	_	_	_	_	AlignBegin=60414|AlignEnd=60501|nWord=3|Gloss=snatch|GE=snatch|RX=[V]
+4	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=60501|AlignEnd=60588|nWord=3|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+5	átâ	átâ	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=60588|AlignEnd=60762|nWord=4|Gloss=3SG.REM|GE=[3SG].[REM]|RX=[PNTAM]
+6	yi	yi	VERB	_	_	_	_	_	AlignBegin=60762|AlignEnd=60936|nWord=5|Gloss=be|GE=be|RX=[V]
+7	ká	ká	ADP	_	_	_	_	_	AlignBegin=60936|AlignEnd=61110|nWord=6|Gloss=at|GE=at|RX=[PREP]
+8	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=61110|AlignEnd=61284|nWord=7|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
+9	//	//	PUNCT	_	_	_	_	_	AlignBegin=61284|AlignEnd=61460|nWord=8|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_043-045
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 61680, 65720
+# phonetic_text = ʧi tə́ ndará -kə́nì sòːséy ɗan ka vum -íː |c àmáː daː -i kúmá wò ɬiː =tə káy fáː gòs -íː ɗan kə vum -íː // 
+# text = ʧi tə́ ndarákə̂n sòːséy ɗan ka vumíː |c àmáː dàːʃí kúmá wò ɬiːtə káy fáː gòʃíː ɗan kə vúmíː //
+# text_en =  It was really good when you snatched [somebody's wife] but the husband would be angry indeed as you snatched her.
+1	ʧi	ʧi	VERB	_	Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=61680|AlignEnd=61962|nWord=1|Gloss=3SG.be|GE=[3SG].[be]|RX=[V*]
+2	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=61962|AlignEnd=62244|nWord=2|Gloss=with|GE=with|RX=[PREP]
+3	ndará	ndará	VERB	_	_	_	_	_	AlignBegin=62244|AlignEnd=62385|nWord=3|Gloss=be_proper|GE=be_proper|RX=[V]
+4	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=62385|AlignEnd=62526|nWord=3|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+5	sòːséy	sòːséy	ADV	_	_	_	_	_	AlignBegin=62526|AlignEnd=62806|nWord=4|Gloss=quite|GE=quite|RX=[ADV]
+6	ɗan	ɗan	SCONJ	_	_	_	_	_	AlignBegin=62806|AlignEnd=62960|nWord=5|Gloss=as|GE=as|RX=[CONJ]
+7	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=62960|AlignEnd=63114|nWord=6|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
+8	vum	vum	VERB	_	_	_	_	_	AlignBegin=63114|AlignEnd=63191|nWord=7|Gloss=snatch|GE=snatch|RX=[V]
+9	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=63191|AlignEnd=63268|nWord=7|Gloss=RES|GE=[RES]|RX=[TAM]
+10	|c	|c	AUX	_	_	_	_	_	AlignBegin=63268|AlignEnd=63420|nWord=8|GE=$c
+11	àmáː	àmáː	SCONJ	_	_	_	_	_	AlignBegin=63840|AlignEnd=63997|nWord=9|Gloss=but|GE=but|RX=[CONJ]
+12	daː	daː	NOUN	_	_	_	_	_	AlignBegin=63997|AlignEnd=64075|nWord=10|Gloss=person|GE=person|RX=[N]
+13	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=64075|AlignEnd=64154|nWord=10|Gloss=INDF|GE=[INDF]|RX=[ART]
+14	kúmá	kúmá	PART	_	_	_	_	_	AlignBegin=64154|AlignEnd=64311|nWord=11|Gloss=too|GE=too|RX=[PTCL].[TOP]
+15	wò	wò	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=64311|AlignEnd=64468|nWord=12|Gloss=3SG.FUT|GE=[3SG].[FUT]|RX=[PNTAM]
+16	ɬiː	ɬiː	VERB	_	_	_	_	_	AlignBegin=64468|AlignEnd=64546|nWord=13|Gloss=upset|GE=upset|RX=[V]
+17	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=64546|AlignEnd=64625|nWord=13|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+18	káy	káy	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=64625|AlignEnd=64782|nWord=14|Gloss=ANAPH|GE=[ANAPH]|RX=[PRO].[ANAPH]
+19	fáː	fáː	PART	_	_	_	_	_	AlignBegin=64782|AlignEnd=64939|nWord=15|Gloss=indeed|GE=indeed|RX=[PTCL].[TOP]
+20	gòs	gòs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=64939|AlignEnd=65017|nWord=16|Gloss=3SG.POS|GE=[3SG].[POS]|RX=[PRO]
+21	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=65017|AlignEnd=65096|nWord=16|Gloss=RES|GE=[RES]|RX=[TAM]
+22	ɗan	ɗan	SCONJ	_	_	_	_	_	AlignBegin=65096|AlignEnd=65253|nWord=17|Gloss=as|GE=as|RX=[CONJ]
+23	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=65253|AlignEnd=65410|nWord=18|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+24	vum	vum	VERB	_	_	_	_	_	AlignBegin=65410|AlignEnd=65488|nWord=19|Gloss=snatch|GE=snatch|RX=[V]
+25	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=65488|AlignEnd=65567|nWord=19|Gloss=RES|GE=[RES]|RX=[TAM]
+26	//	//	PUNCT	_	_	_	_	_	AlignBegin=65567|AlignEnd=65720|nWord=20|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_046-046
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 66740, 67620
+# phonetic_text = wò ɬiː =tə káy sòːséy // 
+# text = wò ɬiːtə káy sòːséy //
+# text_en =  He would be upset about it.
+1	wò	wò	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=66740|AlignEnd=66916|nWord=1|Gloss=3SG.FUT|GE=[3SG].[FUT]|RX=[PNTAM]
+2	ɬiː	ɬiː	VERB	_	_	_	_	_	AlignBegin=66916|AlignEnd=67004|nWord=2|Gloss=upset|GE=upset|RX=[V]
+3	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=67004|AlignEnd=67092|nWord=2|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+4	káy	káy	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=67092|AlignEnd=67268|nWord=3|Gloss=ANAPH|GE=[ANAPH]|RX=[PRO].[ANAPH]
+5	sòːséy	sòːséy	ADV	_	_	_	_	_	AlignBegin=67268|AlignEnd=67444|nWord=4|Gloss=quite|GE=quite|RX=[ADV]
+6	//	//	PUNCT	_	_	_	_	_	AlignBegin=67444|AlignEnd=67620|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_047-047
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 69180, 69820
+# phonetic_text = tòː átâ yi ʧík -íː // 
+# text = tôː átâ yi ʧǐː //
+# text_en =  Well it used to be like this. 
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=69180|AlignEnd=69308|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	átâ	átâ	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=69308|AlignEnd=69436|nWord=2|Gloss=3SG.REM|GE=[3SG].[REM]|RX=[PNTAM]
+3	yi	yi	VERB	_	_	_	_	_	AlignBegin=69436|AlignEnd=69564|nWord=3|Gloss=be|GE=be|RX=[V]
+4	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=69564|AlignEnd=69628|nWord=4|Gloss=thus|GE=thus|RX=[ADV]
+5	-íː	-íː	DET	_	PronType=Dem	_	_	_	AlignBegin=69628|AlignEnd=69692|nWord=4|Gloss=DIST|GE=[DIST]|RX=[DEICT]
+6	//	//	PUNCT	_	_	_	_	_	AlignBegin=69692|AlignEnd=69820|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_048-049
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 70460, 72320
+# phonetic_text = tòː < ngə́tn wón ɗan tə̀tàyáː kúːp =kí kaɗéː kən // 
+# text = tòː < ngə́tn wón ɗan tə̀tàyáː kǔːpkí kaɗéː kəndí //
+# text_en =  Well,  is that all they used to teach you? 
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=70460|AlignEnd=70620|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=70620|AlignEnd=70780|nWord=2|Gloss=PUNCT|GE=[<]
+3	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=70960|AlignEnd=71130|nWord=3|Gloss=thing|GE=thing|RX=[N]
+4	wón	wón	DET	_	Definite=Spec	_	_	_	AlignBegin=71130|AlignEnd=71300|nWord=4|Gloss=QLT|GE=[QLT]|RX=[DET]
+5	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=71300|AlignEnd=71470|nWord=5|Gloss=that|GE=that|RX=[REL]
+6	tə̀tàyáː	tə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=71470|AlignEnd=71640|nWord=6|Gloss=3PL.REM.ICPL|GE=[3PL].[REM].[ICPL]|RX=[PNTAM]
+7	kúːp	kúːp	VERB	_	_	_	_	_	AlignBegin=71640|AlignEnd=71725|nWord=7|Gloss=teach|GE=teach|RX=[V]
+8	=kí	=kí	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=71725|AlignEnd=71810|nWord=7|Gloss=2PL.OBJ|GE=[2PL].[OBJ]|RX=[PRO]
+9	kaɗéː	kaɗéː	ADV	_	_	_	_	_	AlignBegin=71810|AlignEnd=71980|nWord=8|Gloss=only|GE=only|RX=[ADV]
+10	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=71980|AlignEnd=72150|nWord=9|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+11	//	//	PUNCT	_	_	_	_	_	AlignBegin=72150|AlignEnd=72320|nWord=10|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_050-050
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 72320, 72840
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=72320|AlignEnd=72580|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=72580|AlignEnd=72840|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_051-051
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 73274, 74154
+# phonetic_text = kóː dzàŋ &// 
+# text = kóː dzàŋ &//
+# text_en =  Or the day...
+1	kóː	kóː	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=73274|AlignEnd=73567|nWord=1|Gloss=or|GE=or|RX=[CONJ].[BW].[HAU]
+2	dzàŋ	dzàŋ	NOUN	_	_	_	_	_	AlignBegin=73567|AlignEnd=73860|nWord=2|Gloss=day|GE=day|RX=[N]
+3	&//	&//	PUNCT	_	_	_	_	_	AlignBegin=73860|AlignEnd=74154|nWord=3|Gloss=PUNCT|GE=[&//]
+
+# sent_id = SAY_BC_INT_05_Morals_052-058
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 73626, 78881
+# phonetic_text = báː tə̀tàyáː kúːp =kí gyáː ngə́tn wón tu [ máni -ə́n -ɗi !//= mə̀ ɬə́n ndə̂ːr !//= mə̀ git =kí gyáː ŋantsə́ kóː gyáː ngə́tn -i gón !//] hŋ́ a: ?// 
+# text = bàː tə̀tàyáː kǔːpkí gyáː ngə́tn wón tu [ mǎːndi !//= mə̀ ɬə̌n ndə̂ːr !//= mə̀ gìtkí gyáː ŋantsə́ kóː gyáː ngə́ʃi gón !//] hŋ́ aː ?//
+# text_en =  Didn't they used to teach you like "Come,  let's go to the bush let's show you some trees  or some things." ?
+1	báː	báː	PART	_	Polarity=Neg	_	_	_	AlignBegin=73626|AlignEnd=73856|nWord=1|Gloss=NEG1|GE=[NEG1]|RX=[PTCL].[NEG]
+2	tə̀tàyáː	tə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=73856|AlignEnd=74086|nWord=2|Gloss=3PL.REM.ICPL|GE=[3PL].[REM].[ICPL]|RX=[PNTAM]
+3	kúːp	kúːp	VERB	_	_	_	_	_	AlignBegin=74086|AlignEnd=74201|nWord=3|Gloss=teach|GE=teach|RX=[V]
+4	=kí	=kí	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=74201|AlignEnd=74316|nWord=3|Gloss=2PL.OBJ|GE=[2PL].[OBJ]|RX=[PRO]
+5	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=74316|AlignEnd=74546|nWord=4|Gloss=PL|GE=[PL]|RX=[DET]
+6	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=74546|AlignEnd=74776|nWord=5|Gloss=thing|GE=thing|RX=[N]
+7	wón	wón	DET	_	Definite=Spec	_	_	_	AlignBegin=74776|AlignEnd=75006|nWord=6|Gloss=QLT|GE=[QLT]|RX=[DET]
+8	tu	tu	PART	_	_	_	_	_	AlignBegin=75006|AlignEnd=75238|nWord=7|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+9	[	[	PART	_	_	_	_	_	AlignBegin=75238|AlignEnd=75384|nWord=8|GE=[[]
+10	máni	máni	VERB	_	_	_	_	_	AlignBegin=75384|AlignEnd=75433|nWord=9|Gloss=come|GE=come|RX=[V]
+11	-ə́n	-ə́n	AUX	_	Mood=Imp|Number=Plur	_	_	_	AlignBegin=75433|AlignEnd=75482|nWord=9|Gloss=IMP.PL|GE=[IMP].[PL]|RX=[PNTAM]
+12	-ɗi	-ɗi	PART	_	VerbForm=Ctp	_	_	_	AlignBegin=75482|AlignEnd=75530|nWord=9|Gloss=CTP|GE=[CTP]|RX=[PTCL]
+13	!//=	!//=	PUNCT	_	_	_	_	_	AlignBegin=75530|AlignEnd=75675|nWord=10|Gloss=<|Gloss=PUNCT|GE=[<]
+14	mə̀	mə̀	AUX	_	Mood=Sub|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=75675|AlignEnd=75837|nWord=11|Gloss=1PL.SBJV|GE=[1PL].[SBJV]|RX=[PNTAM]
+15	ɬə́n	ɬə́n	VERB	_	Number=Plur	_	_	_	AlignBegin=75837|AlignEnd=75999|nWord=12|Gloss=go|GE=go|RX=[V].[PLAC]
+16	ndə̂ːr	ndə̂ːr	NOUN	_	_	_	_	_	AlignBegin=75999|AlignEnd=76161|nWord=13|Gloss=bush|GE=bush|RX=[N]
+17	!//=	!//=	PUNCT	_	_	_	_	_	AlignBegin=76161|AlignEnd=76325|nWord=14|Gloss=<|Gloss=PUNCT|GE=[<]
+18	mə̀	mə̀	AUX	_	Mood=Sub|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=76325|AlignEnd=76593|nWord=15|Gloss=1PL.SBJV|GE=[1PL].[SBJV]|RX=[PNTAM]
+19	git	git	VERB	_	_	_	_	_	AlignBegin=76593|AlignEnd=76727|nWord=16|Gloss=show|GE=show|RX=[V]
+20	=kí	=kí	PRON	_	Case=Acc|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=76727|AlignEnd=76861|nWord=16|Gloss=2PL.OBJ|GE=[2PL].[OBJ]|RX=[PRO]
+21	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=76861|AlignEnd=77252|nWord=17|Gloss=PL|GE=[PL]|RX=[DET]
+22	ŋantsə́	ŋantsə́	NOUN	_	_	_	_	_	AlignBegin=77252|AlignEnd=77655|nWord=18|Gloss=wood|GE=wood|RX=[N]
+23	kóː	kóː	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=77655|AlignEnd=77808|nWord=19|Gloss=or|GE=or|RX=[CONJ].[BW].[HAU]
+24	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=77808|AlignEnd=77961|nWord=20|Gloss=PL|GE=[PL]|RX=[DET]
+25	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=77961|AlignEnd=78037|nWord=21|Gloss=thing|GE=thing|RX=[N]
+26	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=78037|AlignEnd=78114|nWord=21|Gloss=INDF|GE=[INDF]|RX=[ART]
+27	gón	gón	DET	_	Definite=Spec	_	_	_	AlignBegin=78114|AlignEnd=78267|nWord=22|Gloss=QLT|GE=[QLT]|RX=[DET]
+28	!//]	!//]	PUNCT	_	_	_	_	_	AlignBegin=78267|AlignEnd=78420|nWord=23|Gloss=PUNCT|GE=[!//]]
+29	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=78420|AlignEnd=78573|nWord=24|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+30	a:	a:	PART	_	PartType=Int	_	_	_	AlignBegin=78573|AlignEnd=78726|nWord=25|Gloss=VRT|GE=[VRT]|RX=[PTCL].[ASS]
+31	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=78726|AlignEnd=78881|nWord=26|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_059-059
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 79360, 80193
+# phonetic_text = áː gíː tá ká &// 
+# text = áː gíː tá ká &//
+# text_en =  Er... that, then, you...
+1	áː	áː	INTJ	_	_	_	_	_	AlignBegin=79360|AlignEnd=79527|nWord=1|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+2	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=79527|AlignEnd=79694|nWord=2|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
+3	tá	tá	SCONJ	_	_	_	_	_	AlignBegin=79694|AlignEnd=79861|nWord=3|Gloss=then|GE=then|RX=[CONJ]
+4	ká	ká	AUX	_	Number=Plur|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=79861|AlignEnd=80028|nWord=4|Gloss=2PL.FUT|GE=[2PL].[FUT]|RX=[PNTAM]
+5	&//	&//	PUNCT	_	_	_	_	_	AlignBegin=80028|AlignEnd=80193|nWord=5|Gloss=PUNCT|GE=[&//]
+
+# sent_id = SAY_BC_INT_05_Morals_060-063
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 80193, 84700
+# phonetic_text = m̀ː kàːká =wôpm || m̀ː kàːká =wôpm tàyáː git =mə sòːséy ʧík // 
+# text = m̀ː kàːkáwôpm || m̀ː kàːkáwôpm tàyáː giɗəm sòːséy ʧík //
+# text_en =  Er... our grandfathers... er... our grandparents used to teach us very well.§ 
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=80193|AlignEnd=80694|nWord=1|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+2	kàːká	kàːká	NOUN	_	_	_	_	_	AlignBegin=80694|AlignEnd=80948|nWord=2|Gloss=grandfather|GE=grandfather|RX=[N]
+3	=wôpm	=wôpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=80948|AlignEnd=81202|nWord=2|Gloss=1PL.POS|GE=[1PL].[POS]|RX=[PRO]
+4	||	||	PRON	_	_	_	_	_	AlignBegin=81202|AlignEnd=81709|nWord=3|GE=[$$]
+5	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=82697|AlignEnd=83266|nWord=4|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+6	kàːká	kàːká	NOUN	_	_	_	_	_	AlignBegin=83266|AlignEnd=83386|nWord=5|Gloss=grandfather|GE=grandfather|RX=[N]
+7	=wôpm	=wôpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=83386|AlignEnd=83505|nWord=5|Gloss=1PL.POS|GE=[1PL].[POS]|RX=[PRO]
+8	tàyáː	tàyáː	AUX	_	Aspect=Imp|Tense=Rem	_	_	_	AlignBegin=83505|AlignEnd=83744|nWord=6|Gloss=REM.ICPL|GE=[REM].[ICPL]|RX=[TAM]
+9	git	git	VERB	_	_	_	_	_	AlignBegin=83744|AlignEnd=83864|nWord=7|Gloss=show|GE=show|RX=[V]
+10	=mə	=mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=83864|AlignEnd=83983|nWord=7|Gloss=1SG.OBJ|GE=[1SG].[OBJ]|RX=[PRO]
+11	sòːséy	sòːséy	ADV	_	_	_	_	_	AlignBegin=83983|AlignEnd=84222|nWord=8|Gloss=quite|GE=quite|RX=[ADV]
+12	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=84222|AlignEnd=84461|nWord=9|Gloss=thus|GE=thus|RX=[ADV]
+13	//	//	PUNCT	_	_	_	_	_	AlignBegin=84461|AlignEnd=84700|nWord=10|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_064-067
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 85160, 88872
+# phonetic_text = gyáː wukn kə́ vwàː vwaːt -kə́nì ɗan dogoɲáːro ʧáː vwaːt -ín < tòː myáːni < mətáyǎː ngaː áy // 
+# text = gyáː wukn kə́ vwàː vwàːtkə̀n ɗan dogoɲáːro ʧáː vwàːɗín < tôː myâːn < mətáyáː ngaː áy //
+# text_en =  That medicine for rubbing on the stomach which  DogonYaro is using,  well me, I used to collect it.
+1	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=85160|AlignEnd=85372|nWord=1|Gloss=PL|GE=[PL]|RX=[DET]
+2	wukn	wukn	NOUN	_	_	_	_	_	AlignBegin=85372|AlignEnd=85584|nWord=2|Gloss=medicine|GE=medicine|RX=[N]
+3	kə́	kə́	ADP	_	_	_	_	_	AlignBegin=85584|AlignEnd=85796|nWord=3|Gloss=POSL|GE=[POSL]|RX=[PTCL]
+4	vwàː	vwàː	NOUN	_	_	_	_	_	AlignBegin=85796|AlignEnd=86008|nWord=4|Gloss=belly|GE=belly|RX=[N]
+5	vwaːt	vwaːt	VERB	_	_	_	_	_	AlignBegin=86008|AlignEnd=86114|nWord=5|Gloss=massage|GE=massage|RX=[V]
+6	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=86114|AlignEnd=86220|nWord=5|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+7	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=86220|AlignEnd=86429|nWord=6|Gloss=that|GE=that|RX=[REL]
+8	dogoɲáːro	dogoɲáːro	NOUN	_	_	_	_	_	AlignBegin=86429|AlignEnd=86617|nWord=7|Gloss=DogonYaro|GE=[DogonYaro]|RX=[N].[P]
+9	ʧáː	ʧáː	AUX	_	Aspect=Imp|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=86617|AlignEnd=86805|nWord=8|Gloss=3SG.ICPL|GE=[3SG].[ICPL]|RX=[PNTAM]
+10	vwaːt	vwaːt	VERB	_	_	_	_	_	AlignBegin=86805|AlignEnd=86899|nWord=9|Gloss=massage|GE=massage|RX=[V]
+11	-ín	-ín	DET	_	PronType=Dem	_	_	_	AlignBegin=86899|AlignEnd=86993|nWord=9|Gloss=PROX|GE=[PROX]|RX=[DEICT]
+12	<	<	PUNCT	_	_	_	_	_	AlignBegin=86993|AlignEnd=87180|nWord=10|Gloss=PUNCT|GE=[<]
+13	tòː	tòː	PART	_	_	_	_	_	AlignBegin=87860|AlignEnd=87955|nWord=11|Gloss=DM|GE=[DM]|RX=[PTCL]
+14	myáːni	myáːni	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=87955|AlignEnd=88050|nWord=12|Gloss=1SG.IDP|GE=[1SG].[IDP]|RX=[PRO]
+15	<	<	PUNCT	_	_	_	_	_	AlignBegin=88050|AlignEnd=88146|nWord=13|Gloss=PUNCT|GE=[<]
+16	mətáyǎː	mətáyǎː	AUX	_	Aspect=Imp|Number=Sing|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=88146|AlignEnd=88328|nWord=14|Gloss=1SG.REM.ICPL|GE=[1SG].[REM].[ICPL]|RX=[PNTAM]
+17	ngaː	ngaː	VERB	_	_	_	_	_	AlignBegin=88328|AlignEnd=88510|nWord=15|Gloss=fetch|GE=fetch|RX=[V]
+18	áy	áy	INTJ	_	_	_	_	_	AlignBegin=88510|AlignEnd=88692|nWord=16|Gloss=indeed|GE=indeed|RX=[EXCL]
+19	//	//	PUNCT	_	_	_	_	_	AlignBegin=88692|AlignEnd=88872|nWord=17|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_068-068
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 89320, 90371
+# phonetic_text = mə gaː =tə mə́n tu &// 
+# text = mə gáːtə mə́n tu &//
+# text_en =  I left it for him...
+1	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=89320|AlignEnd=89530|nWord=1|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+2	gaː	gaː	VERB	_	_	_	_	_	AlignBegin=89530|AlignEnd=89635|nWord=2|Gloss=leave|GE=leave|RX=[V]
+3	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=89635|AlignEnd=89740|nWord=2|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+4	mə́n	mə́n	PART	_	Case=Ben	_	_	_	AlignBegin=89740|AlignEnd=89950|nWord=3|Gloss=BEN|GE=[BEN]|RX=[PTCL]
+5	tu	tu	PART	_	_	_	_	_	AlignBegin=89950|AlignEnd=90160|nWord=4|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+6	&//	&//	PUNCT	_	_	_	_	_	AlignBegin=90160|AlignEnd=90371|nWord=5|Gloss=PUNCT|GE=[&//]
+
+# sent_id = SAY_BC_INT_05_Morals_069-070
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 90371, 92580
+# phonetic_text = mì də̀n ʧim =tə < tòː ʧáː vwaːt kən // 
+# text = mì də̀n ʧímtə < tôː ʧáː vwaːt kəndí //
+# text_en =  as we were together in the house he rubbed it on. 
+1	mì	mì	VERB	_	Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=90371|AlignEnd=90558|nWord=1|Gloss=1PL.be|GE=[1PL].[be]|RX=[PRO].[V*]
+2	də̀n	də̀n	NOUN	_	_	_	_	_	AlignBegin=90558|AlignEnd=90745|nWord=2|Gloss=house|GE=house|RX=[N]
+3	ʧim	ʧim	ADP	_	_	_	_	_	AlignBegin=90745|AlignEnd=90839|nWord=3|Gloss=with|GE=with|RX=[PREP]
+4	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=90839|AlignEnd=90932|nWord=3|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+5	<	<	PUNCT	_	_	_	_	_	AlignBegin=90932|AlignEnd=91119|nWord=4|Gloss=PUNCT|GE=[<]
+6	tòː	tòː	PART	_	_	_	_	_	AlignBegin=91119|AlignEnd=91304|nWord=5|Gloss=DM|GE=[DM]|RX=[PTCL]
+7	ʧáː	ʧáː	AUX	_	Aspect=Imp|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=91860|AlignEnd=92040|nWord=6|Gloss=3SG.ICPL|GE=[3SG].[ICPL]|RX=[PNTAM]
+8	vwaːt	vwaːt	VERB	_	_	_	_	_	AlignBegin=92040|AlignEnd=92220|nWord=7|Gloss=massage|GE=massage|RX=[V]
+9	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=92220|AlignEnd=92400|nWord=8|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+10	//	//	PUNCT	_	_	_	_	_	AlignBegin=92400|AlignEnd=92580|nWord=9|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_071-072
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 93200, 95460
+# phonetic_text = tə́ gyáː wukn -́ farfaːɗa < mə yisə́ŋ ngaː -kə́nì =wôs -íː // 
+# text = tə́ gyáː wǔkn farfaːɗa < mə yísə́ŋ ngáːkə́nwòʃíː //
+# text_en =  And that medicine for epilepsy,  I knew [how to] get it. 
+1	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=93200|AlignEnd=93400|nWord=1|Gloss=with|GE=with|RX=[PREP]
+2	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=93400|AlignEnd=93600|nWord=2|Gloss=PL|GE=[PL]|RX=[DET]
+3	wukn	wukn	NOUN	_	_	_	_	_	AlignBegin=93600|AlignEnd=93700|nWord=3|Gloss=medicine|GE=medicine|RX=[N]
+4	-́	-́	PART	_	Case=Gen	_	_	_	AlignBegin=93700|AlignEnd=93800|nWord=3|Gloss=POS|GE=[POS]|RX=[PTCL].[SYNT]
+5	farfaːɗa	farfaːɗa	NOUN	_	_	_	_	_	AlignBegin=93800|AlignEnd=94000|nWord=4|Gloss=epilepsy|GE=epilepsy|RX=[N]
+6	<	<	PUNCT	_	_	_	_	_	AlignBegin=94000|AlignEnd=94200|nWord=5|Gloss=PUNCT|GE=[<]
+7	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=94460|AlignEnd=94710|nWord=6|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+8	yisə́ŋ	yisə́ŋ	VERB	_	_	_	_	_	AlignBegin=94710|AlignEnd=94960|nWord=7|Gloss=know|GE=know|RX=[V]
+9	ngaː	ngaː	VERB	_	_	_	_	_	AlignBegin=94960|AlignEnd=95022|nWord=8|Gloss=fetch|GE=fetch|RX=[V]
+10	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=95022|AlignEnd=95084|nWord=8|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+11	=wôs	=wôs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=95084|AlignEnd=95146|nWord=8|Gloss=3SG.POS|GE=[3SG].[POS]|RX=[PRO]
+12	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=95146|AlignEnd=95210|nWord=8|Gloss=RES|GE=[RES]|RX=[TAM]
+13	//	//	PUNCT	_	_	_	_	_	AlignBegin=95210|AlignEnd=95460|nWord=9|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_076-076
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 100259, 100455
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=100259|AlignEnd=100357|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=100357|AlignEnd=100455|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_073-078
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 96560, 102800
+# phonetic_text = tə́ gyáː wukn -́ mâːm ɗan gə̀t yáː ɓwaː < tòː mâːm -i mará -íː // tòː < ma ngaː wukn -i máni vər gə̀t -ês // 
+# text = tə́ gyáː wǔkn mâːm ɗan gə̀t yáː ɓwâː < tôː máːmi màráy // tôː < ma ngaː wuki mán vər gə̀ɗès //
+# text_en =  And that medicine for breasts that... if a woman has given birth, her breasts hurt,  well,  I would fetch the medicine and go and give it to the woman.
+1	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=96560|AlignEnd=96770|nWord=1|Gloss=with|GE=with|RX=[PREP]
+2	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=96770|AlignEnd=96980|nWord=2|Gloss=PL|GE=[PL]|RX=[DET]
+3	wukn	wukn	NOUN	_	_	_	_	_	AlignBegin=96980|AlignEnd=97085|nWord=3|Gloss=medicine|GE=medicine|RX=[N]
+4	-́	-́	PART	_	Case=Gen	_	_	_	AlignBegin=97085|AlignEnd=97190|nWord=3|Gloss=POS|GE=[POS]|RX=[PTCL].[SYNT]
+5	mâːm	mâːm	NOUN	_	_	_	_	_	AlignBegin=97190|AlignEnd=97400|nWord=4|Gloss=breast|GE=breast|RX=[N]
+6	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=97760|AlignEnd=98220|nWord=5|Gloss=that|GE=that|RX=[REL]
+7	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=98740|AlignEnd=98888|nWord=6|Gloss=woman|GE=woman|RX=[N]
+8	yáː	yáː	AUX	_	Mood=Cond|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=98888|AlignEnd=99036|nWord=7|Gloss=3SG.COND|GE=[3SG].[COND]|RX=[PNTAM]
+9	ɓwaː	ɓwaː	VERB	_	_	_	_	_	AlignBegin=99036|AlignEnd=99184|nWord=8|Gloss=give_birth|GE=give_birth|RX=[V]
+10	<	<	PUNCT	_	_	_	_	_	AlignBegin=99184|AlignEnd=99332|nWord=9|Gloss=PUNCT|GE=[<]
+11	tòː	tòː	PART	_	_	_	_	_	AlignBegin=99332|AlignEnd=99480|nWord=10|Gloss=DM|GE=[DM]|RX=[PTCL]
+12	mâːm	mâːm	NOUN	_	_	_	_	_	AlignBegin=99480|AlignEnd=99554|nWord=11|Gloss=breast|GE=breast|RX=[N]
+13	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=99554|AlignEnd=99628|nWord=11|Gloss=INDF|GE=[INDF]|RX=[ART]
+14	mará	mará	VERB	_	_	_	_	_	AlignBegin=99628|AlignEnd=99702|nWord=12|Gloss=spoil|GE=spoil|RX=[V]
+15	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=99702|AlignEnd=99776|nWord=12|Gloss=RES|GE=[RES]|RX=[TAM]
+16	//	//	PUNCT	_	_	_	_	_	AlignBegin=99776|AlignEnd=99920|nWord=13|Gloss=PUNCT|GE=[//]
+17	tòː	tòː	PART	_	_	_	_	_	AlignBegin=101160|AlignEnd=101337|nWord=14|Gloss=DM|GE=[DM]|RX=[PTCL]
+18	<	<	PUNCT	_	_	_	_	_	AlignBegin=101337|AlignEnd=101514|nWord=15|Gloss=PUNCT|GE=[<]
+19	ma	ma	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=101514|AlignEnd=101698|nWord=16|Gloss=1SG.FUT|GE=[1SG].[FUT]|RX=[PNTAM]
+20	ngaː	ngaː	VERB	_	_	_	_	_	AlignBegin=101698|AlignEnd=101882|nWord=17|Gloss=fetch|GE=fetch|RX=[V]
+21	wukn	wukn	NOUN	_	_	_	_	_	AlignBegin=101882|AlignEnd=101974|nWord=18|Gloss=medicine|GE=medicine|RX=[N]
+22	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=101974|AlignEnd=102066|nWord=18|Gloss=INDF|GE=[INDF]|RX=[ART]
+23	máni	máni	VERB	_	_	_	_	_	AlignBegin=102066|AlignEnd=102250|nWord=19|Gloss=come|GE=come|RX=[V]
+24	vər	vər	VERB	_	_	_	_	_	AlignBegin=102250|AlignEnd=102434|nWord=20|Gloss=give|GE=give|RX=[V]
+25	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=102434|AlignEnd=102526|nWord=21|Gloss=woman|GE=woman|RX=[N]
+26	-ês	-ês	DET	_	Definite=Def	_	_	_	AlignBegin=102526|AlignEnd=102618|nWord=21|Gloss=DEF|GE=[DEF]|RX=[ART]
+27	//	//	PUNCT	_	_	_	_	_	AlignBegin=102618|AlignEnd=102800|nWord=22|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_079-081
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 103080, 105080
+# phonetic_text = tòː < mâːm -i wò fi -íː ndaːrá // fi sàlàlà // 
+# text = tôː < máːmi wò fíː ndaːrá // fi sàlàlà //
+# text_en =   Well the breast would be fine,  and flow freely.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=103080|AlignEnd=103226|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=103226|AlignEnd=103373|nWord=2|Gloss=PUNCT|GE=[<]
+3	mâːm	mâːm	NOUN	_	_	_	_	_	AlignBegin=103373|AlignEnd=103485|nWord=3|Gloss=breast|GE=breast|RX=[N]
+4	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=103485|AlignEnd=103598|nWord=3|Gloss=INDF|GE=[INDF]|RX=[ART]
+5	wò	wò	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=103598|AlignEnd=103823|nWord=4|Gloss=3SG.FUT|GE=[3SG].[FUT]|RX=[PNTAM]
+6	fi	fi	VERB	_	_	_	_	_	AlignBegin=103823|AlignEnd=103935|nWord=5|Gloss=do|GE=do|RX=[V]
+7	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=103935|AlignEnd=104048|nWord=5|Gloss=RES|GE=[RES]|RX=[TAM]
+8	ndaːrá	ndaːrá	ADJ	_	_	_	_	_	AlignBegin=104048|AlignEnd=104273|nWord=6|Gloss=nice|GE=nice|RX=[ADJ]
+9	//	//	PUNCT	_	_	_	_	_	AlignBegin=104273|AlignEnd=104500|nWord=7|Gloss=PUNCT|GE=[//]
+10	fi	fi	VERB	_	_	_	_	_	AlignBegin=104620|AlignEnd=104773|nWord=8|Gloss=do|GE=do|RX=[V]
+11	sàlàlà	sàlàlà	NOUN	_	_	_	_	_	AlignBegin=104773|AlignEnd=104926|nWord=9|Gloss=watery_kunu|GE=watery_kunu|RX=[N]
+12	//	//	PUNCT	_	_	_	_	_	AlignBegin=104926|AlignEnd=105080|nWord=10|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_082-082
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 106280, 107033
+# phonetic_text = tòː gíː yi ʧík // 
+# text = tôː gíː yi ʧík //
+# text_en =  That's how it is.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=106280|AlignEnd=106431|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=106431|AlignEnd=106582|nWord=2|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
+3	yi	yi	VERB	_	_	_	_	_	AlignBegin=106582|AlignEnd=106733|nWord=3|Gloss=be|GE=be|RX=[V]
+4	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=106733|AlignEnd=106884|nWord=4|Gloss=thus|GE=thus|RX=[ADV]
+5	//	//	PUNCT	_	_	_	_	_	AlignBegin=106884|AlignEnd=107033|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_083-088
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 107033, 112360
+# phonetic_text = átâyáː fuː =mí || tòː wul tu ŋantsə́ -i giní < gwàːs -i giní < ka ɓəl gwàːs -i giní tə́ giní tə́ giní tə́ giní // 
+# text = átâyáː fuːmí || tôː wul tu ŋanʧí giní < gwàːʃì gín < ka ɓəl gwàːʃì gín tə́ gín tə́ gín tə́ gín //
+# text_en =  They told us well they said that... this tree,  as for it,  you would dig this tree and this and this and this.
+1	átâyáː	átâyáː	AUX	_	Aspect=Imp|Number=Sing|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=107033|AlignEnd=107289|nWord=1|Gloss=3SG.REM.ICPL|GE=[3SG].[REM].[ICPL]|RX=[PNTAM]
+2	fuː	fuː	VERB	_	_	_	_	_	AlignBegin=107289|AlignEnd=107417|nWord=2|Gloss=tell|GE=tell|RX=[V]
+3	=mí	=mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=107417|AlignEnd=107545|nWord=2|Gloss=1PL.OBJ|GE=[1PL].[OBJ]|RX=[PRO]
+4	||	||	PRON	_	_	_	_	_	AlignBegin=107545|AlignEnd=107800|nWord=3|GE=[$$]
+5	tòː	tòː	PART	_	_	_	_	_	AlignBegin=107800|AlignEnd=107927|nWord=4|Gloss=DM|GE=[DM]|RX=[PTCL]
+6	wul	wul	VERB	_	_	_	_	_	AlignBegin=107927|AlignEnd=108054|nWord=5|Gloss=say|GE=say|RX=[V]
+7	tu	tu	PART	_	_	_	_	_	AlignBegin=108054|AlignEnd=108180|nWord=6|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+8	ŋantsə́	ŋantsə́	NOUN	_	_	_	_	_	AlignBegin=108700|AlignEnd=108814|nWord=7|Gloss=wood|GE=wood|RX=[N]
+9	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=108814|AlignEnd=108927|nWord=7|Gloss=INDF|GE=[INDF]|RX=[ART]
+10	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=108927|AlignEnd=109154|nWord=8|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+11	<	<	PUNCT	_	_	_	_	_	AlignBegin=109154|AlignEnd=109380|nWord=9|Gloss=PUNCT|GE=[<]
+12	gwàːs	gwàːs	NOUN	_	_	_	_	_	AlignBegin=109520|AlignEnd=109604|nWord=10|Gloss=tree|GE=tree|RX=[N]
+13	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=109604|AlignEnd=109687|nWord=10|Gloss=INDF|GE=[INDF]|RX=[ART]
+14	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=109687|AlignEnd=109854|nWord=11|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+15	<	<	PUNCT	_	_	_	_	_	AlignBegin=109854|AlignEnd=110020|nWord=12|Gloss=PUNCT|GE=[<]
+16	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=110680|AlignEnd=110866|nWord=13|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
+17	ɓəl	ɓəl	VERB	_	_	_	_	_	AlignBegin=110866|AlignEnd=111052|nWord=14|Gloss=dig|GE=dig|RX=[V]
+18	gwàːs	gwàːs	NOUN	_	_	_	_	_	AlignBegin=111052|AlignEnd=111145|nWord=15|Gloss=tree|GE=tree|RX=[N]
+19	-i	-i	SCONJ	_	VerbForm=Inf	_	_	_	AlignBegin=111145|AlignEnd=111238|nWord=15|Gloss=INF|GE=[INF]|RX=[SUFX]
+20	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=111238|AlignEnd=111424|nWord=16|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+21	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=111424|AlignEnd=111558|nWord=17|Gloss=with|GE=with|RX=[PREP]
+22	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=111558|AlignEnd=111692|nWord=18|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+23	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=111692|AlignEnd=111826|nWord=19|Gloss=with|GE=with|RX=[PREP]
+24	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=111826|AlignEnd=111960|nWord=20|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+25	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=111960|AlignEnd=112094|nWord=21|Gloss=with|GE=with|RX=[PREP]
+26	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=112094|AlignEnd=112228|nWord=22|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+27	//	//	PUNCT	_	_	_	_	_	AlignBegin=112228|AlignEnd=112360|nWord=23|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_089-089
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 112779, 113760
+# phonetic_text = nə ɬərti -́ -ín ka ɓəl fáː // 
+# text = nə ɬərtín ka ɓəl fáː //
+# text_en =  It's this root you will dig indeed.
+1	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=112779|AlignEnd=112943|nWord=1|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+2	ɬərti	ɬərti	NOUN	_	_	_	_	_	AlignBegin=112943|AlignEnd=112998|nWord=2|Gloss=root|GE=root|RX=[N]
+3	-́	-́	PART	_	Case=Gen	_	_	_	AlignBegin=112998|AlignEnd=113053|nWord=2|Gloss=POS|GE=[POS]|RX=[PTCL].[SYNT]
+4	-ín	-ín	DET	_	PronType=Dem	_	_	_	AlignBegin=113053|AlignEnd=113107|nWord=2|Gloss=PROX|GE=[PROX]|RX=[DEICT]
+5	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=113107|AlignEnd=113271|nWord=3|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
+6	ɓəl	ɓəl	VERB	_	_	_	_	_	AlignBegin=113271|AlignEnd=113435|nWord=4|Gloss=dig|GE=dig|RX=[V]
+7	fáː	fáː	PART	_	_	_	_	_	AlignBegin=113435|AlignEnd=113599|nWord=5|Gloss=indeed|GE=indeed|RX=[PTCL].[TOP]
+8	//	//	PUNCT	_	_	_	_	_	AlignBegin=113599|AlignEnd=113760|nWord=6|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_090-090
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 114060, 114279
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=114060|AlignEnd=114170|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=114170|AlignEnd=114279|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_091-094
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 114740, 117485
+# phonetic_text = ka ɓəl -ni gyáː ɬərti -́ giní tə́ ɬərti -́ giní tə́ ɬərti -́ giní |c tòː àː haɗá -íː // 
+# text = ka ɓəlni gyáː ɬərtí giní tə́ ɬərtí gín tə́ ɬərtí gín |c tôː àː háɗáy //
+# text_en =  You would dig this root,  and this one and this one,  then you would mix them.
+1	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=114740|AlignEnd=114973|nWord=1|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
+2	ɓəl	ɓəl	VERB	_	_	_	_	_	AlignBegin=114973|AlignEnd=115089|nWord=2|Gloss=dig|GE=dig|RX=[V]
+3	-ni	-ni	PART	_	Aspect=Inch	_	_	_	AlignBegin=115089|AlignEnd=115206|nWord=2|Gloss=INCH|GE=[INCH]|RX=[PTCL].[EXT]
+4	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=115206|AlignEnd=115439|nWord=3|Gloss=PL|GE=[PL]|RX=[DET]
+5	ɬərti	ɬərti	NOUN	_	_	_	_	_	AlignBegin=115439|AlignEnd=115555|nWord=4|Gloss=root|GE=root|RX=[N]
+6	-́	-́	PART	_	Case=Gen	_	_	_	AlignBegin=115555|AlignEnd=115672|nWord=4|Gloss=POS|GE=[POS]|RX=[PTCL].[SYNT]
+7	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=115672|AlignEnd=115903|nWord=5|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+8	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=115903|AlignEnd=116097|nWord=6|Gloss=with|GE=with|RX=[PREP]
+9	ɬərti	ɬərti	NOUN	_	_	_	_	_	AlignBegin=116097|AlignEnd=116194|nWord=7|Gloss=root|GE=root|RX=[N]
+10	-́	-́	PART	_	Case=Gen	_	_	_	AlignBegin=116194|AlignEnd=116291|nWord=7|Gloss=POS|GE=[POS]|RX=[PTCL].[SYNT]
+11	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=116291|AlignEnd=116484|nWord=8|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+12	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=116484|AlignEnd=116616|nWord=9|Gloss=with|GE=with|RX=[PREP]
+13	ɬərti	ɬərti	NOUN	_	_	_	_	_	AlignBegin=116616|AlignEnd=116682|nWord=10|Gloss=root|GE=root|RX=[N]
+14	-́	-́	PART	_	Case=Gen	_	_	_	AlignBegin=116682|AlignEnd=116748|nWord=10|Gloss=POS|GE=[POS]|RX=[PTCL].[SYNT]
+15	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=116748|AlignEnd=116880|nWord=11|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+16	|c	|c	PRON	_	PronType=Dem	_	_	_	AlignBegin=116880|AlignEnd=117014|nWord=12|GE=$c
+17	tòː	tòː	PART	_	_	_	_	_	AlignBegin=117014|AlignEnd=117132|nWord=13|Gloss=DM|GE=[DM]|RX=[PTCL]
+18	àː	àː	AUX	_	Mood=Sub|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=117132|AlignEnd=117250|nWord=14|Gloss=2SG.SBJV|GE=[2SG].[SBJV]|RX=[PNTAM]
+19	haɗá	haɗá	VERB	_	_	_	_	_	AlignBegin=117250|AlignEnd=117309|nWord=15|Gloss=join|GE=join|RX=[V]
+20	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=117309|AlignEnd=117368|nWord=15|Gloss=RES|GE=[RES]|RX=[TAM]
+21	//	//	PUNCT	_	_	_	_	_	AlignBegin=117368|AlignEnd=117485|nWord=16|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_095-096
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 117485, 118654
+# phonetic_text = àː gamá =ʃí =wáːsə̀ŋ -íː // 
+# text = àː gámáʃíwâːsə̀ŋíː //
+# text_en =  You would...  mix them together.
+1	àː	àː	AUX	_	Mood=Sub|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=117485|AlignEnd=117894|nWord=1|Gloss=2SG.SBJV|GE=[2SG].[SBJV]|RX=[PNTAM]
+2	gamá	gamá	VERB	_	_	_	_	_	AlignBegin=117894|AlignEnd=117989|nWord=2|Gloss=gather|GE=gather|RX=[V]
+3	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=117989|AlignEnd=118084|nWord=2|Gloss=3PL.OBJ|GE=[3PL].[OBJ]|RX=[PRO]
+4	=wáːsə̀ŋ	=wáːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=118084|AlignEnd=118179|nWord=2|Gloss=3PL.POS|GE=[3PL].[POS]|RX=[PRO]
+5	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=118179|AlignEnd=118274|nWord=2|Gloss=RES|GE=[RES]|RX=[TAM]
+6	//	//	PUNCT	_	_	_	_	_	AlignBegin=118274|AlignEnd=118654|nWord=3|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_097-097
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 119420, 120980
+# phonetic_text = tòː yáːni kən wò fi wukn -i giní ɗányâːl -ín // 
+# text = tôː yáːni kən wò fi wuki gín ɗányâːlín //
+# text_en =  Well this is what will make this very medicine.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=119420|AlignEnd=119593|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	yáːni	yáːni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=119593|AlignEnd=119766|nWord=2|Gloss=3SG.IDP|GE=[3SG].[IDP]|RX=[PRO]
+3	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=119766|AlignEnd=119939|nWord=3|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+4	wò	wò	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=119939|AlignEnd=120112|nWord=4|Gloss=3SG.FUT|GE=[3SG].[FUT]|RX=[PNTAM]
+5	fi	fi	VERB	_	_	_	_	_	AlignBegin=120112|AlignEnd=120285|nWord=5|Gloss=do|GE=do|RX=[V]
+6	wukn	wukn	NOUN	_	_	_	_	_	AlignBegin=120285|AlignEnd=120371|nWord=6|Gloss=medicine|GE=medicine|RX=[N]
+7	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=120371|AlignEnd=120458|nWord=6|Gloss=INDF|GE=[INDF]|RX=[ART]
+8	giní	giní	PRON	_	PronType=Dem	_	_	_	AlignBegin=120458|AlignEnd=120631|nWord=7|Gloss=PROX|GE=[PROX]|RX=[PRO].[DEICT]
+9	ɗányâːl	ɗányâːl	DET	_	_	_	_	_	AlignBegin=120631|AlignEnd=120717|nWord=8|Gloss=as_it_is|GE=as_it_is|RX=[DET]
+10	-ín	-ín	DET	_	PronType=Dem	_	_	_	AlignBegin=120717|AlignEnd=120804|nWord=8|Gloss=PROX|GE=[PROX]|RX=[DEICT]
+11	//	//	PUNCT	_	_	_	_	_	AlignBegin=120804|AlignEnd=120980|nWord=9|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_098-098
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 122560, 122901
+# phonetic_text = tòː // 
+# text = tôː //
+# text_en =  Well.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=122560|AlignEnd=122730|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=122730|AlignEnd=122901|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_099-099
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 122901, 124023
+# phonetic_text = ngə́tn ɗan mə̀tàyáː fi =tə kən // 
+# text = ngə́tn ɗan mə̀tàyáː fítə̀ kəndí //
+# text_en =  That's what we used to do.
+1	ngə́tn	ngə́tn	NOUN	_	_	_	_	_	AlignBegin=122901|AlignEnd=123088|nWord=1|Gloss=thing|GE=thing|RX=[N]
+2	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=123088|AlignEnd=123275|nWord=2|Gloss=that|GE=that|RX=[REL]
+3	mə̀tàyáː	mə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=123275|AlignEnd=123462|nWord=3|Gloss=1PL.REM.ICPL|GE=[1PL].[REM].[ICPL]|RX=[PNTAM]
+4	fi	fi	VERB	_	_	_	_	_	AlignBegin=123462|AlignEnd=123556|nWord=4|Gloss=do|GE=do|RX=[V]
+5	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=123556|AlignEnd=123649|nWord=4|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+6	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=123649|AlignEnd=123836|nWord=5|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+7	//	//	PUNCT	_	_	_	_	_	AlignBegin=123836|AlignEnd=124023|nWord=6|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_100-100
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 124023, 125060
+# phonetic_text = mə̀tà kúːp gíː sòːséy // 
+# text = mə̀tà kǔːp gíː sòːséy //
+# text_en =  We used to study that well.
+1	mə̀tà	mə̀tà	AUX	_	Number=Plur|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=124023|AlignEnd=124230|nWord=1|Gloss=1PL.REM|GE=[1PL].[REM]|RX=[PNTAM]
+2	kúːp	kúːp	VERB	_	_	_	_	_	AlignBegin=124230|AlignEnd=124437|nWord=2|Gloss=learn|GE=learn|RX=[V]
+3	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=124437|AlignEnd=124644|nWord=3|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
+4	sòːséy	sòːséy	ADV	_	_	_	_	_	AlignBegin=124644|AlignEnd=124851|nWord=4|Gloss=quite|GE=quite|RX=[ADV]
+5	//	//	PUNCT	_	_	_	_	_	AlignBegin=124851|AlignEnd=125060|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_101-102
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 125060, 126780
+# phonetic_text = tə̀tàyáː kúːp =mí káy ká gíː ɗányâːl -íː // 
+# text = tə̀tàyáː kǔːpmí káy á gíː ɗányâːlíː //
+# text_en =  They used to teach us about that very thing.
+1	tə̀tàyáː	tə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=125060|AlignEnd=125300|nWord=1|Gloss=3PL.REM.ICPL|GE=[3PL].[REM].[ICPL]|RX=[PNTAM]
+2	kúːp	kúːp	VERB	_	_	_	_	_	AlignBegin=125300|AlignEnd=125420|nWord=2|Gloss=teach|GE=teach|RX=[V]
+3	=mí	=mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=125420|AlignEnd=125540|nWord=2|Gloss=1PL.OBJ|GE=[1PL].[OBJ]|RX=[PRO]
+4	káy	káy	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=125540|AlignEnd=125780|nWord=3|Gloss=ANAPH|GE=[ANAPH]|RX=[PRO].[ANAPH]
+5	ká	ká	ADP	_	_	_	_	_	AlignBegin=126100|AlignEnd=126270|nWord=4|Gloss=at|GE=at|RX=[PREP]
+6	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=126270|AlignEnd=126440|nWord=5|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
+7	ɗányâːl	ɗányâːl	DET	_	_	_	_	_	AlignBegin=126440|AlignEnd=126525|nWord=6|Gloss=as_it_is|GE=as_it_is|RX=[DET]
+8	-íː	-íː	DET	_	PronType=Dem	_	_	_	AlignBegin=126525|AlignEnd=126610|nWord=6|Gloss=DIST|GE=[DIST]|RX=[DEICT]
+9	//	//	PUNCT	_	_	_	_	_	AlignBegin=126610|AlignEnd=126780|nWord=7|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_103-106
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 127580, 131640
+# phonetic_text = dàgà ɗáni < séː tə́ kúːp =mí káy tu [ tòː ɮə́ːr -ə́n < àː giː -ə́n kîtn ndaːrá //] // 
+# text = dàgà ɗân < séː tə́ kǔːpmí káy tu [ tôː ɮə̀ːrə́n < àː gǐːn kîtn ndaːrá //] //
+# text_en =  After that they taught us well, "Settle down and be good farmers."
+1	dàgà	dàgà	ADP	_	_	_	_	_	AlignBegin=127580|AlignEnd=127740|nWord=1|Gloss=from|GE=from|RX=[PREP]
+2	ɗáni	ɗáni	ADV	_	PronType=Dem	_	_	_	AlignBegin=127740|AlignEnd=127900|nWord=2|Gloss=there|GE=there|RX=[ADVDEICT]
+3	<	<	PUNCT	_	_	_	_	_	AlignBegin=127900|AlignEnd=128060|nWord=3|Gloss=PUNCT|GE=[<]
+4	séː	séː	SCONJ	_	_	_	_	_	AlignBegin=128300|AlignEnd=128472|nWord=4|Gloss=then|GE=then|RX=[CONJ]
+5	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=128472|AlignEnd=128644|nWord=5|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+6	kúːp	kúːp	VERB	_	_	_	_	_	AlignBegin=128644|AlignEnd=128730|nWord=6|Gloss=teach|GE=teach|RX=[V]
+7	=mí	=mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=128730|AlignEnd=128816|nWord=6|Gloss=1PL.OBJ|GE=[1PL].[OBJ]|RX=[PRO]
+8	káy	káy	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=128816|AlignEnd=128988|nWord=7|Gloss=ANAPH|GE=[ANAPH]|RX=[PRO].[ANAPH]
+9	tu	tu	PART	_	_	_	_	_	AlignBegin=128988|AlignEnd=129160|nWord=8|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+10	[	[	PART	_	_	_	_	_	AlignBegin=130160|AlignEnd=130268|nWord=9|GE=[[]
+11	tòː	tòː	PART	_	_	_	_	_	AlignBegin=130268|AlignEnd=130376|nWord=10|Gloss=DM|GE=[DM]|RX=[PTCL]
+12	ɮə́ːr	ɮə́ːr	VERB	_	_	_	_	_	AlignBegin=130376|AlignEnd=130430|nWord=11|Gloss=stay|GE=stay|RX=[V]
+13	-ə́n	-ə́n	AUX	_	Mood=Imp|Number=Plur	_	_	_	AlignBegin=130430|AlignEnd=130484|nWord=11|Gloss=IMP.PL|GE=[IMP].[PL]|RX=[PNTAM]
+14	<	<	PUNCT	_	_	_	_	_	AlignBegin=130484|AlignEnd=130590|nWord=12|Gloss=PUNCT|GE=[<]
+15	àː	àː	AUX	_	Mood=Sub|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=130590|AlignEnd=130765|nWord=13|Gloss=2PL.SBJV|GE=[2PL].[SBJV]|RX=[PNTAM]
+16	giː	giː	VERB	_	_	_	_	_	AlignBegin=130765|AlignEnd=130853|nWord=14|Gloss=plough|GE=plough|RX=[V]
+17	-ə́n	-ə́n	AUX	_	Mood=Imp|Number=Plur	_	_	_	AlignBegin=130853|AlignEnd=130940|nWord=14|Gloss=IMP.PL|GE=[IMP].[PL]|RX=[PNTAM]
+18	kîtn	kîtn	NOUN	_	_	_	_	_	AlignBegin=130940|AlignEnd=131115|nWord=15|Gloss=farm|GE=farm|RX=[N]
+19	ndaːrá	ndaːrá	ADJ	_	_	_	_	_	AlignBegin=131115|AlignEnd=131290|nWord=16|Gloss=nice|GE=nice|RX=[ADJ]
+20	//]	//]	PUNCT	_	_	_	_	_	AlignBegin=131290|AlignEnd=131465|nWord=17|Gloss=PUNCT|GE=[//]]
+21	//	//	PUNCT	_	_	_	_	_	AlignBegin=131465|AlignEnd=131640|nWord=18|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_107-107
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 131980, 132740
+# phonetic_text = giː -ə́n kîtn sòːséy // 
+# text = gǐːn kîtn sòːséy //
+# text_en =  "Be good farmers."
+1	giː	giː	VERB	_	_	_	_	_	AlignBegin=131980|AlignEnd=132075|nWord=1|Gloss=plough|GE=plough|RX=[V]
+2	-ə́n	-ə́n	AUX	_	Mood=Imp|Number=Plur	_	_	_	AlignBegin=132075|AlignEnd=132170|nWord=1|Gloss=IMP.PL|GE=[IMP].[PL]|RX=[PNTAM]
+3	kîtn	kîtn	NOUN	_	_	_	_	_	AlignBegin=132170|AlignEnd=132360|nWord=2|Gloss=farm|GE=farm|RX=[N]
+4	sòːséy	sòːséy	ADV	_	_	_	_	_	AlignBegin=132360|AlignEnd=132550|nWord=3|Gloss=quite|GE=quite|RX=[ADV]
+5	//	//	PUNCT	_	_	_	_	_	AlignBegin=132550|AlignEnd=132740|nWord=4|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_108-108
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 133980, 135040
+# phonetic_text = káɗâ àː tsə́tn ʧík hŋ́ // 
+# text = káɗá àː tsə̌tn ʧík hŋ́ //
+# text_en =  "Don't just sit like that."
+1	káɗâ	káɗâ	AUX	_	Mood=Imp|Polarity=Neg	_	_	_	AlignBegin=133980|AlignEnd=134157|nWord=1|Gloss=NEG3|GE=[NEG3]|RX=[PTCL].[NEG]
+2	àː	àː	AUX	_	Mood=Sub|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=134157|AlignEnd=134334|nWord=2|Gloss=2PL.SBJV|GE=[2PL].[SBJV]|RX=[PNTAM]
+3	tsə́tn	tsə́tn	VERB	_	_	_	_	_	AlignBegin=134334|AlignEnd=134511|nWord=3|Gloss=sit|GE=sit|RX=[V]
+4	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=134511|AlignEnd=134688|nWord=4|Gloss=thus|GE=thus|RX=[ADV]
+5	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=134688|AlignEnd=134865|nWord=5|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+6	//	//	PUNCT	_	_	_	_	_	AlignBegin=134865|AlignEnd=135040|nWord=6|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_109-109
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 136300, 137460
+# phonetic_text = tòː gíː tə̀tàyáː fuː =mí ʧík -íː // 
+# text = tôː gíː tə̀tàyáː fûːmí ʧǐː //
+# text_en =  That's what they used to tell us like that.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=136300|AlignEnd=136493|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	gíː	gíː	PRON	_	PronType=Dem	_	_	_	AlignBegin=136493|AlignEnd=136686|nWord=2|Gloss=DIST|GE=[DIST]|RX=[PRO].[DEICT]
+3	tə̀tàyáː	tə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=136686|AlignEnd=136879|nWord=3|Gloss=3PL.REM.ICPL|GE=[3PL].[REM].[ICPL]|RX=[PNTAM]
+4	fuː	fuː	VERB	_	_	_	_	_	AlignBegin=136879|AlignEnd=136975|nWord=4|Gloss=tell|GE=tell|RX=[V]
+5	=mí	=mí	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=136975|AlignEnd=137072|nWord=4|Gloss=1PL.OBJ|GE=[1PL].[OBJ]|RX=[PRO]
+6	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=137072|AlignEnd=137168|nWord=5|Gloss=thus|GE=thus|RX=[ADV]
+7	-íː	-íː	DET	_	PronType=Dem	_	_	_	AlignBegin=137168|AlignEnd=137265|nWord=5|Gloss=DIST|GE=[DIST]|RX=[DEICT]
+8	//	//	PUNCT	_	_	_	_	_	AlignBegin=137265|AlignEnd=137460|nWord=6|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_110-112
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 139100, 141700
+# phonetic_text = àmáː báː nə súː -kə́nì =wáːsə̀ŋ tu mìː fi maːndə káwêy bàrkàdè tsəní hŋ́ // 
+# text = àmáː bàː nə súːkə̂nwàːsə̀ŋ tu mə̀yì fi maːndə káwêy bàrkàdè tsə́n hŋ́ //
+# text_en =  But they did not like us to just fight  anyhow like this.
+1	àmáː	àmáː	SCONJ	_	_	_	_	_	AlignBegin=139100|AlignEnd=139321|nWord=1|Gloss=but|GE=but|RX=[CONJ]
+2	báː	báː	PART	_	Polarity=Neg	_	_	_	AlignBegin=139321|AlignEnd=139542|nWord=2|Gloss=NEG1|GE=[NEG1]|RX=[PTCL].[NEG]
+3	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=139542|AlignEnd=139763|nWord=3|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+4	súː	súː	VERB	_	_	_	_	_	AlignBegin=139763|AlignEnd=139837|nWord=4|Gloss=like|GE=like|RX=[V]
+5	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=139837|AlignEnd=139911|nWord=4|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+6	=wáːsə̀ŋ	=wáːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=139911|AlignEnd=139984|nWord=4|Gloss=3PL.POS|GE=[3PL].[POS]|RX=[PRO]
+7	tu	tu	PART	_	_	_	_	_	AlignBegin=139984|AlignEnd=140205|nWord=5|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+8	mìː	mìː	AUX	_	Mood=Irr|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=140205|AlignEnd=140426|nWord=6|Gloss=CTF.1PL|GE=[CTF].[1PL]|RX=[PNTAM]
+9	fi	fi	VERB	_	_	_	_	_	AlignBegin=140426|AlignEnd=140647|nWord=7|Gloss=do|GE=do|RX=[V]
+10	maːndə	maːndə	NOUN	_	_	_	_	_	AlignBegin=140647|AlignEnd=140868|nWord=8|Gloss=fight|GE=fight|RX=[N]
+11	káwêy	káwêy	ADV	_	_	_	_	_	AlignBegin=140868|AlignEnd=141103|nWord=9|Gloss=merely|GE=merely|RX=[ADV]
+12	bàrkàdè	bàrkàdè	ADV	_	_	_	_	_	AlignBegin=141103|AlignEnd=141252|nWord=10|Gloss=anyhow|GE=anyhow|RX=[ADV]
+13	tsəní	tsəní	ADV	_	_	_	_	_	AlignBegin=141252|AlignEnd=141401|nWord=11|Gloss=like_this|GE=like_this|RX=[ADV]
+14	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=141401|AlignEnd=141550|nWord=12|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+15	//	//	PUNCT	_	_	_	_	_	AlignBegin=141550|AlignEnd=141700|nWord=13|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_113-113
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 143100, 144720
+# phonetic_text = maːndə séː tə̀ ɲol -ɗi ká dàtə̂pm -i wón mari // 
+# text = maːndə séː tə̀ ɲólɗi ká dàtə́pi wón mari //
+# text_en =  Fighting must come about in a certain way.§ 
+1	maːndə	maːndə	NOUN	_	_	_	_	_	AlignBegin=143100|AlignEnd=143280|nWord=1|Gloss=fight|GE=fight|RX=[N]
+2	séː	séː	SCONJ	_	_	_	_	_	AlignBegin=143280|AlignEnd=143460|nWord=2|Gloss=only_if|GE=only_if|RX=[CONJ]
+3	tə̀	tə̀	AUX	_	Mood=Sub|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=143460|AlignEnd=143640|nWord=3|Gloss=3SG.SBJV|GE=[3SG].[SBJV]|RX=[PNTAM]
+4	ɲol	ɲol	VERB	_	_	_	_	_	AlignBegin=143640|AlignEnd=143730|nWord=4|Gloss=go_out|GE=go_out|RX=[V]
+5	-ɗi	-ɗi	PART	_	VerbForm=Ctp	_	_	_	AlignBegin=143730|AlignEnd=143820|nWord=4|Gloss=CTP|GE=[CTP]|RX=[PTCL]
+6	ká	ká	ADP	_	_	_	_	_	AlignBegin=143820|AlignEnd=144000|nWord=5|Gloss=at|GE=at|RX=[PREP]
+7	dàtə̂pm	dàtə̂pm	NOUN	_	_	_	_	_	AlignBegin=144000|AlignEnd=144090|nWord=6|Gloss=road|GE=road|RX=[N]
+8	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=144090|AlignEnd=144180|nWord=6|Gloss=INDF|GE=[INDF]|RX=[ART]
+9	wón	wón	DET	_	Definite=Spec	_	_	_	AlignBegin=144180|AlignEnd=144360|nWord=7|Gloss=QLT|GE=[QLT]|RX=[DET]
+10	mari	mari	ADV	_	_	_	_	_	AlignBegin=144360|AlignEnd=144540|nWord=8|Gloss=different|GE=different|RX=[ADV]
+11	//	//	PUNCT	_	_	_	_	_	AlignBegin=144540|AlignEnd=144720|nWord=9|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_114-114
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 145040, 146280
+# phonetic_text = àmáː kyàːní məːri kàm báːbu !// 
+# text = àmáː kyàːní məːri kàm báːbu !//
+# text_en =  But for you, children, no way!
+1	àmáː	àmáː	SCONJ	_	_	_	_	_	AlignBegin=145040|AlignEnd=145247|nWord=1|Gloss=but|GE=but|RX=[CONJ]
+2	kyàːní	kyàːní	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	_	_	_	AlignBegin=145247|AlignEnd=145454|nWord=2|Gloss=2PL.IDP|GE=[2PL].[IDP]|RX=[PRO]
+3	məːri	məːri	_	_	Number=Plur	_	_	_	AlignBegin=145454|AlignEnd=145661|nWord=3|Gloss=children|GE=children|RX=[N].[PL]
+4	kàm	kàm	PART	_	_	_	_	_	AlignBegin=145661|AlignEnd=145868|nWord=4|Gloss=indeed|GE=indeed|RX=[PTCL].[TOP]
+5	báːbu	báːbu	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=145868|AlignEnd=146075|nWord=5|Gloss=no_way|GE=no_way|RX=[EXCL].[BW].[HAU]
+6	!//	!//	PUNCT	_	_	_	_	_	AlignBegin=146075|AlignEnd=146280|nWord=6|Gloss=PUNCT|GE=[!//]
+
+# sent_id = SAY_BC_INT_05_Morals_115-115
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 147860, 149980
+# phonetic_text = tòː kyáːni ɗan káː ndwaːtsə́ -íː yáːwón káː git gyáː gón ?// 
+# text = tòː kyâːn ɗan káː ndwaːtsə́y yáːwón káː git gyaː gón ?//
+# text_en =  Well, you who are old now, did you show some? 
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=147860|AlignEnd=148053|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	kyáːni	kyáːni	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=148053|AlignEnd=148246|nWord=2|Gloss=2SG.IDP|GE=[2SG].[IDP]|RX=[PRO]
+3	ɗan	ɗan	SCONJ	_	_	_	_	_	AlignBegin=148246|AlignEnd=148439|nWord=3|Gloss=as|GE=as|RX=[CONJ]
+4	káː	káː	AUX	_	Aspect=Perf|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=148439|AlignEnd=148632|nWord=4|Gloss=2SG.CPL|GE=[2SG].[CPL]|RX=[PNTAM]
+5	ndwaːtsə́	ndwaːtsə́	VERB	_	_	_	_	_	AlignBegin=148632|AlignEnd=148728|nWord=5|Gloss=grow_old|GE=grow_old|RX=[V]
+6	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=148728|AlignEnd=148825|nWord=5|Gloss=RES|GE=[RES]|RX=[TAM]
+7	yáːwón	yáːwón	ADV	_	PronType=Dem	_	_	_	AlignBegin=148825|AlignEnd=149018|nWord=6|Gloss=today|GE=today|RX=[ADVDEICT]
+8	káː	káː	AUX	_	Aspect=Perf|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=149018|AlignEnd=149211|nWord=7|Gloss=2SG.CPL|GE=[2SG].[CPL]|RX=[PNTAM]
+9	git	git	VERB	_	_	_	_	_	AlignBegin=149211|AlignEnd=149404|nWord=8|Gloss=show|GE=show|RX=[V]
+10	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=149404|AlignEnd=149597|nWord=9|Gloss=PL|GE=[PL]|RX=[DET]
+11	gón	gón	PRON	_	Definite=Spec	_	_	_	AlignBegin=149597|AlignEnd=149790|nWord=10|Gloss=QLT|GE=[QLT]|RX=[PRO]
+12	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=149790|AlignEnd=149980|nWord=11|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_116-116
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 151440, 151740
+# phonetic_text = m̀ːhm̂ː // 
+# text = m̀ːhm̂ː //
+# text_en =  OK.
+1	m̀ːhm̂ː	m̀ːhm̂ː	INTJ	_	_	_	_	_	AlignBegin=151440|AlignEnd=151590|nWord=1|Gloss=OK|GE=[OK]|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=151590|AlignEnd=151740|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_117-118
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 152020, 154360
+# phonetic_text = káː git gyáː gón wukn -ês ɗan tə̀tà git =kə -íː ?// 
+# text = káː git gyaː gón wukês ɗan tə̀tà gìtkíː ?//
+# text_en =  Did you show some... medicine that they had shown you? 
+1	káː	káː	AUX	_	Aspect=Perf|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=152020|AlignEnd=152286|nWord=1|Gloss=2SG.CPL|GE=[2SG].[CPL]|RX=[PNTAM]
+2	git	git	VERB	_	_	_	_	_	AlignBegin=152286|AlignEnd=152552|nWord=2|Gloss=show|GE=show|RX=[V]
+3	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=152552|AlignEnd=152818|nWord=3|Gloss=PL|GE=[PL]|RX=[DET]
+4	gón	gón	DET	_	Definite=Spec	_	_	_	AlignBegin=152818|AlignEnd=153082|nWord=4|Gloss=QLT|GE=[QLT]|RX=[DET]
+5	wukn	wukn	NOUN	_	_	_	_	_	AlignBegin=153082|AlignEnd=153210|nWord=5|Gloss=medicine|GE=medicine|RX=[N]
+6	-ês	-ês	DET	_	Definite=Def	_	_	_	AlignBegin=153210|AlignEnd=153338|nWord=5|Gloss=DEF|GE=[DEF]|RX=[ART]
+7	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=153338|AlignEnd=153594|nWord=6|Gloss=that|GE=that|RX=[REL]
+8	tə̀tà	tə̀tà	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=153594|AlignEnd=153850|nWord=7|Gloss=3PL.REM|GE=[3PL].[REM]|RX=[PNTAM]
+9	git	git	VERB	_	_	_	_	_	AlignBegin=153850|AlignEnd=153935|nWord=8|Gloss=show|GE=show|RX=[V]
+10	=kə	=kə	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=153935|AlignEnd=154020|nWord=8|Gloss=2SG.OBJ|GE=[2SG].[OBJ]|RX=[PRO]
+11	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=154020|AlignEnd=154106|nWord=8|Gloss=RES|GE=[RES]|RX=[TAM]
+12	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=154106|AlignEnd=154360|nWord=9|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_119-119
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 154360, 154573
+# phonetic_text = èː < 
+# text = èː <
+# text_en =  Yes.
+1	èː	èː	INTJ	_	_	_	_	_	AlignBegin=154360|AlignEnd=154466|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=154466|AlignEnd=154573|nWord=2|Gloss=PUNCT|GE=[<]
+
+# sent_id = SAY_BC_INT_05_Morals_120-120
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 154573, 156760
+# phonetic_text = tàː rigé tə́ yisə́ŋ -íː kən yáːni gyáː doːgoɲáːro ʧǎː ngaː -íː áy // 
+# text = tàː rigé tə́ yîsə́ŋə́y kən yâːn gyaː doːgoɲáːro ʧǎː ngǎːy áy //
+# text_en =  They already knew indeed, that him, DogonYaro and his people, they are gathering it.
+1	tàː	tàː	AUX	_	Aspect=Perf|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=154573|AlignEnd=154755|nWord=1|Gloss=3PL.CPL|GE=[3PL].[CPL]|RX=[PNTAM]
+2	rigé	rigé	VERB	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=154755|AlignEnd=154937|nWord=2|Gloss=precede|GE=precede|RX=[V].[BW].[HAU]
+3	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=154937|AlignEnd=155119|nWord=3|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+4	yisə́ŋ	yisə́ŋ	VERB	_	_	_	_	_	AlignBegin=155119|AlignEnd=155210|nWord=4|Gloss=know|GE=know|RX=[V]
+5	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=155210|AlignEnd=155301|nWord=4|Gloss=RES|GE=[RES]|RX=[TAM]
+6	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=155301|AlignEnd=155483|nWord=5|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+7	yáːni	yáːni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=155483|AlignEnd=155665|nWord=6|Gloss=3SG.IDP|GE=[3SG].[IDP]|RX=[PRO]
+8	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=155665|AlignEnd=155847|nWord=7|Gloss=PL|GE=[PL]|RX=[DET]
+9	doːgoɲáːro	doːgoɲáːro	NOUN	_	_	_	_	_	AlignBegin=155847|AlignEnd=156029|nWord=8|Gloss=neem|GE=neem|RX=[N]
+10	ʧǎː	ʧǎː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=156029|AlignEnd=156211|nWord=9|Gloss=3PL.ICPL|GE=[3PL].[ICPL]|RX=[PNTAM]
+11	ngaː	ngaː	VERB	_	_	_	_	_	AlignBegin=156211|AlignEnd=156302|nWord=10|Gloss=take|GE=take|RX=[V]
+12	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=156302|AlignEnd=156393|nWord=10|Gloss=RES|GE=[RES]|RX=[TAM]
+13	áy	áy	INTJ	_	_	_	_	_	AlignBegin=156393|AlignEnd=156575|nWord=11|Gloss=indeed|GE=indeed|RX=[EXCL]
+14	//	//	PUNCT	_	_	_	_	_	AlignBegin=156575|AlignEnd=156760|nWord=12|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_121-121
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 157540, 158380
+# phonetic_text = tə́ gyáː mâːm -ês báː ?// 
+# text = tə́ gyáː máːmês báː ?//
+# text_en =  For the breasts too? 
+1	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=157540|AlignEnd=157708|nWord=1|Gloss=with|GE=with|RX=[PREP]
+2	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=157708|AlignEnd=157876|nWord=2|Gloss=PL|GE=[PL]|RX=[DET]
+3	mâːm	mâːm	NOUN	_	_	_	_	_	AlignBegin=157876|AlignEnd=157960|nWord=3|Gloss=breast|GE=breast|RX=[N]
+4	-ês	-ês	DET	_	Definite=Def	_	_	_	AlignBegin=157960|AlignEnd=158044|nWord=3|Gloss=DEF|GE=[DEF]|RX=[ART]
+5	báː	báː	PART	_	PartType=Int|Polarity=Neg	_	_	_	AlignBegin=158044|AlignEnd=158212|nWord=4|Gloss=Q.NEG|GE=[Q].[NEG]|RX=[TAG]
+6	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=158212|AlignEnd=158380|nWord=5|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_122-124
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 158380, 159900
+# phonetic_text = èː < káp =wáːsə̀ŋ < tàː yisə́ŋ =ʃí =wáːsə̀ŋ -íː // 
+# text = èː < kápwáːsə̀ŋ < tàː yisə́ŋʃíwâːsə̀ŋíː //
+# text_en =  Yes,  all of them they knew them.
+1	èː	èː	INTJ	_	_	_	_	_	AlignBegin=158380|AlignEnd=158542|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=158542|AlignEnd=158705|nWord=2|Gloss=PUNCT|GE=[<]
+3	káp	káp	ADV	_	_	_	_	_	AlignBegin=158705|AlignEnd=158797|nWord=3|Gloss=all|GE=all|RX=[ADV]
+4	=wáːsə̀ŋ	=wáːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=158797|AlignEnd=158889|nWord=3|Gloss=3PL.POS|GE=[3PL].[POS]|RX=[PRO]
+5	<	<	PUNCT	_	_	_	_	_	AlignBegin=158889|AlignEnd=159073|nWord=4|Gloss=PUNCT|GE=[<]
+6	tàː	tàː	AUX	_	Aspect=Perf|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=159073|AlignEnd=159349|nWord=5|Gloss=3PL.CPL|GE=[3PL].[CPL]|RX=[PNTAM]
+7	yisə́ŋ	yisə́ŋ	VERB	_	_	_	_	_	AlignBegin=159349|AlignEnd=159418|nWord=6|Gloss=know|GE=know|RX=[V]
+8	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=159418|AlignEnd=159487|nWord=6|Gloss=3PL.OBJ|GE=[3PL].[OBJ]|RX=[PRO]
+9	=wáːsə̀ŋ	=wáːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=159487|AlignEnd=159556|nWord=6|Gloss=3PL.POS|GE=[3PL].[POS]|RX=[PRO]
+10	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=159556|AlignEnd=159625|nWord=6|Gloss=RES|GE=[RES]|RX=[TAM]
+11	//	//	PUNCT	_	_	_	_	_	AlignBegin=159625|AlignEnd=159900|nWord=7|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_125-125
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 160620, 160960
+# phonetic_text = m̀ːhm̂ː // 
+# text = m̀ːhm̂ː //
+# text_en =  OK.
+1	m̀ːhm̂ː	m̀ːhm̂ː	INTJ	_	_	_	_	_	AlignBegin=160620|AlignEnd=160790|nWord=1|Gloss=OK|GE=[OK]|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=160790|AlignEnd=160960|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_126-126
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 161220, 161440
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=161220|AlignEnd=161330|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=161330|AlignEnd=161440|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_127-128
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 162280, 163320
+# phonetic_text = káp =wáːsə̀ŋ < tàː yisə́ŋ =ʃí =wáːsə̀ŋ -íː // 
+# text = kápwáːsə̀ŋ < tàː yisə́ŋʃíwâːʃíː //
+# text_en =  All of them they know it indeed.
+1	káp	káp	ADV	_	_	_	_	_	AlignBegin=162280|AlignEnd=162358|nWord=1|Gloss=all|GE=all|RX=[ADV]
+2	=wáːsə̀ŋ	=wáːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=162358|AlignEnd=162436|nWord=1|Gloss=3PL.POS|GE=[3PL].[POS]|RX=[PRO]
+3	<	<	PUNCT	_	_	_	_	_	AlignBegin=162436|AlignEnd=162592|nWord=2|Gloss=PUNCT|GE=[<]
+4	tàː	tàː	AUX	_	Aspect=Perf|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=162592|AlignEnd=162835|nWord=3|Gloss=3PL.CPL|GE=[3PL].[CPL]|RX=[PNTAM]
+5	yisə́ŋ	yisə́ŋ	VERB	_	_	_	_	_	AlignBegin=162835|AlignEnd=162896|nWord=4|Gloss=know|GE=know|RX=[V]
+6	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=162896|AlignEnd=162957|nWord=4|Gloss=3PL.OBJ|GE=[3PL].[OBJ]|RX=[PRO]
+7	=wáːsə̀ŋ	=wáːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=162957|AlignEnd=163018|nWord=4|Gloss=3PL.POS|GE=[3PL].[POS]|RX=[PRO]
+8	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=163018|AlignEnd=163078|nWord=4|Gloss=RES|GE=[RES]|RX=[TAM]
+9	//	//	PUNCT	_	_	_	_	_	AlignBegin=163078|AlignEnd=163320|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_130-130
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 165196, 165392
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=165196|AlignEnd=165294|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=165294|AlignEnd=165392|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_129-131
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 163600, 167900
+# phonetic_text = tòː lóːkaʧí yóːɗan kə nda -íː ká láːp -kə́nì -íː < kətáyáː fi wuriː kóː eː ?// 
+# text = tòː lóːkaʧí yóːɗan kə ndáy ká láːpkə̂níː < kətáyáː fi wúr kóː eː ?//
+# text_en =  Well when you became a Christian How did you do it?
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=163600|AlignEnd=163775|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	lóːkaʧí	lóːkaʧí	NOUN	_	_	_	_	_	AlignBegin=163775|AlignEnd=163950|nWord=2|Gloss=time|GE=time|RX=[N]
+3	yóːɗan	yóːɗan	PRON	_	PronType=Rel	_	_	_	AlignBegin=163950|AlignEnd=164125|nWord=3|Gloss=which|GE=which|RX=[PROREL]
+4	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=164125|AlignEnd=164300|nWord=4|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+5	nda	nda	VERB	_	_	_	_	_	AlignBegin=164300|AlignEnd=164388|nWord=5|Gloss=enter|GE=enter|RX=[V]
+6	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=164388|AlignEnd=164475|nWord=5|Gloss=RES|GE=[RES]|RX=[TAM]
+7	ká	ká	ADP	_	_	_	_	_	AlignBegin=164475|AlignEnd=164650|nWord=6|Gloss=at|GE=at|RX=[PREP]
+8	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=164650|AlignEnd=164708|nWord=7|Gloss=follow|GE=follow|RX=[V]
+9	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=164708|AlignEnd=164766|nWord=7|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+10	-íː	-íː	DET	_	PronType=Dem	_	_	_	AlignBegin=164766|AlignEnd=164825|nWord=7|Gloss=DIST|GE=[DIST]|RX=[DEICT]
+11	<	<	PUNCT	_	_	_	_	_	AlignBegin=164825|AlignEnd=165000|nWord=8|Gloss=PUNCT|GE=[<]
+12	kətáyáː	kətáyáː	AUX	_	Aspect=Imp|Number=Sing|Person=2|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=166960|AlignEnd=167117|nWord=9|Gloss=2SG.REM.ICPL|GE=[2SG].[REM].[ICPL]|RX=[PNTAM]
+13	fi	fi	VERB	_	_	_	_	_	AlignBegin=167117|AlignEnd=167274|nWord=10|Gloss=do|GE=do|RX=[V]
+14	wuriː	wuriː	PUNCT	_	_	_	_	_	AlignBegin=167274|AlignEnd=167431|nWord=11|Gloss=how|GE=how|RX=[ADV].[Q]
+15	kóː	kóː	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=167431|AlignEnd=167588|nWord=12|Gloss=or|GE=or|RX=[CONJ].[BW].[HAU]
+16	eː	eː	PART	_	PartType=Int	_	_	_	AlignBegin=167588|AlignEnd=167745|nWord=13|Gloss=Q|GE=[Q]|RX=[PTCL].[ASS]
+17	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=167745|AlignEnd=167900|nWord=14|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_132-132
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 168320, 170740
+# phonetic_text = kətáyáː fi wuriː ká láːp -kə́nì ɗan kə faːrá nda -kə́nì ká láːp -kə́nì ?// 
+# text = kətáyáː fî wúr ká láːpkə̂n ɗan kə fáːrá ndákə̂n á láːpkə́nì ?//
+# text_en =  How did you do when you converted to Christianity? 
+1	kətáyáː	kətáyáː	AUX	_	Aspect=Imp|Number=Sing|Person=2|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=168320|AlignEnd=168522|nWord=1|Gloss=2SG.REM.ICPL|GE=[2SG].[REM].[ICPL]|RX=[PNTAM]
+2	fi	fi	VERB	_	_	_	_	_	AlignBegin=168522|AlignEnd=168724|nWord=2|Gloss=do|GE=do|RX=[V]
+3	wuriː	wuriː	PUNCT	_	_	_	_	_	AlignBegin=168724|AlignEnd=168926|nWord=3|Gloss=how|GE=how|RX=[ADV].[Q]
+4	ká	ká	ADP	_	_	_	_	_	AlignBegin=168926|AlignEnd=169128|nWord=4|Gloss=at|GE=at|RX=[PREP]
+5	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=169128|AlignEnd=169229|nWord=5|Gloss=follow|GE=follow|RX=[V]
+6	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=169229|AlignEnd=169330|nWord=5|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+7	ɗan	ɗan	SCONJ	_	_	_	_	_	AlignBegin=169330|AlignEnd=169532|nWord=6|Gloss=as|GE=as|RX=[CONJ]
+8	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=169532|AlignEnd=169734|nWord=7|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+9	faːrá	faːrá	VERB	_	_	_	_	_	AlignBegin=169734|AlignEnd=169936|nWord=8|Gloss=begin|GE=begin|RX=[V]
+10	nda	nda	VERB	_	_	_	_	_	AlignBegin=169936|AlignEnd=170037|nWord=9|Gloss=enter|GE=enter|RX=[V]
+11	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=170037|AlignEnd=170138|nWord=9|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+12	ká	ká	ADP	_	_	_	_	_	AlignBegin=170138|AlignEnd=170340|nWord=10|Gloss=at|GE=at|RX=[PREP]
+13	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=170340|AlignEnd=170441|nWord=11|Gloss=follow|GE=follow|RX=[V]
+14	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=170441|AlignEnd=170542|nWord=11|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+15	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=170542|AlignEnd=170740|nWord=12|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_133-133
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 171258, 172620
+# phonetic_text = ka faːrá tə́ zaːr -sə wuriː ?// 
+# text = ka fáːrá tə́ zàrsə̀ wuriː ?//
+# text_en =  How many people did you start with? 
+1	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=171258|AlignEnd=171485|nWord=1|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
+2	faːrá	faːrá	VERB	_	_	_	_	_	AlignBegin=171485|AlignEnd=171712|nWord=2|Gloss=start|GE=start|RX=[V]
+3	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=171712|AlignEnd=171939|nWord=3|Gloss=with|GE=with|RX=[PREP]
+4	zaːr	zaːr	NOUN	_	_	_	_	_	AlignBegin=171939|AlignEnd=172053|nWord=4|Gloss=person|GE=person|RX=[N]
+5	-sə	-sə	_	_	Number=Plur	_	_	_	AlignBegin=172053|AlignEnd=172166|nWord=4|Gloss=PL|GE=[PL]|RX=[PL]
+6	wuriː	wuriː	PUNCT	_	_	_	_	_	AlignBegin=172166|AlignEnd=172393|nWord=5|Gloss=how_many|GE=how_many|RX=[DET].[Q]
+7	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=172393|AlignEnd=172620|nWord=6|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_134-134
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 176320, 177740
+# phonetic_text = kə ʤáː -ni rá'ayí =wáːsə̀ŋ a: kóː ?// 
+# text = kə ʤáːni rá'ayíwâːsə̀ŋ aː kóː ?//
+# text_en =  Did you convert them? 
+1	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=176320|AlignEnd=176557|nWord=1|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+2	ʤáː	ʤáː	VERB	_	_	_	_	_	AlignBegin=176557|AlignEnd=176675|nWord=2|Gloss=pull|GE=pull|RX=[V]
+3	-ni	-ni	PART	_	Aspect=Inch	_	_	_	AlignBegin=176675|AlignEnd=176794|nWord=2|Gloss=INCH|GE=[INCH]|RX=[PTCL].[EXT]
+4	rá'ayí	rá'ayí	NOUN	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=176794|AlignEnd=176912|nWord=3|Gloss=opinion|GE=opinion|RX=[N].[BW].[HAU]
+5	=wáːsə̀ŋ	=wáːsə̀ŋ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=176912|AlignEnd=177031|nWord=3|Gloss=3PL.POS|GE=[3PL].[POS]|RX=[PRO]
+6	a:	a:	PART	_	PartType=Int	_	_	_	AlignBegin=177031|AlignEnd=177268|nWord=4|Gloss=VRT|GE=[VRT]|RX=[PTCL].[ASS]
+7	kóː	kóː	PART	_	Foreign=Yes|Language=hau|PartType=Int	_	_	_	AlignBegin=177268|AlignEnd=177505|nWord=5|Gloss=Q|GE=[Q]|RX=[TAG].[BW].[HAU]
+8	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=177505|AlignEnd=177740|nWord=6|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_135-135
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 177740, 178120
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=177740|AlignEnd=177930|nWord=1|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=177930|AlignEnd=178120|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_136-138
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 178400, 181700
+# phonetic_text = mətáyǎː ʤwáːm =ʃí mə fuː =ʃí -íː dòmín tə̀ láːp m̀ː ʧokn // 
+# text = mətáyáː ʤwáːmʃí mə fuːʃíː dòmín tə̀ lǎːp m̀ː ʧokn //
+# text_en =  I gathered them and talked to them. so that they should follow God.
+1	mətáyǎː	mətáyǎː	AUX	_	Aspect=Imp|Number=Sing|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=178400|AlignEnd=178755|nWord=1|Gloss=1SG.REM.ICPL|GE=[1SG].[REM].[ICPL]|RX=[PNTAM]
+2	ʤwáːm	ʤwáːm	VERB	_	Number=Plur	_	_	_	AlignBegin=178755|AlignEnd=178933|nWord=2|Gloss=gather|GE=gather|RX=[V].[PLAC]
+3	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=178933|AlignEnd=179110|nWord=2|Gloss=3PL.OBJ|GE=[3PL].[OBJ]|RX=[PRO]
+4	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=179110|AlignEnd=179465|nWord=3|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+5	fuː	fuː	VERB	_	_	_	_	_	AlignBegin=179465|AlignEnd=179583|nWord=4|Gloss=tell|GE=tell|RX=[V]
+6	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=179583|AlignEnd=179701|nWord=4|Gloss=3PL.OBJ|GE=[3PL].[OBJ]|RX=[PRO]
+7	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=179701|AlignEnd=179820|nWord=4|Gloss=RES|GE=[RES]|RX=[TAM]
+8	dòmín	dòmín	SCONJ	_	_	_	_	_	AlignBegin=180120|AlignEnd=180410|nWord=5|Gloss=because|GE=because|RX=[CONJ]
+9	tə̀	tə̀	AUX	_	Mood=Sub|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=180410|AlignEnd=180700|nWord=6|Gloss=3PL.SBJV|GE=[3PL].[SBJV]|RX=[PNTAM]
+10	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=180700|AlignEnd=180990|nWord=7|Gloss=follow|GE=follow|RX=[V]
+11	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=180990|AlignEnd=181280|nWord=8|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+12	ʧokn	ʧokn	NOUN	_	_	_	_	_	AlignBegin=181480|AlignEnd=181590|nWord=9|Gloss=God|GE=[God]|RX=[N].[P]
+13	//	//	PUNCT	_	_	_	_	_	AlignBegin=181590|AlignEnd=181700|nWord=10|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_139-140
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 182680, 184360
+# phonetic_text = yáːni tu ʧokn ʧi ɗa // 
+# text = yâːn tu ʧokn ʧi ɗa //
+# text_en =  That is to say... God exists.
+1	yáːni	yáːni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=182680|AlignEnd=183120|nWord=1|Gloss=3SG.IDP|GE=[3SG].[IDP]|RX=[PRO]
+2	tu	tu	PART	_	_	_	_	_	AlignBegin=183120|AlignEnd=183560|nWord=2|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+3	ʧokn	ʧokn	NOUN	_	_	_	_	_	AlignBegin=183840|AlignEnd=183970|nWord=3|Gloss=God|GE=[God]|RX=[N].[P]
+4	ʧi	ʧi	VERB	_	Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=183970|AlignEnd=184100|nWord=4|Gloss=3SG.be|GE=[3SG].[be]|RX=[V*]
+5	ɗa	ɗa	ADP	_	_	_	_	_	AlignBegin=184100|AlignEnd=184230|nWord=5|Gloss=at|GE=at|RX=[PREP]
+6	//	//	PUNCT	_	_	_	_	_	AlignBegin=184230|AlignEnd=184360|nWord=6|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_141-143
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 184500, 187620
+# phonetic_text = kúmá yéːsu < yáːni á máni vər rây =wôs nə́ myàːní // 
+# text = kúmá yéːsu < yáːni á mán və̀r râywòs nə́ myàːní //
+# text_en =  and Jesus came to give his life for us.
+1	kúmá	kúmá	SCONJ	_	_	_	_	_	AlignBegin=184500|AlignEnd=184700|nWord=1|Gloss=and|GE=and|RX=[CONJ]
+2	yéːsu	yéːsu	NOUN	_	_	_	_	_	AlignBegin=184700|AlignEnd=184900|nWord=2|Gloss=Jesus|GE=[Jesus]|RX=[N]
+3	<	<	PUNCT	_	_	_	_	_	AlignBegin=184900|AlignEnd=185100|nWord=3|Gloss=PUNCT|GE=[<]
+4	yáːni	yáːni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=185940|AlignEnd=186215|nWord=4|Gloss=3SG.IDP|GE=[3SG].[IDP]|RX=[PRO]
+5	á	á	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=186215|AlignEnd=186490|nWord=5|Gloss=3SG.AOR|GE=[3SG].[AOR]|RX=[PNTAM]
+6	máni	máni	VERB	_	_	_	_	_	AlignBegin=186490|AlignEnd=186765|nWord=6|Gloss=come|GE=come|RX=[V]
+7	vər	vər	VERB	_	_	_	_	_	AlignBegin=186765|AlignEnd=186936|nWord=7|Gloss=give|GE=give|RX=[V]
+8	rây	rây	NOUN	_	_	_	_	_	AlignBegin=186936|AlignEnd=187022|nWord=8|Gloss=life|GE=life|RX=[N]
+9	=wôs	=wôs	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=187022|AlignEnd=187107|nWord=8|Gloss=3SG.POS|GE=[3SG].[POS]|RX=[PRO]
+10	nə́	nə́	ADP	_	_	_	_	_	AlignBegin=187107|AlignEnd=187278|nWord=9|Gloss=for|GE=for|RX=[PREP]
+11	myàːní	myàːní	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=187278|AlignEnd=187449|nWord=10|Gloss=1PL.IDP|GE=[1PL].[IDP]|RX=[PRO]
+12	//	//	PUNCT	_	_	_	_	_	AlignBegin=187449|AlignEnd=187620|nWord=11|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_144-144
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 188120, 189100
+# phonetic_text = tòː mətáyǎː fuː =ʃí ʧík -íː // 
+# text = tôː mətáyáː fuːʃí ʧǐː //
+# text_en =  Well, we used to tell them so.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=188120|AlignEnd=188316|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	mətáyǎː	mətáyǎː	AUX	_	Aspect=Imp|Number=Sing|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=188316|AlignEnd=188512|nWord=2|Gloss=1SG.REM.ICPL|GE=[1SG].[REM].[ICPL]|RX=[PNTAM]
+3	fuː	fuː	VERB	_	_	_	_	_	AlignBegin=188512|AlignEnd=188610|nWord=3|Gloss=tell|GE=tell|RX=[V]
+4	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=188610|AlignEnd=188708|nWord=3|Gloss=3PL.OBJ|GE=[3PL].[OBJ]|RX=[PRO]
+5	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=188708|AlignEnd=188806|nWord=4|Gloss=thus|GE=thus|RX=[ADV]
+6	-íː	-íː	DET	_	PronType=Dem	_	_	_	AlignBegin=188806|AlignEnd=188904|nWord=4|Gloss=DIST|GE=[DIST]|RX=[DEICT]
+7	//	//	PUNCT	_	_	_	_	_	AlignBegin=188904|AlignEnd=189100|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_145-146
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 189980, 191520
+# phonetic_text = tòː gyáː gón tá kap -íː //= gyáː gón tá kap hŋ́ // 
+# text = tôː gyaː gón tá kâɓíː //= gyaː gón tá kâp hŋ́ //
+# text_en =  Some accepted,  others did not accept.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=189980|AlignEnd=190119|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=190119|AlignEnd=190258|nWord=2|Gloss=PL|GE=[PL]|RX=[DET]
+3	gón	gón	PRON	_	Definite=Spec	_	_	_	AlignBegin=190258|AlignEnd=190397|nWord=3|Gloss=QLT|GE=[QLT]|RX=[PRO]
+4	tá	tá	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=190397|AlignEnd=190536|nWord=4|Gloss=3PL.FUT|GE=[3PL].[FUT]|RX=[PNTAM]
+5	kap	kap	VERB	_	_	_	_	_	AlignBegin=190536|AlignEnd=190606|nWord=5|Gloss=take|GE=take|RX=[V]
+6	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=190606|AlignEnd=190675|nWord=5|Gloss=RES|GE=[RES]|RX=[TAM]
+7	//=	//=	PUNCT	_	_	_	_	_	AlignBegin=190675|AlignEnd=190816|nWord=6|Gloss=PUNCT|GE=[//]
+8	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=190816|AlignEnd=190933|nWord=7|Gloss=PL|GE=[PL]|RX=[DET]
+9	gón	gón	PRON	_	Definite=Spec	_	_	_	AlignBegin=190933|AlignEnd=191050|nWord=8|Gloss=QLT|GE=[QLT]|RX=[PRO]
+10	tá	tá	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=191050|AlignEnd=191167|nWord=9|Gloss=3PL.FUT|GE=[3PL].[FUT]|RX=[PNTAM]
+11	kap	kap	VERB	_	_	_	_	_	AlignBegin=191167|AlignEnd=191284|nWord=10|Gloss=take|GE=take|RX=[V]
+12	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=191284|AlignEnd=191401|nWord=11|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+13	//	//	PUNCT	_	_	_	_	_	AlignBegin=191401|AlignEnd=191520|nWord=12|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_147-151
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 192860, 199080
+# phonetic_text = tòː dàgà ɗáni < vìː ʧokn ɗa á máni ɓas =mə ɗúːni yáːni ʧi tu &// èː mə̀tàyáː ʧim =tə tu Harúːna Màːy // 
+# text = tôː dàgà ɗáni < vìː ʧokn ɗa á máni ɓasəm ɗúːni yâːn ʧi tu &// èː mə̀tàyáː ʧímtə̀ tu Harúːna Màːy //
+# text_en =  Well from there... God's word that came to us, that is to say... &// er... we called him  Haruna Mai.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=192860|AlignEnd=193165|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	dàgà	dàgà	ADP	_	_	_	_	_	AlignBegin=193165|AlignEnd=193470|nWord=2|Gloss=from|GE=from|RX=[PREP]
+3	ɗáni	ɗáni	ADV	_	PronType=Dem	_	_	_	AlignBegin=193470|AlignEnd=193775|nWord=3|Gloss=there|GE=there|RX=[ADVDEICT]
+4	<	<	PUNCT	_	_	_	_	_	AlignBegin=193775|AlignEnd=194079|nWord=4|Gloss=PUNCT|GE=[<]
+5	vìː	vìː	NOUN	_	_	_	_	_	AlignBegin=194079|AlignEnd=194264|nWord=5|Gloss=speech|GE=speech|RX=[N]
+6	ʧokn	ʧokn	NOUN	_	_	_	_	_	AlignBegin=194264|AlignEnd=194449|nWord=6|Gloss=God|GE=[God]|RX=[N].[P]
+7	ɗa	ɗa	PRON	_	PronType=Rel	_	_	_	AlignBegin=194449|AlignEnd=194634|nWord=7|Gloss=REL|GE=[REL]|RX=[REL].[HOM]
+8	á	á	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=194634|AlignEnd=194819|nWord=8|Gloss=3SG.AOR|GE=[3SG].[AOR]|RX=[PNTAM]
+9	máni	máni	VERB	_	_	_	_	_	AlignBegin=194819|AlignEnd=195006|nWord=9|Gloss=come|GE=come|RX=[V]
+10	ɓas	ɓas	ADP	_	_	_	_	_	AlignBegin=195006|AlignEnd=195112|nWord=10|Gloss=at|GE=at|RX=[PREP]
+11	=mə	=mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=195112|AlignEnd=195218|nWord=10|Gloss=1SG.OBJ|GE=[1SG].[OBJ]|RX=[PRO]
+12	ɗúːni	ɗúːni	ADV	_	PronType=Dem	_	_	_	AlignBegin=195218|AlignEnd=195430|nWord=11|Gloss=here|GE=here|RX=[ADVDEICT]
+13	yáːni	yáːni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=195430|AlignEnd=195642|nWord=12|Gloss=3SG.IDP|GE=[3SG].[IDP]|RX=[PRO]
+14	ʧi	ʧi	VERB	_	Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=195642|AlignEnd=195854|nWord=13|Gloss=3SG.be|GE=[3SG].[be]|RX=[V*]
+15	tu	tu	PART	_	_	_	_	_	AlignBegin=195854|AlignEnd=196066|nWord=14|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+16	&//	&//	PUNCT	_	_	_	_	_	AlignBegin=196066|AlignEnd=196280|nWord=15|Gloss=PUNCT|GE=[&//]
+17	èː	èː	INTJ	_	_	_	_	_	AlignBegin=197580|AlignEnd=197796|nWord=16|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+18	mə̀tàyáː	mə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=197796|AlignEnd=198012|nWord=17|Gloss=1PL.REM.ICPL|GE=[1PL].[REM].[ICPL]|RX=[PNTAM]
+19	ʧim	ʧim	VERB	_	_	_	_	_	AlignBegin=198012|AlignEnd=198120|nWord=18|Gloss=call|GE=call|RX=[V]
+20	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=198120|AlignEnd=198228|nWord=18|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+21	tu	tu	PART	_	_	_	_	_	AlignBegin=198228|AlignEnd=198442|nWord=19|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+22	Harúːna	Harúːna	PROPN	_	_	_	_	_	AlignBegin=198442|AlignEnd=198655|nWord=20|Gloss=Harúːna|GE=[Harúːna]|RX=[NPR]
+23	Màːy	Màːy	PROPN	_	_	_	_	_	AlignBegin=198655|AlignEnd=198868|nWord=21|Gloss=Màːy|GE=[Màːy]|RX=[NPR]
+24	//	//	PUNCT	_	_	_	_	_	AlignBegin=198868|AlignEnd=199080|nWord=22|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_152-156
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 200340, 204836
+# phonetic_text = tòː < káː sán < átâ lə́ːr ʤìːr vat -kə́nì -ɗi // tòː < báː á yisə́ŋ lâːt -i vuː -kə́nì hŋ́ // 
+# text = tòː < káː sán < átâ lə́ːr ʤìːr vàtkə̀nɗì // tôː < bàː á yîsə́ŋ láːɗi vùːkə̀nì hŋ́ //
+# text_en =  Well,  < you know > ,  he brought smithery [to the village].  Well,  he didn't know how to use bellows.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=200340|AlignEnd=200692|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=200692|AlignEnd=200834|nWord=2|Gloss=PUNCT|GE=[<]
+3	káː	káː	X	_	Aspect=Perf|Foreign=Yes|Language=hau|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=200834|AlignEnd=200976|nWord=3|Gloss=2SG.CPL|GE=[2SG].[CPL]|RX=[PNTAM].[X].[CSW].[HAU]
+4	sán	sán	X	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=200976|AlignEnd=201118|nWord=4|Gloss=know|GE=know|RX=[V].[X].[CSW].[HAU]
+5	<	<	PUNCT	_	_	_	_	_	AlignBegin=201118|AlignEnd=201262|nWord=5|Gloss=PUNCT|GE=[<]
+6	átâ	átâ	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=201262|AlignEnd=201518|nWord=6|Gloss=3SG.REM|GE=[3SG].[REM]|RX=[PNTAM]
+7	lə́ːr	lə́ːr	VERB	_	_	_	_	_	AlignBegin=201518|AlignEnd=201774|nWord=7|Gloss=bring|GE=bring|RX=[V]
+8	ʤìːr	ʤìːr	NOUN	_	_	_	_	_	AlignBegin=201774|AlignEnd=202030|nWord=8|Gloss=large_hoe|GE=large_hoe|RX=[N]
+9	vat	vat	VERB	_	_	_	_	_	AlignBegin=202030|AlignEnd=202115|nWord=9|Gloss=forge|GE=forge|RX=[V]
+10	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=202115|AlignEnd=202200|nWord=9|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+11	-ɗi	-ɗi	PART	_	VerbForm=Ctp	_	_	_	AlignBegin=202200|AlignEnd=202286|nWord=9|Gloss=CTP|GE=[CTP]|RX=[PTCL]
+12	//	//	PUNCT	_	_	_	_	_	AlignBegin=202286|AlignEnd=202540|nWord=10|Gloss=PUNCT|GE=[//]
+13	tòː	tòː	PART	_	_	_	_	_	AlignBegin=203580|AlignEnd=203678|nWord=11|Gloss=DM|GE=[DM]|RX=[PTCL]
+14	<	<	PUNCT	_	_	_	_	_	AlignBegin=203678|AlignEnd=203777|nWord=12|Gloss=PUNCT|GE=[<]
+15	báː	báː	PART	_	Polarity=Neg	_	_	_	AlignBegin=203777|AlignEnd=203928|nWord=13|Gloss=NEG1|GE=[NEG1]|RX=[PTCL].[NEG]
+16	á	á	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=203928|AlignEnd=204079|nWord=14|Gloss=3SG.AOR|GE=[3SG].[AOR]|RX=[PNTAM]
+17	yisə́ŋ	yisə́ŋ	VERB	_	_	_	_	_	AlignBegin=204079|AlignEnd=204230|nWord=15|Gloss=know|GE=know|RX=[V]
+18	lâːt	lâːt	NOUN	_	_	_	_	_	AlignBegin=204230|AlignEnd=204306|nWord=16|Gloss=skin|GE=skin|RX=[N]
+19	-i	-i	SCONJ	_	VerbForm=Inf	_	_	_	AlignBegin=204306|AlignEnd=204381|nWord=16|Gloss=INF|GE=[INF]|RX=[SUFX]
+20	vuː	vuː	VERB	_	_	_	_	_	AlignBegin=204381|AlignEnd=204457|nWord=17|Gloss=blow|GE=blow|RX=[V]
+21	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=204457|AlignEnd=204532|nWord=17|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+22	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=204532|AlignEnd=204683|nWord=18|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+23	//	//	PUNCT	_	_	_	_	_	AlignBegin=204683|AlignEnd=204836|nWord=19|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_157-157
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 204836, 205209
+# phonetic_text = tòː átâ fuː =mə // 
+# text = tôː átâ fuːm //
+# text_en =  Well, he told me. 
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=204836|AlignEnd=204929|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	átâ	átâ	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=204929|AlignEnd=205022|nWord=2|Gloss=3SG.REM|GE=[3SG].[REM]|RX=[PNTAM]
+3	fuː	fuː	VERB	_	_	_	_	_	AlignBegin=205022|AlignEnd=205068|nWord=3|Gloss=tell|GE=tell|RX=[V]
+4	=mə	=mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=205068|AlignEnd=205115|nWord=3|Gloss=1SG.OBJ|GE=[1SG].[OBJ]|RX=[PRO]
+5	//	//	PUNCT	_	_	_	_	_	AlignBegin=205115|AlignEnd=205209|nWord=4|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_158-158
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 205209, 207640
+# phonetic_text = myáːni mətá vuː =tə lâːt -i mə́n kəndá ʧǎː vat =tə vaːt mə́n káy // 
+# text = myâːn mətá vuːtə láːɗi mə́n əndá ʧàː vàttə̀ vaːt mə́n káy //
+# text_en =  Myself, I blew the bellows for him then he forged.
+1	myáːni	myáːni	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=205209|AlignEnd=205412|nWord=1|Gloss=1SG.IDP|GE=[1SG].[IDP]|RX=[PRO]
+2	mətá	mətá	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=205412|AlignEnd=205514|nWord=2|Gloss=1SG.REM|GE=[1SG].[REM]|RX=[PNTAM]
+3	vuː	vuː	AUX	_	_	_	_	_	AlignBegin=205514|AlignEnd=205615|nWord=2
+4	=tə	=tə	VERB	_	_	_	_	_	AlignBegin=205615|AlignEnd=205717|nWord=3|Gloss=blow ; heat_up ; cook ; bother|GE=blow ; heat_up ; cook ; bother|RX=[V]
+5	lâːt	lâːt	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=205717|AlignEnd=205818|nWord=3|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+6	-i	-i	NOUN	_	_	_	_	_	AlignBegin=205818|AlignEnd=205920|nWord=4|Gloss=skin|GE=skin|RX=[N]
+7	mə́n	mə́n	DET	_	Definite=Ind	_	_	_	AlignBegin=205920|AlignEnd=206021|nWord=4|Gloss=INDF|GE=[INDF]|RX=[ART]
+8	kəndá	kəndá	SCONJ	_	_	_	_	_	AlignBegin=206224|AlignEnd=206326|nWord=6|Gloss=then|GE=then|RX=[CONJ].[HOM]
+9	ʧǎː	ʧǎː	SCONJ	_	_	_	_	_	AlignBegin=206326|AlignEnd=206427|nWord=6
+10	vat	vat	VERB	_	_	_	_	_	AlignBegin=206630|AlignEnd=206698|nWord=8|Gloss=forge|GE=forge|RX=[V]
+11	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=206698|AlignEnd=206766|nWord=8|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+12	vaːt	vaːt	PRON	_	_	_	_	_	AlignBegin=206766|AlignEnd=206833|nWord=8
+13	mə́n	mə́n	PART	_	Case=Ben	_	_	_	AlignBegin=207036|AlignEnd=207138|nWord=10|Gloss=BEN|GE=[BEN]|RX=[PTCL]
+14	káy	káy	PART	_	_	_	_	_	AlignBegin=207138|AlignEnd=207239|nWord=10
+15	//	//	PUNCT	_	_	_	_	_	AlignBegin=207442|AlignEnd=207640|nWord=12|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_159-164
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 208260, 214700
+# phonetic_text = tòː kəndá átâ faːrá =mə fuː -kə́nì tun èː dubu -́ nàmbóŋ tə́ ɗàrí tókndam tə́ tàlàːtín dà bákwey // 
+# text = tôː kəndá átâ faːrâm fúːkə̂n tún èː dubú nâmbóŋ tə́ ɗàrí tókndam tə́ tàlàːtín dà bákwey //
+# text_en =  Well then he started converting me  in... 1937.  
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=208260|AlignEnd=208489|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	kəndá	kəndá	SCONJ	_	_	_	_	_	AlignBegin=208489|AlignEnd=208718|nWord=2|Gloss=then|GE=then|RX=[CONJ].[HOM]
+3	átâ	átâ	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=208718|AlignEnd=208947|nWord=3|Gloss=3SG.REM|GE=[3SG].[REM]|RX=[PNTAM]
+4	faːrá	faːrá	VERB	_	_	_	_	_	AlignBegin=208947|AlignEnd=209061|nWord=4|Gloss=begin|GE=begin|RX=[V]
+5	=mə	=mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=209061|AlignEnd=209176|nWord=4|Gloss=1SG.OBJ|GE=[1SG].[OBJ]|RX=[PRO]
+6	fuː	fuː	VERB	_	_	_	_	_	AlignBegin=209176|AlignEnd=209291|nWord=5|Gloss=tell|GE=tell|RX=[V]
+7	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=209291|AlignEnd=209406|nWord=5|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+8	tun	tun	ADP	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=209406|AlignEnd=209800|nWord=6|Gloss=since|GE=since|RX=[PREP].[BW].[HAU]
+9	èː	èː	INTJ	_	_	_	_	_	AlignBegin=210780|AlignEnd=211242|nWord=7|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+10	dubu	dubu	NUM	_	_	_	_	_	AlignBegin=211242|AlignEnd=211434|nWord=8|Gloss=thousand|GE=thousand|RX=[NUM]
+11	-́	-́	PART	_	Case=Gen	_	_	_	AlignBegin=211434|AlignEnd=211626|nWord=8|Gloss=POS|GE=[POS]|RX=[PTCL].[SYNT]
+12	nàmbóŋ	nàmbóŋ	NUM	_	_	_	_	_	AlignBegin=211626|AlignEnd=212010|nWord=9|Gloss=one|GE=one|RX=[NUM]
+13	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=212010|AlignEnd=212394|nWord=10|Gloss=with|GE=with|RX=[PREP]
+14	ɗàrí	ɗàrí	NUM	_	_	_	_	_	AlignBegin=212394|AlignEnd=212780|nWord=11|Gloss=hundred|GE=hundred|RX=[NUM]
+15	tókndam	tókndam	NUM	_	_	_	_	_	AlignBegin=212940|AlignEnd=213276|nWord=12|Gloss=nine|GE=nine|RX=[NUM]
+16	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=213276|AlignEnd=213613|nWord=13|Gloss=with|GE=with|RX=[PREP]
+17	tàlàːtín	tàlàːtín	NUM	_	_	_	_	_	AlignBegin=213613|AlignEnd=213885|nWord=14|Gloss=thirty|GE=thirty|RX=[NUM]
+18	dà	dà	X	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=213885|AlignEnd=214157|nWord=15|Gloss=there_is|GE=there_is|RX=[COP3].[X].[CSW].[HAU]
+19	bákwey	bákwey	NUM	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=214157|AlignEnd=214429|nWord=16|Gloss=seven|GE=seven|RX=[NUM].[BW].[HAU]
+20	//	//	PUNCT	_	_	_	_	_	AlignBegin=214429|AlignEnd=214700|nWord=17|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_165-165
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 215780, 217060
+# phonetic_text = báː màːtá nda ká àrbà'ín hŋ́ // 
+# text = bàː màːtá ndâ ká àrbà'ín hŋ́ //
+# text_en =  We had not reached forty. 
+1	báː	báː	PART	_	Polarity=Neg	_	_	_	AlignBegin=215780|AlignEnd=215963|nWord=1|Gloss=NEG1|GE=[NEG1]|RX=[PTCL].[NEG]
+2	màːtá	màːtá	AUX	_	Aspect=Perf|Number=Plur|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=215963|AlignEnd=216146|nWord=2|Gloss=1PL.CPL.REM|GE=[1PL].[CPL].[REM]|RX=[PNTAM]
+3	nda	nda	VERB	_	_	_	_	_	AlignBegin=216146|AlignEnd=216329|nWord=3|Gloss=enter|GE=enter|RX=[V]
+4	ká	ká	ADP	_	_	_	_	_	AlignBegin=216329|AlignEnd=216512|nWord=4|Gloss=at|GE=at|RX=[PREP]
+5	àrbà'ín	àrbà'ín	NUM	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=216512|AlignEnd=216695|nWord=5|Gloss=forty|GE=forty|RX=[NUM].[BW].[HAU]
+6	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=216695|AlignEnd=216878|nWord=6|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+7	//	//	PUNCT	_	_	_	_	_	AlignBegin=216878|AlignEnd=217060|nWord=7|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_166-166
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 217541, 218840
+# phonetic_text = tòː mətá ɗakás =mə ŋaː nʤwâːtn // 
+# text = tôː mətá ɗakásəm ŋaː nʤwâːtn //
+# text_en =  Well, I was still a bit young.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=217541|AlignEnd=217757|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	mətá	mətá	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=217757|AlignEnd=217973|nWord=2|Gloss=1SG.REM|GE=[1SG].[REM]|RX=[PNTAM]
+3	ɗakás	ɗakás	VERB	_	_	_	_	_	AlignBegin=217973|AlignEnd=218081|nWord=3|Gloss=be_unfinished|GE=be_unfinished|RX=[V]
+4	=mə	=mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=218081|AlignEnd=218189|nWord=3|Gloss=1SG.OBJ|GE=[1SG].[OBJ]|RX=[PRO]
+5	ŋaː	ŋaː	ADJ	_	_	_	_	_	AlignBegin=218189|AlignEnd=218405|nWord=4|Gloss=small|GE=small|RX=[ADJ]
+6	nʤwâːtn	nʤwâːtn	ADJ	_	_	_	_	_	AlignBegin=218405|AlignEnd=218621|nWord=5|Gloss=small|GE=small|RX=[ADJ]
+7	//	//	PUNCT	_	_	_	_	_	AlignBegin=218621|AlignEnd=218840|nWord=6|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_167-170
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 219920, 224960
+# phonetic_text = àmáː yáːni dàːdá gòpm dàːdá álə̂m wul tu [ tòː < vìːn -ín ɗan kàːwú kon -ín < tòː ɮə́ːr àː fi =tə sòːséy //] // 
+# text = àmáː yâːn dàːdá gòpm dàːdá álə̂m wùl tu [ tôː < vǐːn ɗan kàːwú kònín < tôː ɮə́ːr àː fítə sòːséy //] //
+# text_en =  But our father Dada Aləm said that those words that uncle has said well, stand and do it.
+1	àmáː	àmáː	SCONJ	_	_	_	_	_	AlignBegin=219920|AlignEnd=220157|nWord=1|Gloss=but|GE=but|RX=[CONJ]
+2	yáːni	yáːni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=220157|AlignEnd=220394|nWord=2|Gloss=3SG.IDP|GE=[3SG].[IDP]|RX=[PRO]
+3	dàːdá	dàːdá	NOUN	_	_	_	_	_	AlignBegin=220394|AlignEnd=220631|nWord=3|Gloss=Dada|GE=[Dada]|RX=[N].[P]
+4	gòpm	gòpm	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	AlignBegin=220631|AlignEnd=220867|nWord=4|Gloss=1PL.POS|GE=[1PL].[POS]|RX=[PRO]
+5	dàːdá	dàːdá	NOUN	_	_	_	_	_	AlignBegin=220867|AlignEnd=220995|nWord=5|Gloss=Dada|GE=[Dada]|RX=[N].[P]
+6	álə̂m	álə̂m	NOUN	_	_	_	_	_	AlignBegin=220995|AlignEnd=221123|nWord=6|Gloss=Aləm|GE=[Aləm]|RX=[N].[P]
+7	wul	wul	VERB	_	_	_	_	_	AlignBegin=221123|AlignEnd=221251|nWord=7|Gloss=say|GE=say|RX=[V]
+8	tu	tu	PART	_	_	_	_	_	AlignBegin=221251|AlignEnd=221379|nWord=8|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+9	[	[	PART	_	_	_	_	_	AlignBegin=221379|AlignEnd=221507|nWord=9|GE=[[]
+10	tòː	tòː	PART	_	_	_	_	_	AlignBegin=221507|AlignEnd=221635|nWord=10|Gloss=DM|GE=[DM]|RX=[PTCL]
+11	<	<	PUNCT	_	_	_	_	_	AlignBegin=221635|AlignEnd=221760|nWord=11|Gloss=PUNCT|GE=[<]
+12	vìːn	vìːn	NOUN	_	_	_	_	_	AlignBegin=222220|AlignEnd=222326|nWord=12|Gloss=room|GE=room|RX=[N]
+13	-ín	-ín	DET	_	PronType=Dem	_	_	_	AlignBegin=222326|AlignEnd=222432|nWord=12|Gloss=PROX|GE=[PROX]|RX=[DEICT]
+14	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=222432|AlignEnd=222644|nWord=13|Gloss=that|GE=that|RX=[REL]
+15	kàːwú	kàːwú	NOUN	_	_	_	_	_	AlignBegin=222644|AlignEnd=222856|nWord=14|Gloss=maternal_uncle|GE=maternal_uncle|RX=[N]
+16	kon	kon	VERB	_	_	_	_	_	AlignBegin=222856|AlignEnd=222962|nWord=15|Gloss=say|GE=say|RX=[V]
+17	-ín	-ín	DET	_	PronType=Dem	_	_	_	AlignBegin=222962|AlignEnd=223068|nWord=15|Gloss=PROX|GE=[PROX]|RX=[DEICT]
+18	<	<	PUNCT	_	_	_	_	_	AlignBegin=223068|AlignEnd=223280|nWord=16|Gloss=PUNCT|GE=[<]
+19	tòː	tòː	PART	_	_	_	_	_	AlignBegin=223900|AlignEnd=224051|nWord=17|Gloss=DM|GE=[DM]|RX=[PTCL]
+20	ɮə́ːr	ɮə́ːr	VERB	_	_	_	_	_	AlignBegin=224051|AlignEnd=224202|nWord=18|Gloss=stand|GE=stand|RX=[V]
+21	àː	àː	AUX	_	Mood=Sub|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=224202|AlignEnd=224353|nWord=19|Gloss=2SG.SBJV|GE=[2SG].[SBJV]|RX=[PNTAM]
+22	fi	fi	VERB	_	_	_	_	_	AlignBegin=224353|AlignEnd=224429|nWord=20|Gloss=do|GE=do|RX=[V]
+23	=tə	=tə	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=224429|AlignEnd=224504|nWord=20|Gloss=3SG.OBJ|GE=[3SG].[OBJ]|RX=[PRO]
+24	sòːséy	sòːséy	ADV	_	_	_	_	_	AlignBegin=224504|AlignEnd=224655|nWord=21|Gloss=quite|GE=quite|RX=[ADV]
+25	//]	//]	PUNCT	_	_	_	_	_	AlignBegin=224655|AlignEnd=224806|nWord=22|Gloss=PUNCT|GE=[//]]
+26	//	//	PUNCT	_	_	_	_	_	AlignBegin=224806|AlignEnd=224960|nWord=23|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_171-175
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 225800, 230165
+# phonetic_text = tòː myáːni kúmá < ɗan tàː ʃíːl =mə gə̀t mə́n də̌ːl -i < mə fi ʃóːʃòː ʃóːʃòː séː mə kap gə̀t -ês -íː // 
+# text = tôː myâːn kúmá < ɗan tàː ʃíːləm gə̀t mə́n də̌ːlí < mə fí ʃóːʃòː ʃóːʃòː ʃéː mə káp gə̀dèʃíː //
+# text_en =  Well as for me,  as I became engaged in that place,  I behaved very well  and then I married that woman. 
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=225800|AlignEnd=225943|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	myáːni	myáːni	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=225943|AlignEnd=226086|nWord=2|Gloss=1SG.IDP|GE=[1SG].[IDP]|RX=[PRO]
+3	kúmá	kúmá	PART	_	_	_	_	_	AlignBegin=226086|AlignEnd=226229|nWord=3|Gloss=too|GE=too|RX=[PTCL].[TOP]
+4	<	<	PUNCT	_	_	_	_	_	AlignBegin=226229|AlignEnd=226372|nWord=4|Gloss=PUNCT|GE=[<]
+5	ɗan	ɗan	SCONJ	_	_	_	_	_	AlignBegin=226372|AlignEnd=226515|nWord=5|Gloss=as|GE=as|RX=[CONJ]
+6	tàː	tàː	AUX	_	Aspect=Perf|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=226515|AlignEnd=226749|nWord=6|Gloss=3PL.CPL|GE=[3PL].[CPL]|RX=[PNTAM]
+7	ʃíːl	ʃíːl	VERB	_	_	_	_	_	AlignBegin=226749|AlignEnd=226866|nWord=7|Gloss=engage|GE=engage|RX=[V]
+8	=mə	=mə	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=226866|AlignEnd=226983|nWord=7|Gloss=1SG.OBJ|GE=[1SG].[OBJ]|RX=[PRO]
+9	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=226983|AlignEnd=227217|nWord=8|Gloss=wife|GE=wife|RX=[N]
+10	mə́n	mə́n	PART	_	Case=Ben	_	_	_	AlignBegin=227217|AlignEnd=227449|nWord=9|Gloss=BEN|GE=[BEN]|RX=[PTCL]
+11	də̌ːl	də̌ːl	NOUN	_	_	_	_	_	AlignBegin=227449|AlignEnd=227537|nWord=10|Gloss=open_space|GE=open_space|RX=[N]
+12	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=227537|AlignEnd=227625|nWord=10|Gloss=INDF|GE=[INDF]|RX=[ART]
+13	<	<	PUNCT	_	_	_	_	_	AlignBegin=227625|AlignEnd=227800|nWord=11|Gloss=PUNCT|GE=[<]
+14	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=228460|AlignEnd=228696|nWord=12|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+15	fi	fi	VERB	_	_	_	_	_	AlignBegin=228696|AlignEnd=228932|nWord=13|Gloss=do|GE=do|RX=[V]
+16	ʃóːʃòː	ʃóːʃòː	IDEO	_	_	_	_	_	AlignBegin=228932|AlignEnd=229168|nWord=14|Gloss=slowly|GE=slowly|RX=[IDEOPH]
+17	ʃóːʃòː	ʃóːʃòː	IDEO	_	_	_	_	_	AlignBegin=229168|AlignEnd=229405|nWord=15|Gloss=slowly|GE=slowly|RX=[IDEOPH]
+18	séː	séː	SCONJ	_	_	_	_	_	AlignBegin=229405|AlignEnd=229557|nWord=16|Gloss=then|GE=then|RX=[CONJ]
+19	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=229557|AlignEnd=229709|nWord=17|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+20	kap	kap	VERB	_	_	_	_	_	AlignBegin=229709|AlignEnd=229861|nWord=18|Gloss=take|GE=take|RX=[V]
+21	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=229861|AlignEnd=229912|nWord=19|Gloss=wife|GE=wife|RX=[N]
+22	-ês	-ês	DET	_	Definite=Def	_	_	_	AlignBegin=229912|AlignEnd=229963|nWord=19|Gloss=DEF|GE=[DEF]|RX=[ART]
+23	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=229963|AlignEnd=230013|nWord=19|Gloss=RES|GE=[RES]|RX=[TAM]
+24	//	//	PUNCT	_	_	_	_	_	AlignBegin=230013|AlignEnd=230165|nWord=20|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_176-176
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 230165, 231466
+# phonetic_text = tòː kəndá mə fi láːp -kə́nì mèːkyâw // 
+# text = tôː kəndá mə fí láːpkə́nì mèːkyâw //
+# text_en =  Well,  then I became a good Christian. 
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=230165|AlignEnd=230351|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	kəndá	kəndá	SCONJ	_	_	_	_	_	AlignBegin=230351|AlignEnd=230537|nWord=2|Gloss=then|GE=then|RX=[CONJ].[HOM]
+3	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=230537|AlignEnd=230723|nWord=3|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+4	fi	fi	VERB	_	_	_	_	_	AlignBegin=230723|AlignEnd=230909|nWord=4|Gloss=do|GE=do|RX=[V]
+5	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=230909|AlignEnd=231002|nWord=5|Gloss=follow|GE=follow|RX=[V]
+6	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=231002|AlignEnd=231095|nWord=5|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+7	mèːkyâw	mèːkyâw	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=231095|AlignEnd=231281|nWord=6|Gloss=well|GE=well|RX=[ADV].[BW].[HAU]
+8	//	//	PUNCT	_	_	_	_	_	AlignBegin=231281|AlignEnd=231466|nWord=7|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_177-177
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 232420, 233780
+# phonetic_text = àmáː kàm máːtá yisə́ŋ -íː tu yi ʧík // 
+# text = àmáː kàm máːtá yîsə́ŋə́y tu yi ʧík //
+# text_en =  But I knew in that time that it was like this.
+1	àmáː	àmáː	SCONJ	_	_	_	_	_	AlignBegin=232420|AlignEnd=232590|nWord=1|Gloss=but|GE=but|RX=[CONJ]
+2	kàm	kàm	PART	_	_	_	_	_	AlignBegin=232590|AlignEnd=232760|nWord=2|Gloss=indeed|GE=indeed|RX=[PTCL].[TOP]
+3	máːtá	máːtá	AUX	_	Aspect=Perf|Number=Sing|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=232760|AlignEnd=232930|nWord=3|Gloss=1SG.CPL.REM|GE=[1SG].[CPL].[REM]|RX=[PNTAM]
+4	yisə́ŋ	yisə́ŋ	VERB	_	_	_	_	_	AlignBegin=232930|AlignEnd=233015|nWord=4|Gloss=know|GE=know|RX=[V]
+5	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=233015|AlignEnd=233100|nWord=4|Gloss=RES|GE=[RES]|RX=[TAM]
+6	tu	tu	PART	_	_	_	_	_	AlignBegin=233100|AlignEnd=233270|nWord=5|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+7	yi	yi	VERB	_	_	_	_	_	AlignBegin=233270|AlignEnd=233440|nWord=6|Gloss=be|GE=be|RX=[V]
+8	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=233440|AlignEnd=233610|nWord=7|Gloss=thus|GE=thus|RX=[ADV]
+9	//	//	PUNCT	_	_	_	_	_	AlignBegin=233610|AlignEnd=233780|nWord=8|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_178-178
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 234960, 236009
+# phonetic_text = àmáː mətá vər gamatn káy hŋ́ // 
+# text = àmáː mətá vər gamatn káy hŋ́ //
+# text_en =  But I did not rush into it.
+1	àmáː	àmáː	SCONJ	_	_	_	_	_	AlignBegin=234960|AlignEnd=235110|nWord=1|Gloss=but|GE=but|RX=[CONJ]
+2	mətá	mətá	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=235110|AlignEnd=235260|nWord=2|Gloss=1SG.REM|GE=[1SG].[REM]|RX=[PNTAM]
+3	vər	vər	VERB	_	_	_	_	_	AlignBegin=235260|AlignEnd=235410|nWord=3|Gloss=give|GE=give|RX=[V]
+4	gamatn	gamatn	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	AlignBegin=235410|AlignEnd=235560|nWord=4|Gloss=1SG.REFL|GE=[1SG].[REFL]|RX=[PRO]
+5	káy	káy	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=235560|AlignEnd=235710|nWord=5|Gloss=ANAPH|GE=[ANAPH]|RX=[PRO].[ANAPH]
+6	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=235710|AlignEnd=235860|nWord=6|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+7	//	//	PUNCT	_	_	_	_	_	AlignBegin=235860|AlignEnd=236009|nWord=7|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_179-181
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 236009, 238640
+# phonetic_text = myáː vər gamatn káy < tá ɮiː gə̀t -ês -íː tu máː lallaʧé oː // 
+# text = myáː və́r gamatn káy < tá ɮìː gə̀dèʃǐː tu máː lallaʧé oː //
+# text_en =  If I had rushed into it,  they would have taken the woman away saying that I had become spoilt.
+1	myáː	myáː	AUX	_	Mood=Cond|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=236009|AlignEnd=236159|nWord=1|Gloss=1SG.COND|GE=[1SG].[COND]|RX=[PNTAM]
+2	vər	vər	VERB	_	_	_	_	_	AlignBegin=236159|AlignEnd=236309|nWord=2|Gloss=give|GE=give|RX=[V]
+3	gamatn	gamatn	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	_	_	_	AlignBegin=236309|AlignEnd=236459|nWord=3|Gloss=1SG.REFL|GE=[1SG].[REFL]|RX=[PRO]
+4	káy	káy	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=236459|AlignEnd=236609|nWord=4|Gloss=ANAPH|GE=[ANAPH]|RX=[PRO].[ANAPH]
+5	<	<	PUNCT	_	_	_	_	_	AlignBegin=236609|AlignEnd=236760|nWord=5|Gloss=PUNCT|GE=[<]
+6	tá	tá	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=237220|AlignEnd=237431|nWord=6|Gloss=3PL.FUT|GE=[3PL].[FUT]|RX=[PNTAM]
+7	ɮiː	ɮiː	VERB	_	_	_	_	_	AlignBegin=237431|AlignEnd=237642|nWord=7|Gloss=remove|GE=remove|RX=[V]
+8	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=237642|AlignEnd=237713|nWord=8|Gloss=woman|GE=woman|RX=[N]
+9	-ês	-ês	DET	_	Definite=Def	_	_	_	AlignBegin=237713|AlignEnd=237784|nWord=8|Gloss=DEF|GE=[DEF]|RX=[ART]
+10	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=237784|AlignEnd=237854|nWord=8|Gloss=RES|GE=[RES]|RX=[TAM]
+11	tu	tu	PART	_	_	_	_	_	AlignBegin=237854|AlignEnd=238011|nWord=9|Gloss=COMP|GE=[COMP]|RX=[PTCL]
+12	máː	máː	AUX	_	Aspect=Perf|Number=Sing|Person=1|PronType=Prs	_	_	_	AlignBegin=238011|AlignEnd=238168|nWord=10|Gloss=1SG.CPL|GE=[1SG].[CPL]|RX=[PNTAM]
+13	lallaʧé	lallaʧé	VERB	_	_	_	_	_	AlignBegin=238168|AlignEnd=238325|nWord=11|Gloss=spoil|GE=spoil|RX=[V]
+14	oː	oː	PART	_	PartType=Emp	_	_	_	AlignBegin=238325|AlignEnd=238482|nWord=12|Gloss=EMPH|GE=[EMPH]|RX=[PTCL].[ASS]
+15	//	//	PUNCT	_	_	_	_	_	AlignBegin=238482|AlignEnd=238640|nWord=13|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_182-182
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 238960, 239700
+# phonetic_text = ìnʤí tə̀tàyáː wul ʧík // 
+# text = ìnʤí tə̀tàyáː wûl ʧík //
+# text_en =  They woul have said so.
+1	ìnʤí	ìnʤí	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=238960|AlignEnd=239108|nWord=1|Gloss=allegedly|GE=allegedly|RX=[ADV].[BW].[HAU]
+2	tə̀tàyáː	tə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=239108|AlignEnd=239256|nWord=2|Gloss=3PL.REM.ICPL|GE=[3PL].[REM].[ICPL]|RX=[PNTAM]
+3	wul	wul	VERB	_	_	_	_	_	AlignBegin=239256|AlignEnd=239404|nWord=3|Gloss=say|GE=say|RX=[V]
+4	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=239404|AlignEnd=239552|nWord=4|Gloss=thus|GE=thus|RX=[ADV]
+5	//	//	PUNCT	_	_	_	_	_	AlignBegin=239552|AlignEnd=239700|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_183-183
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 240352, 240577
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  OK.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=240352|AlignEnd=240464|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=240464|AlignEnd=240577|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_184-186
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 240800, 242660
+# phonetic_text = m̀ː < kyáː nda -íː ká láːp -kə́nì < tòː kə lallaʧé gwàː -íː // 
+# text = m̀ː < kyáː ndáy ká láːpkə̂n < tôː kə lálláʧé gwǎːy //
+# text_en =  Er,  if you had become a Christian, well, you had completely gone astray.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=240800|AlignEnd=240968|nWord=1|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=240968|AlignEnd=241135|nWord=2|Gloss=PUNCT|GE=[<]
+3	kyáː	kyáː	AUX	_	Mood=Cond|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=241135|AlignEnd=241276|nWord=3|Gloss=2SG.COND|GE=[2SG].[COND]|RX=[PNTAM]
+4	nda	nda	VERB	_	_	_	_	_	AlignBegin=241276|AlignEnd=241346|nWord=4|Gloss=enter|GE=enter|RX=[V]
+5	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=241346|AlignEnd=241417|nWord=4|Gloss=RES|GE=[RES]|RX=[TAM]
+6	ká	ká	ADP	_	_	_	_	_	AlignBegin=241417|AlignEnd=241558|nWord=5|Gloss=at|GE=at|RX=[PREP]
+7	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=241558|AlignEnd=241628|nWord=6|Gloss=follow|GE=follow|RX=[V]
+8	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=241628|AlignEnd=241699|nWord=6|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+9	<	<	PUNCT	_	_	_	_	_	AlignBegin=241699|AlignEnd=241838|nWord=7|Gloss=PUNCT|GE=[<]
+10	tòː	tòː	PART	_	_	_	_	_	AlignBegin=241838|AlignEnd=242002|nWord=8|Gloss=DM|GE=[DM]|RX=[PTCL]
+11	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=242002|AlignEnd=242166|nWord=9|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+12	lallaʧé	lallaʧé	VERB	_	_	_	_	_	AlignBegin=242166|AlignEnd=242330|nWord=10|Gloss=spoil|GE=spoil|RX=[V]
+13	gwàː	gwàː	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=242330|AlignEnd=242412|nWord=11|Gloss=2SG.POS|GE=[2SG].[POS]|RX=[PRO]
+14	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=242412|AlignEnd=242494|nWord=11|Gloss=RES|GE=[RES]|RX=[TAM]
+15	//	//	PUNCT	_	_	_	_	_	AlignBegin=242494|AlignEnd=242660|nWord=12|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_189-189
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 245889, 246960
+# phonetic_text = èː mə nda -íː ká láːp -kə́nì kəndá mə kap // 
+# text = èː mə ndáy ká láːpkə̂n əndá mə káp //
+# text_en =  I became a Christian before I married.
+1	èː	èː	INTJ	_	_	_	_	_	AlignBegin=245889|AlignEnd=246008|nWord=1|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+2	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=246008|AlignEnd=246127|nWord=2|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+3	nda	nda	VERB	_	_	_	_	_	AlignBegin=246127|AlignEnd=246187|nWord=3|Gloss=enter|GE=enter|RX=[V]
+4	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=246187|AlignEnd=246246|nWord=3|Gloss=RES|GE=[RES]|RX=[TAM]
+5	ká	ká	ADP	_	_	_	_	_	AlignBegin=246246|AlignEnd=246365|nWord=4|Gloss=at|GE=at|RX=[PREP]
+6	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=246365|AlignEnd=246425|nWord=5|Gloss=follow|GE=follow|RX=[V]
+7	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=246425|AlignEnd=246484|nWord=5|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+8	kəndá	kəndá	SCONJ	_	_	_	_	_	AlignBegin=246484|AlignEnd=246603|nWord=6|Gloss=then|GE=then|RX=[CONJ].[HOM]
+9	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=246603|AlignEnd=246722|nWord=7|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+10	kap	kap	VERB	_	_	_	_	_	AlignBegin=246722|AlignEnd=246841|nWord=8|Gloss=take|GE=take|RX=[V]
+11	//	//	PUNCT	_	_	_	_	_	AlignBegin=246841|AlignEnd=246960|nWord=9|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_187-190
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 242920, 247780
+# phonetic_text = tòː kə nda -íː ká láːp -kə́nì kəndá kə kap gə̀t kən ŋǎːn // m̀ːhm̂ː // 
+# text = tòː kə ndáy ká láːpkə̂n əndá kə káp gə̀t kəndí ŋǎːn // m̀ːhm̂ː //
+# text_en =  Well you became a Christian then you got married, no?  OK.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=242920|AlignEnd=243057|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=243057|AlignEnd=243194|nWord=2|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+3	nda	nda	VERB	_	_	_	_	_	AlignBegin=243194|AlignEnd=243262|nWord=3|Gloss=enter|GE=enter|RX=[V]
+4	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=243262|AlignEnd=243331|nWord=3|Gloss=RES|GE=[RES]|RX=[TAM]
+5	ká	ká	ADP	_	_	_	_	_	AlignBegin=243331|AlignEnd=243468|nWord=4|Gloss=at|GE=at|RX=[PREP]
+6	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=243468|AlignEnd=243537|nWord=5|Gloss=follow|GE=follow|RX=[V]
+7	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=243537|AlignEnd=243606|nWord=5|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+8	kəndá	kəndá	SCONJ	_	_	_	_	_	AlignBegin=243606|AlignEnd=243757|nWord=6|Gloss=then|GE=then|RX=[CONJ].[HOM]
+9	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=243757|AlignEnd=243908|nWord=7|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+10	kap	kap	VERB	_	_	_	_	_	AlignBegin=243908|AlignEnd=244059|nWord=8|Gloss=take|GE=take|RX=[V]
+11	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=244059|AlignEnd=244210|nWord=9|Gloss=wife|GE=wife|RX=[N]
+12	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=244210|AlignEnd=244361|nWord=10|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+13	ŋǎːn	ŋǎːn	PART	_	_	_	_	_	AlignBegin=244361|AlignEnd=244512|nWord=11|Gloss=QUEST|GE=[QUEST]|RX=[PTCL].[ASS]
+14	//	//	PUNCT	_	_	_	_	_	AlignBegin=244512|AlignEnd=244660|nWord=12|Gloss=PUNCT|GE=[//]
+15	m̀ːhm̂ː	m̀ːhm̂ː	INTJ	_	_	_	_	_	AlignBegin=247402|AlignEnd=247591|nWord=13|Gloss=OK|GE=[OK]|RX=[INTJ]
+16	//	//	PUNCT	_	_	_	_	_	AlignBegin=247591|AlignEnd=247780|nWord=14|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_191-191
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 247780, 248933
+# phonetic_text = m̀ː mə nda -íː ká láːp -kə́nì kəndá mə kap // 
+# text = m̀ː mə ndáy ká láːpkə̂n əndá mə káp //
+# text_en =  Er... I became a Christian before I married.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=247780|AlignEnd=247908|nWord=1|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+2	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=247908|AlignEnd=248036|nWord=2|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+3	nda	nda	VERB	_	_	_	_	_	AlignBegin=248036|AlignEnd=248100|nWord=3|Gloss=enter|GE=enter|RX=[V]
+4	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=248100|AlignEnd=248164|nWord=3|Gloss=RES|GE=[RES]|RX=[TAM]
+5	ká	ká	ADP	_	_	_	_	_	AlignBegin=248164|AlignEnd=248292|nWord=4|Gloss=at|GE=at|RX=[PREP]
+6	láːp	láːp	VERB	_	_	_	_	_	AlignBegin=248292|AlignEnd=248356|nWord=5|Gloss=follow|GE=follow|RX=[V]
+7	-kə́nì	-kə́nì	SCONJ	_	Tense=Pres|VerbForm=Part	_	_	_	AlignBegin=248356|AlignEnd=248420|nWord=5|Gloss=NMLZ|GE=[NMLZ]|RX=[DER]
+8	kəndá	kəndá	SCONJ	_	_	_	_	_	AlignBegin=248420|AlignEnd=248548|nWord=6|Gloss=then|GE=then|RX=[CONJ].[HOM]
+9	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=248548|AlignEnd=248676|nWord=7|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+10	kap	kap	VERB	_	_	_	_	_	AlignBegin=248676|AlignEnd=248804|nWord=8|Gloss=take|GE=take|RX=[V]
+11	//	//	PUNCT	_	_	_	_	_	AlignBegin=248804|AlignEnd=248933|nWord=9|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_192-192
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 248786, 249980
+# phonetic_text = tə́ fi kə̀n naː vìnlaːdì mə́n ?// 
+# text = tə́ fí kə̀n naː vìnlaːdì mə́n ?//
+# text_en =  Did they do a Christian wedding for you? 
+1	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=248786|AlignEnd=248957|nWord=1|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+2	fi	fi	VERB	_	_	_	_	_	AlignBegin=248957|AlignEnd=249128|nWord=2|Gloss=do|GE=do|RX=[V]
+3	kə̀n	kə̀n	PRON	_	Case=Ben|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=249128|AlignEnd=249299|nWord=3|Gloss=2SG.BEN|GE=[2SG].[BEN]|RX=[PRO]
+4	naː	naː	NOUN	_	_	_	_	_	AlignBegin=249299|AlignEnd=249470|nWord=4|Gloss=type|GE=type|RX=[N]
+5	vìnlaːdì	vìnlaːdì	NOUN	_	_	_	_	_	AlignBegin=249470|AlignEnd=249641|nWord=5|Gloss=church|GE=church|RX=[N]
+6	mə́n	mə́n	PART	_	Case=Ben	_	_	_	AlignBegin=249641|AlignEnd=249812|nWord=6|Gloss=BEN|GE=[BEN]|RX=[PTCL]
+7	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=249812|AlignEnd=249980|nWord=7|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_193-193
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 250400, 250840
+# phonetic_text = ḿː'm̀ː // 
+# text = ḿː'm̀ː //
+# text_en =  No.
+1	ḿː'm̀ː	ḿː'm̀ː	INTJ	_	_	_	_	_	AlignBegin=250400|AlignEnd=250620|nWord=1|Gloss=no|GE=no|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=250620|AlignEnd=250840|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_194-194
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 251340, 252241
+# phonetic_text = yáːni gə̀t ʃíːl -i káwêy // 
+# text = yâːn gə̀t ʃíːli káwêy //
+# text_en =  It was just a traditional wedding.
+1	yáːni	yáːni	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=251340|AlignEnd=251520|nWord=1|Gloss=3SG.IDP|GE=[3SG].[IDP]|RX=[PRO]
+2	gə̀t	gə̀t	NOUN	_	_	_	_	_	AlignBegin=251520|AlignEnd=251700|nWord=2|Gloss=wife|GE=wife|RX=[N]
+3	ʃíːl	ʃíːl	VERB	_	_	_	_	_	AlignBegin=251700|AlignEnd=251790|nWord=3|Gloss=engage|GE=engage|RX=[V]
+4	-i	-i	DET	_	Definite=Ind	_	_	_	AlignBegin=251790|AlignEnd=251880|nWord=3|Gloss=INDF|GE=[INDF]|RX=[ART]
+5	káwêy	káwêy	ADV	_	_	_	_	_	AlignBegin=251880|AlignEnd=252060|nWord=4|Gloss=merely|GE=merely|RX=[ADV]
+6	//	//	PUNCT	_	_	_	_	_	AlignBegin=252060|AlignEnd=252241|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_195-198
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 252241, 258040
+# phonetic_text = dòmín < èː mə vər maːt mbə́ɬəŋ tə́ wâː káy // 
+# text = dòmín < èː mə və́r maːt mbə́ɬəŋ tə́ wâː káy //
+# text_en =  Because er,  I gave two goats and  guineacorn.
+1	dòmín	dòmín	SCONJ	_	_	_	_	_	AlignBegin=252241|AlignEnd=252511|nWord=1|Gloss=because|GE=because|RX=[CONJ]
+2	<	<	PUNCT	_	_	_	_	_	AlignBegin=252511|AlignEnd=252780|nWord=2|Gloss=PUNCT|GE=[<]
+3	èː	èː	INTJ	_	_	_	_	_	AlignBegin=254100|AlignEnd=254319|nWord=3|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+4	mə	mə	AUX	_	Number=Sing|Person=1|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=254319|AlignEnd=254584|nWord=4|Gloss=1SG.AOR|GE=[1SG].[AOR]|RX=[PNTAM]
+5	vər	vər	VERB	_	_	_	_	_	AlignBegin=254584|AlignEnd=254849|nWord=5|Gloss=give|GE=give|RX=[V]
+6	maːt	maːt	NOUN	_	_	_	_	_	AlignBegin=254849|AlignEnd=255114|nWord=6|Gloss=goat|GE=goat|RX=[N]
+7	mbə́ɬəŋ	mbə́ɬəŋ	NUM	_	_	_	_	_	AlignBegin=255114|AlignEnd=255380|nWord=7|Gloss=two|GE=two|RX=[NUM]
+8	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=257500|AlignEnd=257635|nWord=8|Gloss=with|GE=with|RX=[PREP]
+9	wâː	wâː	NOUN	_	_	_	_	_	AlignBegin=257635|AlignEnd=257770|nWord=9|Gloss=guineacorn|GE=guineacorn|RX=[N]
+10	káy	káy	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=257770|AlignEnd=257905|nWord=10|Gloss=ANAPH|GE=[ANAPH]|RX=[PRO].[ANAPH]
+11	//	//	PUNCT	_	_	_	_	_	AlignBegin=257905|AlignEnd=258040|nWord=11|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_199-200
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 259000, 262016
+# phonetic_text = tòː tə́ nger maːt -íː tə́ ʧík -íː tə́ gyáː wâː -ês // 
+# text = tôː tə́ ngêr maːɗíː tə́ ʧǐː tə́ gyáː wôːs //
+# text_en =  Well they slaughtered the goats and ate them with the guineacorn.
+1	tòː	tòː	PART	_	_	_	_	_	AlignBegin=259000|AlignEnd=259257|nWord=1|Gloss=DM|GE=[DM]|RX=[PTCL]
+2	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=259257|AlignEnd=259514|nWord=2|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+3	nger	nger	VERB	_	_	_	_	_	AlignBegin=259514|AlignEnd=259771|nWord=3|Gloss=slaughter|GE=slaughter|RX=[V]
+4	maːt	maːt	NOUN	_	_	_	_	_	AlignBegin=259771|AlignEnd=259899|nWord=4|Gloss=goat|GE=goat|RX=[N]
+5	-íː	-íː	AUX	_	Aspect=Res	_	_	_	AlignBegin=259899|AlignEnd=260028|nWord=4|Gloss=RES|GE=[RES]|RX=[TAM]
+6	tə́	tə́	AUX	_	Number=Plur|Person=3|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=260028|AlignEnd=260285|nWord=5|Gloss=3PL.AOR|GE=[3PL].[AOR]|RX=[PNTAM]
+7	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=260285|AlignEnd=260413|nWord=6|Gloss=thus|GE=thus|RX=[ADV]
+8	-íː	-íː	DET	_	PronType=Dem	_	_	_	AlignBegin=260413|AlignEnd=260540|nWord=6|Gloss=DIST|GE=[DIST]|RX=[DEICT]
+9	tə́	tə́	ADP	_	_	_	_	_	AlignBegin=261380|AlignEnd=261539|nWord=7|Gloss=with|GE=with|RX=[PREP]
+10	gyáː	gyáː	DET	_	Number=Plur	_	_	_	AlignBegin=261539|AlignEnd=261698|nWord=8|Gloss=PL|GE=[PL]|RX=[DET]
+11	wâː	wâː	NOUN	_	_	_	_	_	AlignBegin=261698|AlignEnd=261778|nWord=9|Gloss=guineacorn|GE=guineacorn|RX=[N]
+12	-ês	-ês	DET	_	Definite=Def	_	_	_	AlignBegin=261778|AlignEnd=261857|nWord=9|Gloss=DEF|GE=[DEF]|RX=[ART]
+13	//	//	PUNCT	_	_	_	_	_	AlignBegin=261857|AlignEnd=262016|nWord=10|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_201-203
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 262016, 264629
+# phonetic_text = tə̀tàyáː vər mbə́ɬəŋ a: c kóː kúmá gwàː kən kətá vər ʧík a: ?// 
+# text = tə̀tàyáː və̀r mbə́ɬəŋ aː |c kóː kúmá gwàː kən kətá vər ʧík aː ?//
+# text_en =  Did they use to give two or was it you that gave [two] like this? 
+1	tə̀tàyáː	tə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=262016|AlignEnd=262214|nWord=1|Gloss=3PL.REM.ICPL|GE=[3PL].[REM].[ICPL]|RX=[PNTAM]
+2	vər	vər	VERB	_	_	_	_	_	AlignBegin=262214|AlignEnd=262412|nWord=2|Gloss=give|GE=give|RX=[V]
+3	mbə́ɬəŋ	mbə́ɬəŋ	NUM	_	_	_	_	_	AlignBegin=262412|AlignEnd=262610|nWord=3|Gloss=two|GE=two|RX=[NUM]
+4	a:	a:	PART	_	PartType=Int	_	_	_	AlignBegin=262610|AlignEnd=262808|nWord=4|Gloss=VRT|GE=[VRT]|RX=[PTCL].[ASS]
+5	c	c	PART	_	_	_	_	_	AlignBegin=262808|AlignEnd=263006|nWord=5|Gloss=<|GE=[<]
+6	kóː	kóː	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=263006|AlignEnd=263239|nWord=6|Gloss=or|GE=or|RX=[CONJ].[BW].[HAU]
+7	kúmá	kúmá	_	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=263239|AlignEnd=263472|nWord=7|Gloss=and|GE=and|RX=[CONJ].[BW].[HAU]
+8	gwàː	gwàː	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	_	_	_	AlignBegin=263472|AlignEnd=263637|nWord=8|Gloss=2SG.POS|GE=[2SG].[POS]|RX=[PRO]
+9	kən	kən	PART	_	VerbType=Cop	_	_	_	AlignBegin=263637|AlignEnd=263802|nWord=9|Gloss=COP2|Gloss=be|GE=[COP2]|RX=[PTCL].[SYNT].[HOM]
+10	kətá	kətá	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=263802|AlignEnd=263967|nWord=10|Gloss=2SG.REM|GE=[2SG].[REM]|RX=[PNTAM]
+11	vər	vər	VERB	_	_	_	_	_	AlignBegin=263967|AlignEnd=264132|nWord=11|Gloss=give|GE=give|RX=[V]
+12	ʧík	ʧík	ADV	_	_	_	_	_	AlignBegin=264132|AlignEnd=264297|nWord=12|Gloss=thus|GE=thus|RX=[ADV]
+13	a:	a:	PART	_	PartType=Int	_	_	_	AlignBegin=264297|AlignEnd=264462|nWord=13|Gloss=VRT|GE=[VRT]|RX=[PTCL].[ASS]
+14	?//	?//	PUNCT	_	_	_	_	_	AlignBegin=264462|AlignEnd=264629|nWord=14|Gloss=PUNCT|GE=[?//]
+
+# sent_id = SAY_BC_INT_05_Morals_204-204
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 263972, 264374
+# phonetic_text = âː // 
+# text = âː //
+# text_en =  No.
+1	âː	âː	INTJ	_	_	_	_	_	AlignBegin=263972|AlignEnd=264173|nWord=1|Gloss=ah|GE=ah|RX=[EXCL]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=264173|AlignEnd=264374|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_205-205
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 264374, 265520
+# phonetic_text = kóːgyòː átâ yi mbə́ɬəŋ // 
+# text = kóːgyòː átâ yi mbə́ɬəŋ //
+# text_en =  For everyone it was two.
+1	kóːgyòː	kóːgyòː	PRON	_	_	_	_	_	AlignBegin=264374|AlignEnd=264603|nWord=1|Gloss=everyone|GE=everyone|RX=[PRO].[UNIV]
+2	átâ	átâ	AUX	_	Number=Sing|Person=3|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=264603|AlignEnd=264832|nWord=2|Gloss=3SG.REM|GE=[3SG].[REM]|RX=[PNTAM]
+3	yi	yi	VERB	_	_	_	_	_	AlignBegin=264832|AlignEnd=265061|nWord=3|Gloss=be|GE=be|RX=[V]
+4	mbə́ɬəŋ	mbə́ɬəŋ	NUM	_	_	_	_	_	AlignBegin=265061|AlignEnd=265290|nWord=4|Gloss=two|GE=two|RX=[NUM]
+5	//	//	PUNCT	_	_	_	_	_	AlignBegin=265290|AlignEnd=265520|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_206-208
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 267600, 269440
+# phonetic_text = ka ɗiːp m̀ː táwri nə vàrì // 
+# text = ka ɗiːp m̀ː táwri nə vàrì //
+# text_en =  You would buy a... big  castrated goat.
+1	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=267600|AlignEnd=267803|nWord=1|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
+2	ɗiːp	ɗiːp	VERB	_	_	_	_	_	AlignBegin=267803|AlignEnd=268006|nWord=2|Gloss=buy|GE=buy|RX=[V]
+3	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=268006|AlignEnd=268209|nWord=3|Gloss=HESIT|GE=[HESIT]|RX=[INTJ]
+4	táwri	táwri	NOUN	_	_	_	_	_	AlignBegin=268209|AlignEnd=268600|nWord=4|Gloss=castrated_goat|GE=castrated_goat|RX=[N]
+5	nə	nə	PART	_	VerbType=Cop	_	_	_	AlignBegin=268960|AlignEnd=269120|nWord=5|Gloss=COP1|Gloss=be|GE=[COP1]|RX=[PTCL].[SYNT]
+6	vàrì	vàrì	ADJ	_	_	_	_	_	AlignBegin=269120|AlignEnd=269280|nWord=6|Gloss=big|GE=big|RX=[ADJ]
+7	//	//	PUNCT	_	_	_	_	_	AlignBegin=269280|AlignEnd=269440|nWord=7|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_209-209
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 270100, 270840
+# phonetic_text = kə ɗiːp naːʃí káy // 
+# text = kə ɗiːp naːʃí káy //
+# text_en =  You bought a big she-goat with it.
+1	kə	kə	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Pres	_	_	_	AlignBegin=270100|AlignEnd=270248|nWord=1|Gloss=2SG.AOR|GE=[2SG].[AOR]|RX=[PNTAM]
+2	ɗiːp	ɗiːp	VERB	_	_	_	_	_	AlignBegin=270248|AlignEnd=270396|nWord=2|Gloss=buy|GE=buy|RX=[V]
+3	naːʃí	naːʃí	NOUN	_	_	_	_	_	AlignBegin=270396|AlignEnd=270544|nWord=3|Gloss=big_she_goat|GE=big_she_goat|RX=[N]
+4	káy	káy	PRON	_	Case=Ins|Number=Sing|Person=3|PronType=Prs	_	_	_	AlignBegin=270544|AlignEnd=270692|nWord=4|Gloss=ANAPH|GE=[ANAPH]|RX=[PRO].[ANAPH]
+5	//	//	PUNCT	_	_	_	_	_	AlignBegin=270692|AlignEnd=270840|nWord=5|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_210-210
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 271060, 272020
+# phonetic_text = báː ka ɗiːp =ʃí deːdéː hŋ́ // 
+# text = bàː ka ɗiːpʃí deːdéː hŋ́ //
+# text_en =  You would not buy [two of] the same. 
+1	báː	báː	PART	_	Polarity=Neg	_	_	_	AlignBegin=271060|AlignEnd=271220|nWord=1|Gloss=NEG1|GE=[NEG1]|RX=[PTCL].[NEG]
+2	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=271220|AlignEnd=271380|nWord=2|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
+3	ɗiːp	ɗiːp	VERB	_	_	_	_	_	AlignBegin=271380|AlignEnd=271460|nWord=3|Gloss=buy|GE=buy|RX=[V]
+4	=ʃí	=ʃí	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=271460|AlignEnd=271540|nWord=3|Gloss=3PL.OBJ|GE=[3PL].[OBJ]|RX=[PRO]
+5	deːdéː	deːdéː	X	_	Foreign=Yes|Language=hau	_	_	_	AlignBegin=271540|AlignEnd=271700|nWord=4|Gloss=equal|GE=equal|RX=[X].[CSW].[HAU]
+6	hŋ́	hŋ́	PART	_	Polarity=Neg	_	_	_	AlignBegin=271700|AlignEnd=271860|nWord=5|Gloss=NEG2|GE=[NEG2]|RX=[PTCL].[NEG]
+7	//	//	PUNCT	_	_	_	_	_	AlignBegin=271860|AlignEnd=272020|nWord=6|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_211-211
+# speaker_id = SP2
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 272269, 272920
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=272269|AlignEnd=272595|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=272595|AlignEnd=272920|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_212-212
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 272920, 273140
+# phonetic_text = m̀ː // 
+# text = m̀ː //
+# text_en =  Yes.
+1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=272920|AlignEnd=273030|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
+2	//	//	PUNCT	_	_	_	_	_	AlignBegin=273030|AlignEnd=273140|nWord=2|Gloss=PUNCT|GE=[//]
+
+# sent_id = SAY_BC_INT_05_Morals_213-213
+# speaker_id = SP1
+# sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
+# sent_timecode = 274560, 275180
+# phonetic_text = ka ɗiːp táwri // 
+# text = ka ɗíːp táwri //
+# text_en =  You would buy a castrated goat.
+1	ka	ka	AUX	_	Number=Sing|Person=2|PronType=Prs|Tense=Fut	_	_	_	AlignBegin=274560|AlignEnd=274715|nWord=1|Gloss=2SG.FUT|GE=[2SG].[FUT]|RX=[PNTAM]
+2	ɗiːp	ɗiːp	VERB	_	_	_	_	_	AlignBegin=274715|AlignEnd=274870|nWord=2|Gloss=buy|GE=buy|RX=[V]
+3	táwri	táwri	NOUN	_	_	_	_	_	AlignBegin=274870|AlignEnd=275025|nWord=3|Gloss=castrated_goat|GE=castrated_goat|RX=[N]
+4	//	//	PUNCT	_	_	_	_	_	AlignBegin=275025|AlignEnd=275180|nWord=4|Gloss=PUNCT|GE=[//]
