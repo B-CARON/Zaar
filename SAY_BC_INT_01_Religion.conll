@@ -8,6 +8,7 @@
 # text_en =  Hm.
 1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=3660|AlignEnd=3790|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
 2	//	//	PUNCT	_	_	_	_	_	AlignBegin=3790|AlignEnd=3920|nWord=2|Gloss=PUNCT|GE=[//]
+
 # sent_id = SAY_BC_INT_01_Religion_001-005
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_01_Religion.WAV

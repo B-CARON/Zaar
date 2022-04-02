@@ -8,6 +8,7 @@
 # text_en =  Yes.
 1	m̀ː	m̀ː	INTJ	_	_	_	_	_	AlignBegin=6880|AlignEnd=7150|nWord=1|Gloss=yes|GE=yes|RX=[INTJ]
 2	//	//	PUNCT	_	_	_	_	_	AlignBegin=7150|AlignEnd=7420|nWord=2|Gloss=PUNCT|GE=[//]
+
 # sent_id = SAY_BC_INT_05_Morals_001-007
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/SAY/WAV/SAY_BC_INT_05_Morals.WAV
