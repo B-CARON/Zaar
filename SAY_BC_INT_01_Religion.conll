@@ -1575,7 +1575,7 @@
 15	mumtsə́	mumtsə́	NOUN	_	_	_	_	_	AlignBegin=269325|AlignEnd=269622|nWord=13|Gloss=masquerade|GE=masquerade|RX=[N]
 16	ɗan	ɗan	PRON	_	_	_	_	_	AlignBegin=269622|AlignEnd=269920|nWord=14|Gloss=that|GE=that|RX=[REL]
 17	kə̀tàyáː	kə̀tàyáː	AUX	_	Aspect=Imp|Number=Plur|Person=2|PronType=Prs|Tense=Rem	_	_	_	AlignBegin=269920|AlignEnd=270088|nWord=15|Gloss=2PL.REM.ICPL|GE=[2PL].[REM].[ICPL]|RX=[PNTAM]
-18	ʧaː	ʧaː	AUX	_	_	_	_	_	AlignBegin=270088|AlignEnd=270257|nWord=15
+18	ʧaː	ʧaː	AUX	_	_	_	_	_	AlignBegin=270088|AlignEnd=270257|Gloss=__MISSING__|nWord=15
 19	=ʃí	=ʃí	VERB	_	_	_	_	_	AlignBegin=270257|AlignEnd=270369|nWord=16|Gloss=put|GE=put|RX=[V]
 20	=wáːsə̀ŋ	=wáːsə̀ŋ	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=270369|AlignEnd=270481|nWord=16|Gloss=3PL.OBJ|GE=[3PL].[OBJ]|RX=[PRO]
 21	-íː	-íː	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	AlignBegin=270481|AlignEnd=270594|nWord=16|Gloss=3PL.POS|GE=[3PL].[POS]|RX=[PRO]
