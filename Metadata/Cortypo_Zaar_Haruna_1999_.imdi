@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2013-11-29"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.4.36550:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>Cortypo_Zaar_Haruna (1999)</Name>
+                <Title>Haruna Danladi</Title>
+                <Description LanguageId="" Link="">Interview session January 1999
+
+Interview of Haruna Danladi, (circ. 85), by Sunday M. Dariya (circ. 40), about Zaar culture and history, using the Frankfurt ethnological questionnaire. Both speakers are Zaars.
+Zaar (Saya) is a Chadic SBW language, spoken by around 150,000  speakers in Tafawa Balewa and Bogoro LGA's, Bauchi State, Nigeria.</Description>
+        
+      <CorpusLink Name="">Cortypo_Zaar_Haruna_1999_/SAY_BC_INT_03_Calendar.imdi</CorpusLink>
+      <CorpusLink Name="">Cortypo_Zaar_Haruna_1999_/SAY_BC_INT_01_Religion.imdi</CorpusLink>
+      <CorpusLink Name="">Cortypo_Zaar_Haruna_1999_/SAY_BC_INT_04_Hunt.imdi</CorpusLink>
+      <CorpusLink Name="">Cortypo_Zaar_Haruna_1999_/SAY_BC_INT_02_Burial.imdi</CorpusLink>
+      <CorpusLink Name="">Cortypo_Zaar_Haruna_1999_/SAY_BC_INT_05_Morals.imdi</CorpusLink>
+      
+      
+      
+      
+   </Corpus>
+</METATRANSCRIPT>

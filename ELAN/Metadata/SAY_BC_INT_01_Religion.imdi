@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2011-07-04"
+                FormatId="IMDI 3.0"
+                Originator="Editor - Profile:local/SESSION.Profile.xml"
+                Type="SESSION"
+                Version="55"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+    <Session>
+        <Name>SAY_BC_INT_01_Religion</Name>
+        <Title>Religion</Title>
+        <Date>1999-01-13</Date>
+        <Description LanguageId="" Link="">Interview of Haruna Danladi by Sunday M. Dariya 
+Session organised in the author's study in Tundun Wada (Bauchi State, Nigeria)
+Topic : Religion</Description>
+        <MDGroup>
+            <Location>
+                <Continent Link="http://www.mpi.nl/IMDI/Schema/Continents.xml"
+                       Type="ClosedVocabulary">Africa</Continent>
+                <Country Link="http://www.mpi.nl/IMDI/Schema/Countries.xml"
+                     Type="ClosedVocabulary">Nigeria</Country>
+                <Region>Bauchi State</Region>
+                <Address>Tudun Wada, Bogoro Local Government</Address>
+            </Location>
+            <Project>
+                <Name>Cortypo</Name>
+                <Title>Designing spoken corpora for cross-linguistic research</Title>
+                <Id>ANR-12-BSH2-0011</Id>
+                <Contact>
+                    <Name>METTOUCHI, Amina</Name>
+                    <Address>CNRS-Llacan 7, rue Guy-Môquet 94800 VILLEJUIF</Address>
+                    <Email>mettouchi@vjf.cnrs.fr</Email>
+                    <Organisation>LLACAN</Organisation>
+                </Contact>
+                
+            </Project>
+            <Keys/>
+            <Content>
+                <Genre Link="http://www.mpi.nl/IMDI/Schema/Content-Genre.xml"
+                   Type="OpenVocabulary">Discourse</Genre>
+                <SubGenre DefaultLink=""
+                      Link="http://www.mpi.nl/IMDI/Schema/Content-SubGenre-Discourse.xml"
+                      Type="OpenVocabularyList">Interview</SubGenre>
+                <Task Link="http://www.mpi.nl/IMDI/Schema/Content-Task.xml"
+                  Type="OpenVocabulary">Unspecified</Task>
+                <Modalities Link="http://www.mpi.nl/IMDI/Schema/Content-Modalities.xml"
+                        Type="OpenVocabularyList">speech</Modalities>
+                <Subject DefaultLink=""
+                     Link="http://www.mpi.nl/IMDI/Schema/Content-Subject.xml"
+                     Type="OpenVocabularyList">Religion</Subject>
+                <CommunicationContext>
+                    <Interactivity Link="http://www.mpi.nl/IMDI/Schema/Content-Interactivity.xml"
+                              Type="ClosedVocabulary">non-interactive</Interactivity>
+                    <PlanningType Link="http://www.mpi.nl/IMDI/Schema/Content-PlanningType.xml"
+                             Type="ClosedVocabulary">semi-spontaneous</PlanningType>
+                    <Involvement Link="http://www.mpi.nl/IMDI/Schema/Content-Involvement.xml"
+                            Type="ClosedVocabulary">non-elicited</Involvement>
+                    <SocialContext Link="http://www.mpi.nl/IMDI/Schema/Content-SocialContext.xml"
+                              Type="ClosedVocabulary">Private</SocialContext>
+                    <EventStructure Link="http://www.mpi.nl/IMDI/Schema/Content-EventStructure.xml"
+                               Type="ClosedVocabulary">Monologue</EventStructure>
+                    <Channel Link="http://www.mpi.nl/IMDI/Schema/Content-Channel.xml"
+                        Type="ClosedVocabulary">Face to Face</Channel>
+                </CommunicationContext>
+                <Languages>
+                    <Description LanguageId="ISO639-2:eng" Link="">Zaria Hausa.</Description>
+                    <Language ResourceRef="WR-16 MF-14 WR-15 MF-13">
+                        <Id>ISO639-3:say</Id>
+                        <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                        Type="OpenVocabulary">Zaar (Saya)</Name>
+                        <Dominant>true</Dominant>
+                        <SourceLanguage>Unspecified</SourceLanguage>
+                        <TargetLanguage>Unspecified</TargetLanguage>
+                        <Description LanguageId="ISO639-2:eng" Link="">Chadic language. 150 000 speakers in the south of Bauchi State
+Local variety represented in the recording : Zaar of Bogoro</Description>
+                    </Language>
+                </Languages>
+                <Keys/>
+                <Description LanguageId="ISO639-2:eng" Link="">Dialogue between 2 friends born and brought-up in Jama'a, Zaria, Kaduna State (Nigeria); 16 year old secondary school girls.</Description>
+            </Content>
+            <Actors>
+                <Description LanguageId="" Link=""/>
+                <Actor ResourceRef="WR-24 MF-26 WR-25 MF-23">
+                    <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Speaker/Signer</Role>
+                    <Name>Danladi</Name>
+                    <FullName>Haruna DANLADI</FullName>
+                    <Code>SP1</Code>
+                    <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Elder</FamilySocialRole>
+                    <Languages>
+                        <Description LanguageId="ISO639-2:eng" Link="">1st language : Zaar
+2nd language : Hausa</Description>
+                        <Language>
+                            <Id>ISO639-3:say</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Zaar (Saya)</Name>
+                            <MotherTongue>true</MotherTongue>
+                            <PrimaryLanguage>Unspecified</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link=""/>
+                        </Language>
+                        
+                    </Languages>
+                    <EthnicGroup Type="OpenVocabulary">Zaar (Saya)</EthnicGroup>
+                    <Age>81</Age>
+                    <BirthDate>1918</BirthDate>
+                    <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+                    <Education>None</Education>
+                    <Anonymized>true</Anonymized>
+                    <Contact>
+                        <Name>Bernard Caron</Name>
+                        <Address>7, rue Guy Moquet, 94800 VILLEJUIF, France</Address>
+                        <Email>caron@vjf.cnrs.fr</Email>
+                        <Organisation>CNRS-LLACAN</Organisation>
+                    </Contact>
+                    <Keys/>
+                    <Description LanguageId="ISO639-2:eng" Link="">81 years old male. One of the respected elders of the village. Early Christian convert.</Description>
+                </Actor>
+                <Actor ResourceRef="MF-22 WR-21">
+                    <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Translator</Role>
+                    <Name>Marvellous</Name>
+                    <FullName>Marvellous S. DAVAN</FullName>
+                    <Code>MSD</Code>
+                    <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Student</FamilySocialRole>
+                    <Languages>
+                        <Description LanguageId="ISO639-2:eng" Link="">1st language : Zaar
+Regional language : Hausa
+Education &amp; working language : English</Description>
+                        <Language>
+                            <Id>ISO639-3:say</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Zaar</Name>
+                            <MotherTongue>true</MotherTongue>
+                            <PrimaryLanguage>true</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link="">Zaar : mother tongue</Description>
+                        </Language>
+                        <Language>
+                            <Id>ISO639-3:hau</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Hausa</Name>
+                            <MotherTongue>false</MotherTongue>
+                            <PrimaryLanguage>Unspecified</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link="">Regional language. Chadic language</Description>
+                        </Language>
+                        <Language>
+                            <Id>ISO639-3:eng</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">English</Name>
+                            <MotherTongue>false</MotherTongue>
+                            <PrimaryLanguage>Unspecified</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link="">Education language (secondary school).</Description>
+                        </Language>
+                    </Languages>
+                    <EthnicGroup Type="OpenVocabulary">Zaar</EthnicGroup>
+                    <Age>20</Age>
+                    <BirthDate>1979-04-18</BirthDate>
+                    <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+                    <Education>Secondary</Education>
+                    <Anonymized>Unspecified</Anonymized>
+                    <Contact>
+                        <Name>Bernard CARON</Name>
+                        <Address>7, rue Guy Moquet, 94800 VILLEJUIF, France</Address>
+                        <Email>caron@vjf.cnrs.fr</Email>
+                        <Organisation>CNRS - LLACAN</Organisation>
+                    </Contact>
+                    <Keys/>
+                    <Description LanguageId="ISO639-2:eng" Link="">Language assistant and contact person in the village. Son to the village head.</Description>
+                </Actor>
+                <Actor ResourceRef="MF-22 WR-21">
+                    <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Author</Role>
+                    <Name>Caron</Name>
+                    <FullName>Bernard CARON</FullName>
+                    <Code/>
+                    <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Researcher</FamilySocialRole>
+                    <Languages>
+                        <Description LanguageId="" Link=""/>
+                        <Language>
+                            <Id>ISO639-3:fra</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">French</Name>
+                            <MotherTongue>true</MotherTongue>
+                            <PrimaryLanguage>Unspecified</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link="">1st language. Not used in the session.</Description>
+                        </Language>
+                        <Language>
+                            <Id>ISO639-3:eng</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">English</Name>
+                            <MotherTongue>false</MotherTongue>
+                            <PrimaryLanguage>Unspecified</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link="">Fluent. Communication language with English-speaking collaborators.</Description>
+                        </Language>
+                        <Language>
+                            <Id>ISO639-3:hau</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Hausa</Name>
+                            <MotherTongue>false</MotherTongue>
+                            <PrimaryLanguage>Unspecified</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link="">Near-fluent. Communication language with villagers.</Description>
+                        </Language>
+                        <Language>
+                            <Id>ISO639-3:say</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Zaar</Name>
+                            <MotherTongue>Unspecified</MotherTongue>
+                            <PrimaryLanguage>Unspecified</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link="">Basic. For basic communication with older speakers of Zaar.</Description>
+                        </Language>
+                    </Languages>
+                    <EthnicGroup Type="OpenVocabulary">French</EthnicGroup>
+                    <Age>55</Age>
+                    <BirthDate>1954-08-15</BirthDate>
+                    <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+                    <Education>Professor</Education>
+                    <Anonymized>Unspecified</Anonymized>
+                    <Contact>
+                        <Name>Bernard Caron</Name>
+                        <Address>7, rue Guy-Môquet - 94800 VILLEJUIF</Address>
+                        <Email>caron.bernard@yahoo.fr</Email>
+                        <Organisation>CNRS-LLACAN</Organisation>
+                    </Contact>
+                    <Keys/>
+                    <Description LanguageId="ISO639-2:eng" Link="">Collector and annotator with the help of M.S. Davan, language assistant.</Description>
+                </Actor>
+                <Actor ResourceRef="WR-24 MF-26 WR-25 MF-23">
+                    <Role Link="http://www.mpi.nl/IMDI/Schema/Actor-Role.xml"
+                     Type="OpenVocabularyList">Interviewer</Role>
+                    <Name>Dariya</Name>
+                    <FullName>Sunday M. Dariya</FullName>
+                    <Code>SP2</Code>
+                    <FamilySocialRole Link="http://www.mpi.nl/IMDI/Schema/Actor-FamilySocialRole.xml"
+                                 Type="OpenVocabularyList">Unspecified</FamilySocialRole>
+                    <Languages>
+                        <Description LanguageId="ISO639-2:eng" Link="">Trilingual : Zaar - Hausa - English</Description>
+                        
+                        <Language>
+                            <Id>ISO639-3:say</Id>
+                            <Name Link="http://www.mpi.nl/IMDI/Schema/MPI-Languages.xml"
+                           Type="OpenVocabulary">Zaar (Saya)</Name>
+                            <MotherTongue>true</MotherTongue>
+                            <PrimaryLanguage>Unspecified</PrimaryLanguage>
+                            <Description LanguageId="ISO639-2:eng" Link=""/>
+                        </Language>
+                    </Languages>
+                    <EthnicGroup Type="OpenVocabulary">Zaar (Saya)</EthnicGroup>
+                    <Age>41</Age>
+                    <BirthDate>1960</BirthDate>
+                    <Sex Link="http://www.mpi.nl/IMDI/Schema/Actor-Sex.xml"
+                    Type="ClosedVocabulary">Male</Sex>
+                    <Education>Secondary</Education>
+                    <Anonymized>true</Anonymized>
+                    <Contact>
+                        <Name>Bernard CARON</Name>
+                        <Address>7, rue Guy Moquet, 94800 VILLEJUIF; France</Address>
+                        <Email>caron@vjf.cnrs.fr</Email>
+                        <Organisation>CNRS-Llacan</Organisation>
+                    </Contact>
+                    <Keys/>
+                    <Description LanguageId="ISO639-2:eng" Link="">Language assistant to the author</Description>
+                </Actor>
+            </Actors>
+        </MDGroup>
+        <Resources>
+            <MediaFile ResourceId="MF-26">
+                <ResourceLink>../../../../../..//Users/Bernard/Local Settings/Application Data/.arbil/ArbilWorkingFiles/20131129145553/20131129145553/SAY_BC_INT_01_Religion.wav</ResourceLink>
+                <Type Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Type.xml"
+                  Type="ClosedVocabulary">audio</Type>
+                <Format Link="http://www.mpi.nl/IMDI/Schema/MediaFile-Format.xml"
+                    Type="OpenVocabulary">audio/x-wav</Format>
+                <Size>07:52 mn</Size>
+                <Quality>5</Quality>
+                <RecordingConditions>sony Minidisc recorder ; Sennheiser ME66 microphone ; 48 000 Hz ; 16 bits; some echo</RecordingConditions>
+                <TimePosition>
+                    <Start>00:00:00:0</Start>
+                    <End>00:07:52</End>
+                </TimePosition>
+                <Access>
+                    <Availability Type="OpenVocabulary"/>
+                    <Date>Unspecified</Date>
+                    <Owner/>
+                    <Publisher/>
+                    <Contact>
+                        <Name/>
+                        <Address/>
+                        <Email/>
+                        <Organisation/>
+                    </Contact>
+                    <Description LanguageId="" Link=""/>
+                </Access>
+                <Description LanguageId="ISO639-2:eng"
+                         Link="../02- RECHERCHE/CORTYPO/WORKBENCH/ELAN/HAU_BC_narr_03.eaf">Annotated in Elan</Description>
+                <Keys/>
+            </MediaFile>
+            <WrittenResource ResourceId="WR-25">
+                <ResourceLink>../../../../../..//Users/Bernard/Local Settings/Application Data/.arbil/ArbilWorkingFiles/20131129145553/20131129145553/SAY_BC_INT_01_Religion.eaf</ResourceLink>
+                <MediaResourceLink>SAY_BC_INT_01_Religion.wav</MediaResourceLink>
+                <Date>2013-11-29</Date>
+                <Type Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Type.xml"
+                  Type="OpenVocabulary">Annotation</Type>
+                <SubType DefaultLink=""
+                     Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-SubType-Annotation.xml"
+                     Type="OpenVocabularyList">Morphosyntax</SubType>
+                <Format Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Format.xml"
+                    Type="OpenVocabulary">text/x-imdi+xml</Format>
+                <Size Type="OpenVocabulary">1834 ko</Size>
+                <Validation>
+                    <Type Link="http://www.mpi.nl/IMDI/Schema/Validation-Type.xml"
+                     Type="ClosedVocabulary">Unspecified</Type>
+                    <Methodology Link="http://www.mpi.nl/IMDI/Schema/Validation-Methodology.xml"
+                            Type="ClosedVocabulary">Unspecified</Methodology>
+                    <Level>Unspecified</Level>
+                    <Description LanguageId="" Link=""/>
+                </Validation>
+                <Derivation Link="http://www.mpi.nl/IMDI/Schema/WrittenResource-Derivation.xml"
+                        Type="ClosedVocabulary">Unspecified</Derivation>
+                <CharacterEncoding>Unicode</CharacterEncoding>
+                <ContentEncoding>Leipzig Glossing Rules</ContentEncoding>
+                <LanguageId Type="OpenVocabulary"/>
+                <Anonymized>Unspecified</Anonymized>
+                <Access>
+                    <Availability Type="OpenVocabulary"/>
+                    <Date>Unspecified</Date>
+                    <Owner/>
+                    <Publisher/>
+                    <Contact>
+                        <Name/>
+                        <Address/>
+                        <Email/>
+                        <Organisation/>
+                    </Contact>
+                    <Description LanguageId="" Link=""/>
+                </Access>
+                <Description LanguageId="ISO639-2:eng" Link="">Sound-aligned broad phonetic transcription, free translation, and morpho-syntactic labelling in Elan format, using Leipzig glossing rules.</Description>
+                <Keys/>
+            </WrittenResource>
+            <Anonyms>
+                <ResourceLink/>
+                <Access>
+                    <Availability Type="OpenVocabulary"/>
+                    <Date>Unspecified</Date>
+                    <Owner/>
+                    <Publisher/>
+                    <Contact>
+                        <Name/>
+                        <Address/>
+                        <Email/>
+                        <Organisation/>
+                    </Contact>
+                    <Description LanguageId="" Link=""/>
+                </Access>
+            </Anonyms>
+        </Resources>
+        <References>
+            <Description LanguageId="" Link=""/>
+        </References>
+    </Session>
+</METATRANSCRIPT>

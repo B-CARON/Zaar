@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2013-12-09"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.4.36550:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>Zaar Music (1993)</Name>
+                <Title>Zaar Music</Title>
+                <Description LanguageId="" Link="">Zaar (Saya)</Description>
+        <CorpusLink Name="">Zaar_Music_1993_/Zaar_Grinding_Song_1993-12-11.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>

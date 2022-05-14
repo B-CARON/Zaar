@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<METATRANSCRIPT xmlns="http://www.mpi.nl/IMDI/Schema/IMDI"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                Date="2014-01-24"
+                FormatId="IMDI 3.03"
+                Originator="Arbil.2.4.36550:"
+                Type="CORPUS"
+                Version="0"
+                xsi:schemaLocation="http://www.mpi.nl/IMDI/Schema/IMDI ./IMDI_3.0.xsd">
+        <Corpus>
+                <Name>Cortypo_Zaar_IFRA  (2013)</Name>
+                <Title>Zaar_IFRA</Title>
+                <Description LanguageId="" Link="">Recording of Zaar texts published in (Caron, B. (2005) Za:r (Dictionary, grammar, texts), IFRA, Ibadan (Nigeria).), read by Marvellous S. Davan in a recording studio in Villejuif, nov-dec 2013. 
+
+The recording was then edited by the author, by automatically reducing silences (i.e. long hesitation pauses), removing multiple takes, etc. with the audio editor 'Goldwave'. 
+
+Zaar  is a South-Bauchi West Chadic language spoken in the South of Bauchi State (Nigeria) around Tafawa Balewa and Bogoro LGA's by about 150,000 speakers.</Description>
+        
+      <CorpusLink Name="">Cortypo_Zaar_IFRA_2013_/CORPUS_IFRA-Beer.imdi</CorpusLink>
+      <CorpusLink Name="">Cortypo_Zaar_IFRA_2013_/CORPUS_IFRA-Proverbs.imdi</CorpusLink>
+      <CorpusLink Name="">Cortypo_Zaar_IFRA_2013_/CORPUS_IFRA-Sermon.imdi</CorpusLink>
+      <CorpusLink Name="">Cortypo_Zaar_IFRA_2013_/CORPUS_IFRA-SONG_1.imdi</CorpusLink>
+      <CorpusLink Name="">Cortypo_Zaar_IFRA_2013_/CORPUS_IFRA-SONG_2.imdi</CorpusLink>
+   </Corpus>
+</METATRANSCRIPT>
